@@ -1,72 +1,66 @@
 # Getting Started
 
-Two paths to building your personal context portfolio. Pick whichever fits.
+`context/identity.md`, `current-projects.md`, `tools-and-systems.md`, and
+`preferences-and-constraints.md` are done and wired into live automations
+(see `AGENT-CONTEXT.md`). What's left is the rest of the ten-file set —
+team-and-relationships, communication-style, goals-and-priorities,
+domain-knowledge, decision-log — still sitting as empty templates in
+`/templates`.
 
 ---
 
-## Path 1: Use the Web App
+## Filling in what's left
 
-The fastest way. A purpose-built interviewer agent handles the whole process.
+Work through the templates with an AI build partner (Claude Code, Cowork,
+whatever's on hand).
 
-1. Go to [app URL].
-2. Sign in with your email (magic link, no password needed).
-3. The agent introduces itself and starts the interview.
-4. It works through all ten files in sequence — asking you questions, drafting each file, and asking you to correct what it got wrong.
-5. You can stop after any file and come back later. It picks up where you left off.
-6. When you're done, download your complete portfolio as a zip.
+1. Open a template file from `/templates`.
+2. Copy the entire file and paste it to the build partner.
+3. Say "let's do this one."
+4. It reads the interview protocol embedded in the template and starts
+   asking questions.
+5. When it has enough, it drafts the file. Read the draft and correct
+   what's wrong.
+6. Save the final version into `context/` (promote it from `templates/`),
+   so it's on the same footing as the files already wired into
+   automations.
 
-The whole thing takes 30-60 minutes if you do it in one sitting. Most people spread it across a few sessions.
+**Suggested order:**
 
----
-
-## Path 2: Do It Yourself
-
-Fork this repo and work through the templates with your own AI build partner (Claude, ChatGPT, or whatever you use).
-
-1. Fork or clone this repo.
-2. Open any template file from `/templates`.
-3. Copy the entire file and paste it to your AI build partner.
-4. Say "let's do this one."
-5. Your build partner will read the interview protocol embedded in the template and start asking you questions.
-6. When it has enough, it'll draft the file. Read the draft and tell it what's wrong.
-7. Save the final version. Move to the next template.
-
-**Recommended order:** Start with `identity.md` and `role-and-responsibilities.md`. Everything else builds on those two. After that, the order matters less — go with whatever feels most relevant to your work right now.
-
-**Suggested full sequence:**
-
-1. `identity.md`
-2. `role-and-responsibilities.md`
-3. `current-projects.md`
-4. `team-and-relationships.md`
-5. `tools-and-systems.md`
-6. `communication-style.md`
-7. `goals-and-priorities.md`
-8. `preferences-and-constraints.md`
-9. `domain-knowledge.md`
-10. `decision-log.md`
+1. `team-and-relationships.md`
+2. `communication-style.md`
+3. `goals-and-priorities.md`
+4. `preferences-and-constraints.md` (already started — extend it)
+5. `domain-knowledge.md`
+6. `decision-log.md`
 
 ---
 
-## After You Build It
+## Wiring a new file or tool in
 
-Your portfolio is a set of markdown files. That's the point — they're portable. But they don't do anything until you wire them into the tools you actually use.
+`context/` files already sync into four Cowork Routines automatically
+(see the "Wired-in automations" section of `AGENT-CONTEXT.md` for how).
+For anything else — a new Routine, Claude Projects, MCP, or another tool
+entirely — `wiring/` has guides for:
 
-The `/wiring` directory has guides for:
-
-- Exposing your portfolio as an MCP resource
+- Exposing this repo as an MCP resource
 - Using it in Claude Projects
-- Connecting it to OpenClaw agents
 - Copy-paste patterns for system prompts
-- Building an API layer
+- Building an API layer (only if something needs to query this
+  programmatically — most things don't)
 
-This is the part that turns your portfolio from "a nice set of documents" into actual infrastructure. Start with whatever tool you use most.
+Start with whatever tool the new context needs to reach.
 
 ---
 
 ## Tips
 
-- **Be specific, not aspirational.** The portfolio should describe how you actually work, not how you wish you worked. Your agents need ground truth.
-- **Don't skip the reaction pass.** When your build partner drafts a file, read it and find what's wrong. The corrections are where the real signal is. A rubber-stamped draft is a mediocre file.
-- **Short is better than long.** A good context file is one page, not five. Agents perform better with dense, high-signal context than with sprawling documents.
-- **Update regularly.** Projects change, priorities shift, you learn new tools. A portfolio that's six months stale is worse than no portfolio — it gives your agents confident but wrong context.
+- **Be specific, not aspirational.** Describe how I actually work, not
+  how I wish I worked. Agents need ground truth.
+- **Don't skip the reaction pass.** Read every draft and find what's
+  wrong. The corrections are where the real signal is.
+- **Short is better than long.** One page beats five. Agents perform
+  better on dense, high-signal context than sprawling documents.
+- **Update `context/`, not individual automation prompts.** That's the
+  whole point of the wiring — one edit here should be enough. A portfolio
+  that's stale gives every agent confident but wrong context.

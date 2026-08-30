@@ -8,7 +8,7 @@ This is the most powerful wiring option because it makes your portfolio automati
 
 ## How It Works
 
-Your portfolio is a folder of markdown files. An MCP server exposes that folder as a resource. Any MCP-compatible client (Claude Desktop, Claude Code, OpenClaw, etc.) connects to the server and can read any file in your portfolio.
+Your portfolio is a folder of markdown files. An MCP server exposes that folder as a resource. Any MCP-compatible client (Claude Desktop, Claude Code, Cowork, etc.) connects to the server and can read any file in your portfolio.
 
 ## Basic Setup
 
