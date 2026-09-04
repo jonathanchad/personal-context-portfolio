@@ -23,9 +23,9 @@ Per [tools.breakthroughstrategies.co](https://tools.breakthroughstrategies.co/) 
   Ad Library. Captures every ad, analyses the messaging and its veracity,
   tracks themes and coordination across advertisers.
 
-**Not on the tools page** despite being named in the `tool-documentation`
-skill: **Zoltar**. Worth confirming whether it's retired, internal-only,
-or the skill just needs updating.
+**Not on the tools page:** **Zoltar** and **VibeMentor** — both named
+elsewhere (Zoltar in the `tool-documentation` skill) but neither ever
+came to fruition. Not live products; don't treat them as active.
 
 ## Charlotte (separate entity — Charlotte Project Pty Ltd)
 
