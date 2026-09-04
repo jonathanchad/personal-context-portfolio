@@ -4,13 +4,16 @@ Source of truth for what Jonathan is actively working on. **Update this
 file, not individual automation prompts, when a client or project starts,
 ends, or changes status.**
 
-## Products (Breakthrough Strategies Co.)
+## Products (Breakthrough Tools, a subset of Breakthrough Strategies Co.)
 
 - **CapacityAI** — primary focus
 - **OPPO**
 - **AI Signal**
-- **Charlotte** (Charlotte Project Pty Ltd) — always-on digital persuasion
-  operation
+
+## Charlotte (separate entity — Charlotte Project Pty Ltd)
+
+Always-on digital persuasion operation, philanthropically funded. Not a
+Breakthrough Tools product — see `identity.md` for the entity structure.
 
 ## Active client / campaign work
 
