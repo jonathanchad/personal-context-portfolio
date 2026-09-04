@@ -6,9 +6,26 @@ ends, or changes status.**
 
 ## Products (Breakthrough Tools, a subset of Breakthrough Strategies Co.)
 
-- **CapacityAI** — primary focus
-- **OPPO**
-- **AI Signal**
+Per [tools.breakthroughstrategies.co](https://tools.breakthroughstrategies.co/) — the authoritative list:
+
+- **CapacityAI** (LIVE) — primary focus. A persuasion platform for
+  advocacy organisations: applies research-backed persuasion science to
+  generate, evaluate, and improve strategic communications (media
+  releases, talking points, social content, and more).
+- **AI Signal** (BETA) — tracks how your organisation shows up in AI
+  answers. Measures whether LLMs name you and adopt your arguments on the
+  policy questions that matter, and how that shifts over time.
+- **Erso** (BETA) — predicts how industry will respond to any scenario
+  (a policy announcement, geopolitical shock, court ruling). Returns a
+  structured intelligence report: who moves, what they ask for, and the
+  early-warning signals to watch.
+- **OPPO** (BETA) — monitors opposition's paid advertising through Meta's
+  Ad Library. Captures every ad, analyses the messaging and its veracity,
+  tracks themes and coordination across advertisers.
+
+**Not on the tools page** despite being named in the `tool-documentation`
+skill: **Zoltar**. Worth confirming whether it's retired, internal-only,
+or the skill just needs updating.
 
 ## Charlotte (separate entity — Charlotte Project Pty Ltd)
 

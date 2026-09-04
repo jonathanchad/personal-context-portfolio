@@ -16,7 +16,8 @@ Three distinct things, easy to conflate:
   communications and campaigns practice.
   - **Breakthrough Tools** — a subset of work under Breakthrough
     Strategies Co., not a separate company. The software products live
-    here: CapacityAI (primary focus), OPPO, AI Signal.
+    here: CapacityAI (primary focus), AI Signal, Erso, OPPO — see
+    `current-projects.md` for what each does.
 - **Charlotte Project Pty Ltd** — a separate legal entity, not a division
   of Breakthrough Strategies Co. Runs "Charlotte," Australia's always-on
   digital persuasion operation (formerly the Social Media Machine / SMM),
