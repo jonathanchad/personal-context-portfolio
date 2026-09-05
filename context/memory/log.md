@@ -2,6 +2,11 @@
 
 Newest first. Format: `YYYY-MM-DD — entry` with a source in brackets.
 
+- 2026-09-05 — Jonathan set the voice: friendly, funny (self-deprecating,
+  Ryan Reynolds register), concise; no AI tells ever; no em dashes ever;
+  email = context, ask, explanation if needed, ask again. Written into
+  `communication-style.md` and as a hard rule in preferences. [this session]
+
 - 2026-09-05 — Jonathan: Mike = Mike Cannon-Brookes (BE funder); Simon is
   a paid Charlotte consultant; Think Big FG (Sally Hurst) is the BTS
   bookkeeper; Sentiment Agency = influencer-focused digital/campaign shop;

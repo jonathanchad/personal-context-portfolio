@@ -11,7 +11,8 @@ confirming the parts that were pattern-matched rather than stated.
 3. **`goals-and-priorities.md`** — the "Tradeoffs" section: is the
    meetings-over-closes pattern something to counterbalance, or how you
    actually want to work?
-4. **`communication-style.md`** — the three open questions at the bottom.
+4. **`communication-style.md`** — signature phrases; whether the register
+   shifts by audience.
 5. **`worlds/personal.md`** — P&C role; anything else agents should protect.
 
 ## How to update

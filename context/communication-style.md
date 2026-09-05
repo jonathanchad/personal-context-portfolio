@@ -1,26 +1,41 @@
 # Communication Style
 
-How Jonathan sounds, so anything written on his behalf sounds like him.
-The canonical voice guidance already lives in skills — this file points
-at them and records what's known. Don't duplicate the skills here.
+How Jonathan sounds, so anything written as him sounds like him.
+Confirmed by Jonathan, 5 Sep 2026. The writer skills carry the worked
+examples; this file is the rule set.
 
-## Canonical sources (read these first)
+## The voice
 
-- `linkedin-post-writer` — Jonathan's public voice, worked examples.
-- `edm-writer` — list email: structure, tone-to-segment, AU Spam Act.
-- `remove-ai-flourishes` — the standing style guard. Apply to every draft.
-- Weekly AAR prompt — tone for coaching/feedback contexts.
-
-## Baseline
-
+- **Friendly, funny, concise.** The humour is self-deprecating, in the
+  Ryan Reynolds register: quick, dry, at his own expense, never at the
+  reader's. One good line beats three.
+- **Concise.** Say it, then stop. Short paragraphs. No warm-up, no
+  wind-down.
 - **Australian English**, always.
-- Direct over diplomatic. In feedback and review contexts the standing
-  instruction is "very blunt, very candid, zero flattery — do not soften,
-  hedge, or pad."
-- Field jargon and acronyms without expansion (SOW, ALP, MCA, GSCC, LAN,
-  AFAE, CANA, JCN, PMO). Don't define them for him.
-- Warm and plain when writing *to* Jonathan (Donna's brief): no
-  flourishes, spoken numbers and dates in audio.
+- **No AI tells. Ever.** Run `remove-ai-flourishes` on every draft before
+  it goes anywhere.
+- **No em dashes.** Not one. Use a comma, a full stop, or a new sentence.
+  (This file and the rest of `context/` are internal notes and use them;
+  anything written *as* Jonathan does not.)
+
+## Email and message structure
+
+1. **A bit of context.** One or two lines on why he's writing.
+2. **The ask.** Plain, early, unmissable.
+3. **More explanation if it's needed.** Only if it is.
+4. **Repeat the ask.** Close with the clear ask again, so the reader
+   leaves knowing exactly what to do.
+
+## By context
+
+- **Coaching and review** (the AAR, feedback to him): blunt, candid, zero
+  flattery. Do not soften, hedge or pad.
+- **Writing to him** (Donna's daily brief): warm, plain, no flourishes;
+  spoken numbers and dates in audio.
+- **Field jargon** stays unexpanded: SOW, ALP, MCA, GSCC, LAN, AFAE, CANA,
+  JCN, PMO, and the four Breakthrough Tools by name.
+- Whether the register shifts between funders, clients and team:
+  not stated; assume the same voice with the humour dialled to the room.
 
 ## What to strip (from `remove-ai-flourishes`)
 
@@ -29,8 +44,13 @@ Em-dash sandwiches; "it's not just X, it's Y"; rule-of-three padding;
 closers; cleft and fronted sentences that delay the subject; flat
 declaratives that assert without arguing.
 
-## Open — Jonathan to fill in
+## Canonical sources
 
-- Email structure: lead with the ask, or context first? Bullets or prose?
-- How much the register shifts between funders, clients, and team.
+- `linkedin-post-writer` — public voice, worked examples.
+- `edm-writer` — list email structure, tone-to-segment, AU Spam Act.
+- `remove-ai-flourishes` — the standing style guard.
+- Weekly AAR prompt — tone for coaching contexts.
+
+## Still open
+
 - Signature phrases he actually uses, and words he never uses.
