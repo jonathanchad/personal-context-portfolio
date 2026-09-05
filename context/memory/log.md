@@ -2,6 +2,11 @@
 
 Newest first. Format: `YYYY-MM-DD — entry` with a source in brackets.
 
+- 2026-09-05 — Tradeoffs stated: protect the P&C time capsule event
+  (big priority this month); consulting retainer hours can slide;
+  LinkedIn and pitch work can definitely slide; everything else still
+  has to find time. Written into goals Tradeoffs and personal.md.
+  [Jonathan]
 - 2026-09-05 — Charlotte 30-day priority: build the team AND assemble a
   bench of support consultants and creatives in parallel (no time to
   sequence); get experiments off the ground; content as soon as

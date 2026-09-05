@@ -78,10 +78,31 @@ The go-to-market pattern that has worked is in
 
 ## Tradeoffs and what's deliberately not prioritised
 
-*Not yet stated by Jonathan.* The observed pattern in the AARs — new
-relationships and pitch work winning over administrative closure — is
-recorded as a pattern, not a preference. Until he says otherwise, agents
-surface unsent closes ahead of new opportunities.
+In Jonathan's words, 5 Sep 2026:
+
+**Protect**
+
+- **The P&C time capsule event.** His big personal priority this month.
+  Community celebration, not a fundraiser: button-making machine,
+  commemorative pins, sausage sizzle, Urban Sketchers, student
+  interviews and performances, notable alumni. He's running the run
+  sheet. 14 RSVPs as of the 25 Aug P&C meeting. *Date not yet in this
+  repo: ask.* Agents treat prep for it as real work, not a distraction,
+  and never schedule over it.
+
+**Let slide (the AAR should not nag about these)**
+
+- **Consulting hours on the retainers.** Delivering at or under the cap
+  is fine. Under-servicing a retainer this month is acceptable;
+  over-servicing is still not.
+- **LinkedIn and pitch work.** "Can definitely slide." No posting cadence
+  to defend; no new-business pitches to chase. The AAR pattern of pitch
+  work winning over closure is now the wrong way round: unsent closes
+  still come first, new pitches don't.
+
+**Everything else still has to find time.** Charlotte (team, bench,
+experiments, content), the tools targets, Pan Pacs training and family
+are not on the slide list. The AAR reports the gap on those.
 
 ## What success looks like at 20 December
 
