@@ -2,6 +2,10 @@
 
 Newest first. Format: `YYYY-MM-DD — entry` with a source in brackets.
 
+- 2026-09-05 — Charlotte 30-day priority: hire the team; if not, a bench
+  of support consultants; get experiments off the ground. Critical
+  milestone is the Victorian state election (28 Nov 2026). Written into
+  goals and charlotte.md. [Jonathan]
 - 2026-09-05 — Tools goal made concrete: 2–3 paying users each for
   CapacityAI (JCN already) and OPPO; land one for AI Signal. Erso has
   no revenue target and stays in beta. Purpose is revenue to justify

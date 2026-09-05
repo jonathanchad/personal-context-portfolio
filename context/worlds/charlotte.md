@@ -55,6 +55,10 @@ launch.
 **Three questions asked of everything:** is the design right; does the
 content deliver the design; is sentiment moving (directional, not causal).
 
+**Critical external milestone: Victorian state election, Sat 28 Nov
+2026.** The first live moment Charlotte must be operating for; the
+30 Nov and 4 Dec deliverables land on top of it. Plan backwards from it.
+
 **Other dates:** paid-media proposal 8 Sep; brand by 14 Oct; entity,
 governance and compliance framework plus conflicts register by 31 Oct;
 two independent directors and board terms of reference by 31 Dec. Hub
@@ -87,6 +91,10 @@ overhead.
   of the Ecosystem Lead; an Operations role (0.4–0.6 FTE) is missing from
   the chart and defaults to him. Pipeline: Tim Baxter, Deepa Seely,
   Becky, the ex-Sunrise network via Danny, Charlie Wood.
+- **Sep to early Oct priority (Jonathan, 5 Sep):** hire the team. If that
+  can't be done in time, assemble a bench of support consultants so the
+  work starts anyway (Moira, Simon Hobbs and the adviser list are the
+  obvious starting points). Fallback, not plan.
 - **Advisers:** Rebecca Huntley (89 Degrees East) on evaluation design;
   decision pending on whether 89DE runs the research. Legal: Kiera Peacock
   (Ripple Legal), Sam Loff (HSF Kramer).
