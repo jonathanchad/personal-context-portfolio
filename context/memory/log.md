@@ -2,6 +2,10 @@
 
 Newest first. Format: `YYYY-MM-DD — entry` with a source in brackets.
 
+- 2026-09-05 — Hand-off prompt written: prompts/nura-country-assessment.md
+  (finish the Middle Powers Australian country assessment from the 1 Sep
+  draft, using the ALP research, the "Understanding Australia" memo,
+  polling on hand, Erso/OPPO/AI Signal; Dione note first). [this session]
 - 2026-09-05 — Nura item identified from Mary Fitzgerald's 14 Aug
   "analysis request": the Australian country assessment for Nura Fund's
   Middle Powers climate comms strategy, EUR 500 honorarium, due end Aug,

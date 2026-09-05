@@ -31,8 +31,10 @@ agents wherever possible (see `context/maintenance.md`).
 | `context/memory/log.md` | Dated log of decisions that changed this context | Before proposing a change |
 | `context/maintenance.md` | Who keeps each file current, and the weekly loop | Before editing anything here |
 
-`templates/`, `examples/`, `wiring/`, `interview-protocol/` are the
-original generic template this repo started from — reference only.
+`prompts/` holds reusable hand-off prompts for specific jobs (paste into
+a fresh Cowork or Claude Desktop session). `templates/`, `examples/`,
+`wiring/`, `interview-protocol/` are the original generic template this
+repo started from — reference only.
 
 ## How an automation uses this
 
