@@ -44,7 +44,7 @@ Worlds: **CH** Charlotte · **BT** Breakthrough Tools · **CO** Consulting ·
 | Katie's digital network | Adam Knobel (Progress), Rob Flaherty (US digital), Austin Phillips (PMO digital), Georgia Kriz, Kate Ryan, Harry Nelly, Liz Bennett | | "Charlotte Draft outreach list" sheet, Jul 2026 — warm intros via Katie |
 | Global SMM network | Tom Lillywhite (UK), Ben Brandzel (OPEN), Sandor Madovy (Amplify:Good), Kevin Grandia (Canada), Ian Palmer (NZ), Gautam Raju (Movember), Mary Fitzgerald (CommsHub / Meliore) | | Thursday Social Media Meeting group (Notion Contacts) |
 | David Turnbull, Mary Fitzgerald | Climate Communications / Comms Hub (Meliore Foundation) | david.turnbull@climatecomms.org, mary.fitzgerald@climatecomms.org | Grant registration; Meliore is the prospective Diesel funder |
-| Nura Fund (Nura Foundation) | Sprint funder, $400k | | Referral form completed Aug 2026. Jonathan's note 5 Sep: "report on AMS" owed (meaning to confirm) |
+| Nura Fund (Nura Foundation) | Sprint funder, $400k | | Referral form completed Aug 2026. Jonathan owes Nura a summary of the political environment (BTS work) |
 | Kiera Peacock (Ripple Legal), Sam Loff (HSF Kramer) | Legal counsel | kiera@ripplelegal.au | |
 
 ## Yajilarra Trust — funder (Tradie Shift; Charlotte from month 7)  [CH · CO]
@@ -89,7 +89,10 @@ Fortnightly "Diesel Group" and "gas tax core strategy" meetings.
 | Minderoo | N Comparti, N Cera, B Jafari |
 | LEAN | Louise, Jude, Felicity, Janaline |
 | Others | John Daley; Nick Haines (Watershed Change); Charlie Caruso; Christina Hobbs (Future Group); Joe Rafalowicz (Greenpeace); Rob Potter, Tim Lamacraft (Smart Energy Council); Deidre Willmott (Fortescue); Alex Engel-Mallon (Climate Council); Daniel Sherrell (ACTU); Miles Prosser, Toby Phillips (CPD); Jane, Thomas (ThinkForward); Lachlan (Curtin RC); Mandala Partners (Amit Singh, Tom McMahon, Nikhil Babu) |
-| GSCC | Dan Hurst — energy-security digital campaign |
+| GSCC | Dan Hurst — **funded Your Shout Gas**; energy-security digital campaign scoped |
+| Sunshine Coast Environment Council (SCEC) | Steph | Past: an evaluation, paid for by Environmental Legacy Foundation |
+| Reliability Watch | (tool: calculates and reports coal emissions; not an org to route to) |
+| Prime Minister's Office (PMO) | Subject of, and partner in, some reliability and sustainability work; memo sent 1 Aug. Not a funder |
 
 ## Your Shout Gas  [CO]
 
@@ -101,7 +104,7 @@ Freestone.
 | Org | People | Status |
 |---|---|---|
 | Environment Victoria | **Jonno La Nauze** (CEO), A. Merory | Notion: past client; active again Sep 2026 (OPPO report, Charlotte overview owed) |
-| 89 Degrees East | Rebecca Huntley (Director of Research; advising Charlotte's evaluation design), Annie O'Rourke, Scott Gamble | **Not a client** (Jonathan, worksheet 5 Sep). AI Signal measurement idea sits with their Sunrise work, Sunrise is the counterparty; investment roadmap for Charlotte |
+| 89 Degrees East | Rebecca Huntley (Director of Research; key person; advising Charlotte's evaluation design), Annie O'Rourke (name from email; Jonathan said "Ann O'Reilly" by voice, confirm), Scott Gamble | **Polling and research firm Jonathan does research with; not a client** (worksheet 5 Sep). AI Signal measurement idea sits with their Sunrise work, Sunrise is the counterparty; investment roadmap for Charlotte |
 | Jewish Climate Network (JCN) | Basya Vorchheimer, Jarred | CapacityAI onboarding / demo (blocked on v4) |
 | Australian Climate & Biodiversity Foundation (ACBF) | Marguerite Pettit, Dave Copeman, Olivia (marguerite@ / dave@ / olivia@climatebiodiversity.org) | **OPPO proposal sent 31 Aug 2026**; keen to sign up; 15 Sep Senate disallowance vote is their hook |
 | Footy for Climate | Alexi (Lex) Lynch (CEO), Caroline Duffield, Owen Kelly, Tom Campbell | **Pending**: board fundraising training wanted in coming months; board survey ran Aug 2026; FFC Contacts sheet is theirs |

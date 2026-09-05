@@ -2,6 +2,15 @@
 
 Newest first. Format: `YYYY-MM-DD — entry` with a source in brackets.
 
+- 2026-09-05 — Corrections after the worksheet: "prospects, not
+  pending" (no contracts); GSCC funded Your Shout Gas; Reliability Watch
+  is a coal-emissions reporting tool, PMO is the Prime Minister's Office
+  (subject and partner), neither a funder; 89 Degrees East is a polling
+  and research firm Jonathan works with, Rebecca Huntley key; AFAE role =
+  Solar Sharer leadership plus operations (no CEO there); LAN billed to
+  CANA; Nura is owed a political-environment summary (BTS work); SCEC
+  (Sunshine Coast Environment Council) past, paid by ELF, contact Steph.
+  [Jonathan]
 - 2026-09-05 — Client Reconciliation Worksheet returned annotated.
   consulting.md rewritten into Funders (Boundless Earth, CANA, Nura,
   Meliore) / Current (AFAE, JCN, Lock the Gate, LAN) / Pending (ACBF

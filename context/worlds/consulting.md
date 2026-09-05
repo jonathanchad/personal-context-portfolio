@@ -28,21 +28,25 @@ trail. Three kinds of counterparty, and agents must not blur them:
 
 | Funder | Pays for | Entity | Evidence |
 |---|---|---|---|
-| **Boundless Earth** (BE) [1] | Your Shout Gas (BTS); Charlotte build (CP). Also GSCC energy-security work [14] and the Reliability Watch / PMO conversations [15] sit under BE | BTS + CP | 2026-00004 Feb; Apr invoice to Dione; INV-0008 $313,995 (5 Aug); INV-0009 $198,000 "BE: Solar Dividend/AFAE" (13 Aug) |
+| **Boundless Earth** (BE) [1] | Your Shout Gas (BTS); Charlotte build (CP). The Reliability Watch / PMO work [15] sits under BE | BTS + CP | 2026-00004 Feb; Apr invoice to Dione; INV-0008 $313,995 (5 Aug); INV-0009 $198,000 "BE: Solar Dividend/AFAE" (13 Aug) |
 | **CANA** (Climate Action Network Australia) [3] | Charlotte build (CP, $170k executed 28 Jul); LAN wind-down (BTS) | BTS + CP | INV-0004 $4,920.30, INV-0006 $3,366, INV-0011 $1,575.75; CP INV-0001 $66,000 (1 of 3), paid. "Solutions for Climate" in Notion is the same counterparty |
-| **Nura Foundation** (Nura Fund) [added by hand] | Charlotte build ($400k) | CP | Jonathan's note: "report on AMS" (owed; expand this note when the reporting requirement is known) |
+| **Nura Foundation** (Nura Fund) [added by hand] | Charlotte build ($400k). Separately, Jonathan owes Nura **a summary of the political environment**, done as BTS work | CP + BTS | Political-environment summary is open |
+| **GSCC** [14] | **Funded Your Shout Gas.** An energy-security digital campaign is also scoped; scoping doc owed to Dan Hurst | BTS | |
 | **Meliore Foundation** [16] | Your Shout Gas rapid-response gas campaign | BTS | Contract 2604-3669, invoiced 23 Apr 2026. **Past** |
 
 ### Current clients
 
 | Client | What we do | Notes |
 |---|---|---|
-| **AFAE** (Australians for Affordable Energy) [2] | Solar Sharer maintenance and ops. ~10 hr/month retainer. Director **Margo Lockhart**; Comms Lead **Alex Linton** (alex@afae.net.au) | Over-servicing flagged in 3 consecutive AARs. INV-0012 $4,028.20 July, paid 15 Aug. Hire done, no further rounds |
+| **AFAE** (Australians for Affordable Energy) [2] | Jonathan holds the **Solar Sharer leadership role** and also **helps run operations**, because AFAE has no CEO or leadership team. ~10 hr/month retainer. Director **Margo Lockhart**; Comms Lead **Alex Linton** (alex@afae.net.au) | Over-servicing flagged in 3 consecutive AARs. INV-0012 $4,028.20 July, paid 15 Aug. Hire done, no further rounds |
 | **JCN** (Jewish Climate Network) [4] | **CapacityAI subscription**, $495/month | INV-0001, 0007, 0013. Belongs to `breakthrough-tools.md` as a paying user; listed here so billing routes correctly |
 | **Lock the Gate** [7] | Occasional work | INV-0003 $385 (2 Jul). Not a retainer |
-| **LAN** (Liberals Against Nuclear) [8] | Operations until shutdown. "Your billable wind-down." Statement of work overdue since early Aug | Billed through CANA. Barry Traill. LAN's techniques are the "proven techniques" pillar in the Charlotte pitch |
+| **LAN** (Liberals Against Nuclear) [8] | Operations until shutdown. "Your billable wind-down." Statement of work overdue since early Aug | **Billed to CANA.** Barry Traill. LAN's techniques are the "proven techniques" pillar in the Charlotte pitch |
 
-### Pending and pipeline
+### Prospects
+
+Jonathan's word, 5 Sep: **prospects, not pending.** Pending would mean a
+contract exists; none of these has one.
 
 | Org | Where it stands | Notes |
 |---|---|---|
@@ -51,15 +55,15 @@ trail. Three kinds of counterparty, and agents must not blur them:
 | **Environment Victoria** [12] | OPPO report led the conversation. Owed the Charlotte overview and the AFAE JD | CEO Jonno La Nauze |
 | **Footy for Climate** [6] | Board fundraising training course wanted in the coming months. Board survey ran Aug 2026 | Lex Lynch (CEO). No invoice in 12 months |
 | **Independent Schools NSW** (ISNSW; Notion also has "AISNSW") [13] | Future course, 2027 | Two invoices paid May 2026. Emilia Wales |
-| **GSCC** [14] | Energy-security digital campaign scoped; scoping doc owed to Dan Hurst | **Boundless Earth funded** |
 | **Together (ASU)** [26] | **CapacityAI prospect** | Alex Scott, Branch Secretary |
 
 ### Not clients (do not route as clients)
 
 | Org | Why | Worksheet |
 |---|---|---|
-| **89 Degrees East** | Rebecca Huntley advises Charlotte's evaluation; the ~$30k AI Signal measurement idea sits with their Sunrise work, and Sunrise is the counterparty | [11] |
-| **Reliability Watch, PMO** | Conversations only, under Boundless Earth | [15] |
+| **89 Degrees East** | **A polling and research firm Jonathan does research with**, not a client. Key person Rebecca Huntley (advising Charlotte's evaluation design). The ~$30k AI Signal measurement idea sits with their Sunrise work; Sunrise would be the payer | [11] |
+| **Reliability Watch** | **A tool that calculates and reports coal emissions.** Not a funder, not a client. Related work sits under Boundless Earth | [15] |
+| **PMO** (Prime Minister's Office) | **The subject of the work, and a partner** in some of the reliability and sustainability work. Not a funder, not a client. Memo sent 1 Aug | [15] |
 | **COP31 Epic** | A Boundless Earth project, paid Feb 2026 | [18] |
 | **Politiv Advisory** (Larissa Brown) | Boundless's project lead on Charlotte; travel reimbursement only | [19] |
 | **Lockslie Consulting** (Les White) | **Partner consultant** on Charlotte's payroll | [23] |
@@ -74,8 +78,9 @@ Emissions [21] · Stichting European Climate Foundation (ECF; Notion's
 "PIE" is the same) [22] · Meliore Foundation [16] · Food Connect
 Foundation · Food Ladder · Gazette News (Anna Saulwick) · Groundswell
 Giving (Stephen) · Gudanji for Country · Kids First Australia · Laura
-Henry · Parramatta Mission · Sunshine Coast Environment Council (paid
-for by Environmental Legacy Foundation) [25] · ARCC · For the Love of
+Henry · Parramatta Mission · Sunshine Coast Environment Council (SCEC;
+an evaluation a while ago, paid for by Environmental Legacy Foundation;
+contact Steph) [25] · ARCC · For the Love of
 Dogs · Trawalla Foundation · Australians for Mental Health [26].
 
 Removed from client lists at Jonathan's mark: Soul Freedom Movement,
@@ -85,15 +90,15 @@ struck; treated as past until he says otherwise.
 ### Still open
 
 - Customers for BTS Xero **INV-0002** and **INV-0010** (never emailed).
-- What "report on AMS" for Nura means and when it is due.
+- When the Nura political-environment summary is due.
 - Worksheet sections E and F (rulings, Notion approvals) were not in the
   scan; Notion status changes are listed in `GETTING-STARTED.md` and wait
   for a tick.
 
 ## Programmes running under funders
 
-- **Your Shout Gas** — Boundless campaign (Dione Scheltus), Meliore
-  rapid-response money earlier. Weekly WIP with Gather Media (Sam,
+- **Your Shout Gas** — funded by Boundless (Dione Scheltus), GSCC, and
+  Meliore rapid-response money earlier. Weekly WIP with Gather Media (Sam,
   Charlie Freestone). Nidhi Bolar invoices monthly.
 - **Charlotte build** — see `charlotte.md`. Funders: Boundless, CANA,
   Nura.
