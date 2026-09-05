@@ -16,10 +16,17 @@ separate company. Authoritative list:
 **Never came to fruition (not products):** Zoltar, VibeMentor. The
 `tool-documentation` skill still lists Zoltar — that reference is stale.
 
+## Targets to December 2026 (Jonathan, 5 Sep)
+
+Revenue is the goal: enough paying users to justify further development.
+CapacityAI 2–3 paying users (JCN already a client). OPPO 2–3 paying
+users. AI Signal: land one (89 Degrees East ~$30k scoped, not closed).
+
 ## Current state (as of late Aug 2026)
 
-- **CapacityAI** — the stated primary, but for several consecutive weeks
-  it "got nothing". Open blocker: evidence-integrity-rules v4, gating the
+- **CapacityAI** — JCN (Basya Vorchheimer, Jarred) is a paying client;
+  onboarding done Jul 2026. The stated primary, but for several
+  consecutive weeks it "got nothing". Open blocker: evidence-integrity-rules v4, gating the
   JCN demo, carried untouched for 3+ weeks as of 8 Aug.
 - **AI Signal** — went from dormant/zero revenue to ~AUD 30k of scoped
   work with 89 Degrees East (Scott Gamble, Annie O'Rourke) by offering to

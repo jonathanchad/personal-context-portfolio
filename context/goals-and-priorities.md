@@ -50,10 +50,19 @@ Training is a fixed commitment. Agents plan around it, not through it.
 
 ### 3. Keep momentum on the Breakthrough tools
 
-CapacityAI (live), AI Signal, Erso, OPPO (beta). *What "momentum" means
-concretely is still to be pinned down with Jonathan* — the AAR has
-recorded CapacityAI "getting nothing" for several consecutive weeks, so
-the honest baseline is: any protected time at all is the first win.
+Momentum means **revenue**: enough paying users to justify the cost of
+developing the tools further. By December:
+
+| Tool | Target | Where it stands (5 Sep) |
+|---|---|---|
+| CapacityAI | 2–3 paying users | JCN (Jewish Climate Network) is already a client |
+| OPPO | 2–3 paying users | Environment Victoria and ACBF have had OPPO reports; none paying yet |
+| AI Signal | Land one paying user | 89 Degrees East ~$30k scoped, not closed |
+
+*Jonathan said "CapacityAI and both tools"; read as CapacityAI and OPPO.
+If Erso was meant, say so.* The go-to-market pattern that has worked is
+in `worlds/breakthrough-tools.md`: sell the measurement, not the
+software.
 
 ## Tradeoffs and what's deliberately not prioritised
 
