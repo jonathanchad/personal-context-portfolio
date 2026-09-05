@@ -20,7 +20,9 @@ separate company. Authoritative list:
 
 Revenue is the goal: enough paying users to justify further development.
 CapacityAI 2–3 paying users (JCN already a client). OPPO 2–3 paying
-users. AI Signal: land one (89 Degrees East ~$30k scoped, not closed).
+users. AI Signal: land one. (The ~$30k 89 Degrees East measurement idea
+is not a client relationship, per Jonathan's 5 Sep worksheet; if it
+proceeds, Sunrise is the counterparty.)
 Erso: **no revenue target** (Jonathan, 5 Sep 2026). It stays in beta; agents
 should not propose Erso pitches or Erso build work as a route to revenue.
 
@@ -31,13 +33,16 @@ should not propose Erso pitches or Erso build work as a route to revenue.
   consecutive weeks it "got nothing". Open blocker: evidence-integrity-rules v4, gating the
   JCN demo, carried untouched for 3+ weeks as of 8 Aug.
 - **AI Signal** — went from dormant/zero revenue to ~AUD 30k of scoped
-  work with 89 Degrees East (Scott Gamble, Annie O'Rourke) by offering to
+  measurement work around 89 Degrees East's Sunrise campaign (Scott
+  Gamble, Annie O'Rourke; 89DE itself is **not a client**, Sunrise would
+  be the payer) by offering to
   *measure* whether their Sunrise work lands, rather than pitching software.
 - **OPPO** — led with an OPPO report (not a demo) to Environment Victoria.
-  **ACBF**: proposal sent 31 Aug 2026, chased 4 Sep; they said they are
-  keen to sign up; their deadline hook is the 15 Sep Senate disallowance
+  **ACBF**: proposal at **$3k/month** sent 31 Aug 2026, chased 4 Sep; they
+  said they are keen to sign up; their deadline hook is the 15 Sep Senate disallowance
   vote. **Sunrise**: asked for a Victorian election proposal that
-  includes OPPO. Two live routes to the 2–3 paying users target.
+  includes OPPO. **Together (ASU)** is a CapacityAI prospect (Alex Scott).
+  Two live routes to the OPPO target.
 
 ## Go-to-market pattern (Jonathan's own, from the AAR)
 

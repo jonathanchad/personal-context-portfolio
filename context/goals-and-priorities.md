@@ -68,9 +68,9 @@ developing the tools further. By December:
 
 | Tool | Target | Where it stands (5 Sep) |
 |---|---|---|
-| CapacityAI | 2–3 paying users | JCN (Jewish Climate Network) is already a client |
-| OPPO | 2–3 paying users | ACBF proposal sent 31 Aug (keen; 15 Sep Senate vote is their hook); Sunrise wants OPPO in a Victorian election proposal; Environment Victoria had a report. None paying yet |
-| AI Signal | Land one paying user | 89 Degrees East ~$30k scoped, not closed |
+| CapacityAI | 2–3 paying users | JCN (Jewish Climate Network) is already a subscriber at $495/month; Together (ASU) is a prospect |
+| OPPO | 2–3 paying users | ACBF proposal at $3k/month sent 31 Aug (keen; 15 Sep Senate vote is their hook); Sunrise wants OPPO in a Victorian election proposal; Environment Victoria had a report. None paying yet |
+| AI Signal | Land one paying user | ~$30k measurement idea around 89 Degrees East's Sunrise work, not closed; 89DE is not a client, Sunrise would pay |
 | Erso | **No revenue target.** Stays in beta; don't pitch it or spend build time chasing revenue for it | — |
 
 The go-to-market pattern that has worked is in

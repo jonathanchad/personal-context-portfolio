@@ -44,7 +44,7 @@ Worlds: **CH** Charlotte · **BT** Breakthrough Tools · **CO** Consulting ·
 | Katie's digital network | Adam Knobel (Progress), Rob Flaherty (US digital), Austin Phillips (PMO digital), Georgia Kriz, Kate Ryan, Harry Nelly, Liz Bennett | | "Charlotte Draft outreach list" sheet, Jul 2026 — warm intros via Katie |
 | Global SMM network | Tom Lillywhite (UK), Ben Brandzel (OPEN), Sandor Madovy (Amplify:Good), Kevin Grandia (Canada), Ian Palmer (NZ), Gautam Raju (Movember), Mary Fitzgerald (CommsHub / Meliore) | | Thursday Social Media Meeting group (Notion Contacts) |
 | David Turnbull, Mary Fitzgerald | Climate Communications / Comms Hub (Meliore Foundation) | david.turnbull@climatecomms.org, mary.fitzgerald@climatecomms.org | Grant registration; Meliore is the prospective Diesel funder |
-| Nura Fund | Sprint funder, $400k | | Referral form completed Aug 2026 |
+| Nura Fund (Nura Foundation) | Sprint funder, $400k | | Referral form completed Aug 2026. Jonathan's note 5 Sep: "report on AMS" owed (meaning to confirm) |
 | Kiera Peacock (Ripple Legal), Sam Loff (HSF Kramer) | Legal counsel | kiera@ripplelegal.au | |
 
 ## Yajilarra Trust — funder (Tradie Shift; Charlotte from month 7)  [CH · CO]
@@ -101,12 +101,12 @@ Freestone.
 | Org | People | Status |
 |---|---|---|
 | Environment Victoria | **Jonno La Nauze** (CEO), A. Merory | Notion: past client; active again Sep 2026 (OPPO report, Charlotte overview owed) |
-| 89 Degrees East | Rebecca Huntley (Director of Research; advising Charlotte's evaluation design), Annie O'Rourke, Scott Gamble | ~AUD 30k AI Signal measurement, Sunrise work; investment roadmap for Charlotte |
+| 89 Degrees East | Rebecca Huntley (Director of Research; advising Charlotte's evaluation design), Annie O'Rourke, Scott Gamble | **Not a client** (Jonathan, worksheet 5 Sep). AI Signal measurement idea sits with their Sunrise work, Sunrise is the counterparty; investment roadmap for Charlotte |
 | Jewish Climate Network (JCN) | Basya Vorchheimer, Jarred | CapacityAI onboarding / demo (blocked on v4) |
 | Australian Climate & Biodiversity Foundation (ACBF) | Marguerite Pettit, Dave Copeman, Olivia (marguerite@ / dave@ / olivia@climatebiodiversity.org) | **OPPO proposal sent 31 Aug 2026**; keen to sign up; 15 Sep Senate disallowance vote is their hook |
-| Footy for Climate | Alexi (Lex) Lynch (CEO), Caroline Duffield, Owen Kelly, Tom Campbell | Current, light: board survey (Aug 2026); board fundraising training wanted in coming months; FFC Contacts sheet is theirs |
-| Surfers for Climate | Rick, Josh, Ry | Prospect; active Aug–Sep |
-| 1 Million Women | Paula, Nat, Bree | CEO transition support; team day 17 Dec |
+| Footy for Climate | Alexi (Lex) Lynch (CEO), Caroline Duffield, Owen Kelly, Tom Campbell | **Pending**: board fundraising training wanted in coming months; board survey ran Aug 2026; FFC Contacts sheet is theirs |
+| Surfers for Climate | Rick, Josh, Ry, Caitlin | **Not a client**: they billed BTS $5,500 for a retreat (May 2026). Past |
+| 1 Million Women | Paula, Nat, Bree | **Past client**. CEO transition support, billed via Environmental Leadership Australia (ELA, Karen; INV-0005 $4,620 Jul 2026); team day 17 Dec still in the calendar |
 | Liberals Against Nuclear (**LAN**) | via Solutions for Climate / CANA (Barry Traill) | Winding down ("LAN shutdown") — SOW overdue |
 | Climate Defenders Australia (**CDA**) | | Not active (confirmed 5 Sep) |
 | Climate 200 | Lewis Hobba | CapacityAI demo |

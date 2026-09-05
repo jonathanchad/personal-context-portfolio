@@ -2,6 +2,14 @@
 
 Newest first. Format: `YYYY-MM-DD — entry` with a source in brackets.
 
+- 2026-09-05 — Client Reconciliation Worksheet returned annotated.
+  consulting.md rewritten into Funders (Boundless Earth, CANA, Nura,
+  Meliore) / Current (AFAE, JCN, Lock the Gate, LAN) / Pending (ACBF
+  OPPO $3k/mo, Sunrise, Environment Victoria, Footy, ISNSW, GSCC under
+  BE, Together as CapacityAI prospect) / Not clients (89DE, Reliability
+  Watch, PMO, COP31 Epic, Politiv, Lockslie, Surfers) / Past (1MW via
+  ELA, CDA, BZE, ECF, Meliore, the Notion past list). Open: INV-0002 and
+  INV-0010, Nura "report on AMS", ACTU. [Jonathan, worksheet scan]
 - 2026-09-05 — Client list pass: Lock the Gate occasional; BZE not a
   client; Independent Schools NSW dormant, course again next year; Footy
   for Climate light (board survey; fundraising training coming); ECF
