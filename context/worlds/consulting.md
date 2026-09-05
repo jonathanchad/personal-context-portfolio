@@ -43,7 +43,6 @@ Treat that list as needing a pass — several look stale.
 ## People
 
 See `../people.md` — the directory by organisation, with world tags.
-Still unplaced: Moira (measurement brief, overdue since 22 Jul).
 
 ## Rules for agents
 

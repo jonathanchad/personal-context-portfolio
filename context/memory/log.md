@@ -6,7 +6,8 @@ Newest first. Format: `YYYY-MM-DD — entry` with a source in brackets.
   a paid Charlotte consultant; Think Big FG (Sally Hurst) is the BTS
   bookkeeper; Sentiment Agency = influencer-focused digital/campaign shop;
   Nidhi Bolar = go-to graphic designer (India); Dave Rood introduced by
-  Eytan. Moira still unknown. [this session]
+  Eytan; Moira = former PMO staffer with Katie, introduced by Austin
+  Phillips, possible Charlotte consultant. [this session]
 - 2026-09-05 — Built `people.md` from 60 days of calendar, Granola, sent
   mail, Notion Contacts/Organisations and the Charlotte outreach sheet.
   Resolved: LAN = Liberals Against Nuclear (winding down); CDA = Climate

@@ -52,6 +52,7 @@ Full directory in `../people.md`. Key roles (resolved 5 Sep 2026):
 | Les White (Lockslie Consulting) | Conservative/regional comms; "Locke" in earlier notes |
 | Jess Miller | Deputy Lord Mayor of Sydney; **TradieShift** founder — "TS3" is TradieShift |
 | Becky Corbett | Prospective project-based role, strategy & influencer |
+| Moira | Former PMO staffer (worked with Katie), introduced by Austin Phillips — possible Charlotte consultant; owed a measurement brief since 22 Jul |
 | Sentiment Agency (Grace McBride) | Digital and campaign shop specialising in influencers |
 | Nidhi Bolar | Go-to graphic designer (India) |
 | Meg Argyriou, Amba-Rose (Yajilarra) | MEL partner *(to confirm)* |

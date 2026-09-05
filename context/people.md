@@ -40,6 +40,7 @@ Worlds: **CH** Charlotte · **BT** Breakthrough Tools · **CO** Consulting ·
 | Alex Vitlin, Jonny (Brown Cardigan), Liana (Surprisingly Professional) | TradieShift team *?* | alexvitlin@gmail.com, jonny@browncardigan.com, liana@surprisinglyprofessional.xyz | TS3 x Charlotte |
 | Grace McBride, Rochelle, Tess | **Sentiment Agency** — digital and campaign shop specialising in influencers | grace@sentiment.agency | Charlotte influencer workstream |
 | Tom Milledge | Milledge Studio (design *?*) | tom@milledge.studio | |
+| Moira | Former PMO staffer (worked with Katie); introduced by Austin Phillips; **possible Charlotte consultant** | | Owed a measurement brief since 22 Jul |
 | Katie's digital network | Adam Knobel (Progress), Rob Flaherty (US digital), Austin Phillips (PMO digital), Georgia Kriz, Kate Ryan, Harry Nelly, Liz Bennett | | "Charlotte Draft outreach list" sheet, Jul 2026 — warm intros via Katie |
 | Global SMM network | Tom Lillywhite (UK), Ben Brandzel (OPEN), Sandor Madovy (Amplify:Good), Kevin Grandia (Canada), Ian Palmer (NZ), Gautam Raju (Movember), Mary Fitzgerald (CommsHub / Meliore) | | Thursday Social Media Meeting group (Notion Contacts) |
 | David Turnbull | Climate Communications | david.turnbull@climatecomms.org | Grant registration for Charlotte |
@@ -141,5 +142,4 @@ Family is in `worlds/personal.md`, deliberately not here.
 
 ## Not yet placed
 
-Moira (measurement brief, overdue since 22 Jul) — Jonathan isn't sure who
-this is either. Dave Rood's engagement.
+Dave Rood's engagement.
