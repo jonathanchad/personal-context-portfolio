@@ -27,19 +27,18 @@ Worlds: **CH** Charlotte · **BT** Breakthrough Tools · **CO** Consulting ·
 | Dan Pediaditis | Head of Philanthropy | | Thursday SMM meeting |
 | Caro Vu | Chief of Staff → new global philanthropic unit | | Thursday SMM meeting |
 | Georgia Laurandos | Commercial & Investments Associate Director | | Thursday SMM meeting |
-| Mike | *?* the audience for the Charlotte pitch (17 Aug) | | Not seen in mail/calendar — confirm who this is |
+| **Mike Cannon-Brookes** | Boundless Earth funder — the audience for the Charlotte pitch (17 Aug) | | Confirmed 5 Sep |
 
 ## Charlotte core team and advisors  [CH]
 
 | Person | Role | Contact | Note |
 |---|---|---|---|
-| Simon | *?* Wavecrest Group — Charlotte team lead / advisor | simon@wavecrestgroup.com.au | Charlotte Team, TS3 x Charlotte, boot camp, breakfast with Nicky & Les |
+| Simon | **Paid consultant on Charlotte** (Wavecrest Group) | simon@wavecrestgroup.com.au | Charlotte Team, TS3 x Charlotte, boot camp, breakfast with Nicky & Les |
 | Les White ("Locke", "Lockslie") | Director, Lockslie Consulting — conservative/regional comms | lockslieconsulting@gmail.com | Boot camp; Charlotte Weekly Spin; Notion says Current Client |
 | Becky Corbett | Prospective project-based role, strategy & influencer | beckyacorbett@gmail.com / bec@minniemgmt.com | Lunch with Simon, 27 Aug |
 | Jess Miller | Deputy Lord Mayor of Sydney; TradieShift founder | miller.jess@gmail.com | **TS / TS3 = TradieShift** (Charlotte workstream) |
 | Alex Vitlin, Jonny (Brown Cardigan), Liana (Surprisingly Professional) | TradieShift team *?* | alexvitlin@gmail.com, jonny@browncardigan.com, liana@surprisinglyprofessional.xyz | TS3 x Charlotte |
-| Grace McBride, Rochelle, Tess | Sentiment Agency *?* (research/creative) | grace@sentiment.agency | 7+ emails Aug |
-| Sally Hurst | Think Big FG *?* | team@thinkbigfg.com.au | 11 emails Aug — role unclear |
+| Grace McBride, Rochelle, Tess | **Sentiment Agency** — digital and campaign shop specialising in influencers | grace@sentiment.agency | Charlotte influencer workstream |
 | Tom Milledge | Milledge Studio (design *?*) | tom@milledge.studio | |
 | Katie's digital network | Adam Knobel (Progress), Rob Flaherty (US digital), Austin Phillips (PMO digital), Georgia Kriz, Kate Ryan, Harry Nelly, Liz Bennett | | "Charlotte Draft outreach list" sheet, Jul 2026 — warm intros via Katie |
 | Global SMM network | Tom Lillywhite (UK), Ben Brandzel (OPEN), Sandor Madovy (Amplify:Good), Kevin Grandia (Canada), Ian Palmer (NZ), Gautam Raju (Movember), Mary Fitzgerald (CommsHub / Meliore) | | Thursday Social Media Meeting group (Notion Contacts) |
@@ -112,17 +111,23 @@ Freestone.
 | Comms Declare / WWF / ELA / CivicBridge / Skard / Luke Sartor | B Noble; R Law; Eddy Blaxell; Peter Lykkelind; Josh, Lucy | Light-touch, Aug |
 | RISE Collective / RISE Climate | Georgia Webster, Oli Courtney, Gideon Reisner | "RISE Collective x Boundless" |
 | Trawalla Foundation | Carol Schwartz AO, Sarah Buckley (CoS) | Prospect (Notion) |
-| Nidhi Bolar | *?* contractor — large file sends, cc'd on Surfers for Climate | nidhibolar99@gmail.com |
-| Dave Rood | *?* — threads with Eytan, Sep 2026 | daverood@gmail.com |
+| Dave Rood | Introduced by Eytan Lenko (former Boundless CEO); active threads Sep 2026 — engagement to confirm | daverood@gmail.com |
 
 ## Back office  [CH · CO]
 
 | Org | People | What |
 |---|---|---|
+| Think Big FG | Sally Hurst | **Breakthrough Strategies bookkeeper** |
 | WMS Advisory | J McAskill, Adam Brzezinski, I Shah | Accountants: Charlotte setup, AFAE payroll, LAN shutdown |
 | BC Insurance | Tremayne, Scott | Charlotte multimedia liability |
 | Ripple Legal | Kiera | Legal ("Kiera, Jonathan and BJ") |
 | Thriday / Xero / Hubdoc | | Bookkeeping platforms |
+
+## Contractors  [CH · BT · CO]
+
+| Person | Role | Contact |
+|---|---|---|
+| Nidhi Bolar | **Go-to graphic designer** (based in India) | nidhibolar99@gmail.com / nidhibolar@yahoo.com |
 
 ## Personal / P&C  [P]
 
@@ -136,6 +141,5 @@ Family is in `worlds/personal.md`, deliberately not here.
 
 ## Not yet placed
 
-Moira (measurement brief); "Mike" (Charlotte pitch); Simon's exact role;
-Sally Hurst / Think Big FG; Sentiment Agency's engagement; Nidhi Bolar;
-Dave Rood.
+Moira (measurement brief, overdue since 22 Jul) — Jonathan isn't sure who
+this is either. Dave Rood's engagement.

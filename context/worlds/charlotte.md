@@ -32,7 +32,8 @@ influencer workstream.
 ## The pitch
 
 The "Mike" three-pillar deck — proven techniques via LAN, always-on
-scaling, new digital infrastructure — built for Larissa to take to Mike.
+scaling, new digital infrastructure — built for Larissa to take to Mike
+Cannon-Brookes (Boundless Earth funder).
 Delivered 6 Aug 2026, ~10 days ahead of the 17 Aug meeting. This is the
 deliverable the funding case turns on.
 
@@ -46,11 +47,13 @@ Full directory in `../people.md`. Key roles (resolved 5 Sep 2026):
 | Larissa Brown | Project Lead / Consultant, Boundless — presents the deck to Mike |
 | Dione Scheltus | Government Relations Lead, Boundless |
 | Eytan Lenko | Outgoing Boundless CEO / incoming Chair |
-| Mike | *unconfirmed* — the pitch audience (17 Aug) |
-| Simon (Wavecrest Group) | Charlotte team lead / advisor *(role to confirm)* |
+| Mike Cannon-Brookes | Boundless Earth funder — the pitch audience (17 Aug) |
+| Simon (Wavecrest Group) | Paid consultant on Charlotte |
 | Les White (Lockslie Consulting) | Conservative/regional comms; "Locke" in earlier notes |
 | Jess Miller | Deputy Lord Mayor of Sydney; **TradieShift** founder — "TS3" is TradieShift |
 | Becky Corbett | Prospective project-based role, strategy & influencer |
+| Sentiment Agency (Grace McBride) | Digital and campaign shop specialising in influencers |
+| Nidhi Bolar | Go-to graphic designer (India) |
 | Meg Argyriou, Amba-Rose (Yajilarra) | MEL partner *(to confirm)* |
 | Katie's digital network | Warm intros list in the "Charlotte Draft outreach list" sheet |
 
