@@ -2,6 +2,11 @@
 
 Newest first. Format: `YYYY-MM-DD — entry` with a source in brackets.
 
+- 2026-09-05 — Nura item identified from Mary Fitzgerald's 14 Aug
+  "analysis request": the Australian country assessment for Nura Fund's
+  Middle Powers climate comms strategy, EUR 500 honorarium, due end Aug,
+  overdue. Boundless cleared use of the ALP research on 4 Sep; Dione
+  wants the specific points first. [Gmail]
 - 2026-09-05 — INV-0002 and INV-0010 were never real: gaps in the Xero
   sequence from deleted mistakes, not missing customers. Dropped from
   the open list. [Jonathan]

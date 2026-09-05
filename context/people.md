@@ -44,7 +44,7 @@ Worlds: **CH** Charlotte · **BT** Breakthrough Tools · **CO** Consulting ·
 | Katie's digital network | Adam Knobel (Progress), Rob Flaherty (US digital), Austin Phillips (PMO digital), Georgia Kriz, Kate Ryan, Harry Nelly, Liz Bennett | | "Charlotte Draft outreach list" sheet, Jul 2026 — warm intros via Katie |
 | Global SMM network | Tom Lillywhite (UK), Ben Brandzel (OPEN), Sandor Madovy (Amplify:Good), Kevin Grandia (Canada), Ian Palmer (NZ), Gautam Raju (Movember), Mary Fitzgerald (CommsHub / Meliore) | | Thursday Social Media Meeting group (Notion Contacts) |
 | David Turnbull, Mary Fitzgerald | Climate Communications / Comms Hub (Meliore Foundation) | david.turnbull@climatecomms.org, mary.fitzgerald@climatecomms.org | Grant registration; Meliore is the prospective Diesel funder |
-| Nura Fund (Nura Foundation) | Sprint funder, $400k | | Referral form completed Aug 2026. Jonathan owes Nura a summary of the political environment (BTS work) |
+| Nura Fund (formerly CommsHub) | Sprint funder, $400k. Mary Fitzgerald (Executive Director, UK), David Turnbull, Matt Gould; Peter Lykkelind (Civic Bridge) and Katie (Global Optimism) on the Middle Powers project | mary.fitzgerald@climatecomms.org | Referral form completed Aug 2026. Jonathan owes the Australian country assessment for the Middle Powers strategy (asked 14 Aug, due end Aug, EUR 500 honorarium), BTS work |
 | Kiera Peacock (Ripple Legal), Sam Loff (HSF Kramer) | Legal counsel | kiera@ripplelegal.au | |
 
 ## Yajilarra Trust — funder (Tradie Shift; Charlotte from month 7)  [CH · CO]

@@ -30,7 +30,7 @@ trail. Three kinds of counterparty, and agents must not blur them:
 |---|---|---|---|
 | **Boundless Earth** (BE) [1] | Your Shout Gas (BTS); Charlotte build (CP). The Reliability Watch / PMO work [15] sits under BE | BTS + CP | 2026-00004 Feb; Apr invoice to Dione; INV-0008 $313,995 (5 Aug); INV-0009 $198,000 "BE: Solar Dividend/AFAE" (13 Aug) |
 | **CANA** (Climate Action Network Australia) [3] | Charlotte build (CP, $170k executed 28 Jul); LAN wind-down (BTS) | BTS + CP | INV-0004 $4,920.30, INV-0006 $3,366, INV-0011 $1,575.75; CP INV-0001 $66,000 (1 of 3), paid. "Solutions for Climate" in Notion is the same counterparty |
-| **Nura Foundation** (Nura Fund) [added by hand] | Charlotte build ($400k). Separately, Jonathan owes Nura **a summary of the political environment**, done as BTS work | CP + BTS | Political-environment summary is open |
+| **Nura Fund** (formerly CommsHub; Mary Fitzgerald, Executive Director) [added by hand] | Charlotte build ($400k). Separately, Jonathan owes Nura the **Australian country assessment** for its Middle Powers climate comms strategy: a four-area political-landscape template, half a day's work, EUR 500 honorarium, done as BTS work | CP + CP + BTS | **Overdue.** Mary asked for it by end of August (email 14 Aug); Jonathan agreed 15 Aug. Boundless (Nicky, Larissa) OK'd drawing on the ALP engagement research on 4 Sep; Dione asked to see the specific points before they go to Mary. Template: Google Doc 1XmaKY-WGT8Ls8ZuNq19yxwGPirddp-o_ |
 | **GSCC** [14] | **Funded Your Shout Gas.** An energy-security digital campaign is also scoped; scoping doc owed to Dan Hurst | BTS | |
 | **Meliore Foundation** [16] | Your Shout Gas rapid-response gas campaign | BTS | Contract 2604-3669, invoiced 23 Apr 2026. **Past** |
 
@@ -89,7 +89,9 @@ struck; treated as past until he says otherwise.
 
 ### Still open
 
-- When the Nura political-environment summary is due.
+- Nura country assessment: was due end of August, not yet delivered.
+  Two steps left: send Dione the specific ALP points, then fill the
+  template for Mary.
 - Worksheet sections E and F (rulings, Notion approvals) were not in the
   scan; Notion status changes are listed in `GETTING-STARTED.md` and wait
   for a tick.
