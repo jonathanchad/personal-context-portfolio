@@ -24,6 +24,7 @@ agents wherever possible (see `context/maintenance.md`).
 | `context/worlds/breakthrough-tools.md` | CapacityAI, AI Signal, Erso, OPPO: status, blockers, go-to-market pattern | Product work, pitches |
 | `context/worlds/consulting.md` | Client retainers, caps, pipeline, counterparties, routing shorthand | Client work, Donna routing, billing |
 | `context/worlds/personal.md` | Family, community roles, scheduling constraints | Scheduling, anything touching personal time |
+| `context/people.md` | Who he works with, by organisation, tagged by world; points at the Notion CRM | Drafting to someone, meeting prep, routing |
 | `context/communication-style.md` | Voice — points at the canonical writer skills | Writing as Jonathan |
 | `context/tools-and-systems.md` | Connectors, data sources, known quirks (egress block, MCP path) | Wiring, debugging |
 | `context/memory/README.md` | Where the running record lives (Notion AAR db, Run History, Donna Log) | Finding what happened |

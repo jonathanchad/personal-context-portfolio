@@ -17,7 +17,8 @@ prioritising on Jonathan's behalf must respect these.
 - **Ithaca Creek State School P&C** — Jonathan is involved (role
   *unconfirmed*). Anything for the P&C — website copy, newsletters,
   meeting notices, decisions — goes through the `pandc-compliance` skill
-  before publishing. New site: icsspandc.com.
+  before publishing. New site: icsspandc.com. Contacts: Jodie Painter
+  (jodie.painter@icsspandc.com), executive@icsspandc.com.
 
 ## Personal admin (open)
 

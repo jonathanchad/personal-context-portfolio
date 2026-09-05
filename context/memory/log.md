@@ -2,6 +2,16 @@
 
 Newest first. Format: `YYYY-MM-DD — entry` with a source in brackets.
 
+- 2026-09-05 — Built `people.md` from 60 days of calendar, Granola, sent
+  mail, Notion Contacts/Organisations and the Charlotte outreach sheet.
+  Resolved: LAN = Liberals Against Nuclear (winding down); CDA = Climate
+  Defenders Australia; "Locke" = Les White (Lockslie Consulting); TS3 =
+  TradieShift (Jess Miller); AFAE Comms Lead hired = Alex Linton. [this session]
+- 2026-09-05 — Jonathan: "BE" = Boundless Earth; CDA no longer active;
+  Margot is director of AFAE; Jonno La Nauze is CEO of Environment
+  Victoria. Asked for a much fuller people directory pulled from email,
+  calendar, Granola and the Charlotte contacts spreadsheet. [this session]
+
 - 2026-09-05 — Jonathan: the old ten-file system "divided my life up too
   much"; worlds are lenses on one blended day, guardrails stay. Added
   `worlds/README.md` and rule 6 in AGENT-CONTEXT.md; Morning brief told

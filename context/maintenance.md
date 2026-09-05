@@ -15,6 +15,7 @@ kept current by agents, not by hand.
 | `worlds/breakthrough-tools.md` | Weekly-ish | Same; `tool-documentation` skill for product docs | Status change, blocker cleared, sale |
 | `worlds/consulting.md` | Weekly | Weekly AAR proposes; Donna's routing rules consume it | Client starts/ends, cap changes, counterparty confirmed |
 | `worlds/personal.md` | Rarely | Jonathan | Family/community change |
+| `people.md` | Weekly | Donna and the AAR propose new/changed people; Notion Contacts stays the CRM | New counterparty appears in meetings or mail |
 | `memory/log.md` | Every notable change | Claude Code sessions append; AAR proposes | Any decision that changes context |
 
 ## The loop

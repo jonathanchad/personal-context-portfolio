@@ -11,7 +11,8 @@ of mid-2026 — the thing most weeks actually go to.
 - **Registered address:** Suite 5, 99 Musgrave Road, Red Hill QLD 4059
 - **Director:** Jonathan Schleifer — sole ordinary shareholder and director
 - **Email identity:** jonathan@charlotteproject.au
-- **Funding:** philanthropic — Boundless Earth and other funders. Expected
+- **Funding:** philanthropic — **Boundless Earth** (also the funder behind
+  the "BE" campaign work in `consulting.md`) and other funders. Expected
   ~AUD 3M/yr once running. No prior-year revenue (new entity).
 - **Insurance / registrations:** Artisan Underwriting multimedia liability
   proposal (draft, Jul 2026); grant registration correspondence with David
@@ -37,17 +38,21 @@ deliverable the funding case turns on.
 
 ## People
 
-Roles marked *(unconfirmed)* are pattern-matched from meeting notes and
-AARs, not stated by Jonathan. Correct them here.
+Full directory in `../people.md`. Key roles (resolved 5 Sep 2026):
 
-| Person | What we know | Role |
-|---|---|---|
-| Larissa | Receives Charlotte pitch material; presents the deck to Mike | Senior stakeholder / funder-facing lead *(unconfirmed)* |
-| Mike | The audience for the three-pillar pitch (17 Aug meeting) | Funder / decision-maker *(unconfirmed)* |
-| Nicky | Counterparty on the $21,500 Charlotte proposal, electricity/coal budget, Solar Dividend application edits | Funder or partner-org contact *(unconfirmed)* |
-| Casey | Clarifies format questions on Nicky's items | *(unconfirmed)* |
-| Simon, Locke | Ran the Wednesday "structure boot camp" (Aug 2026) | Advisors / collaborators *(unconfirmed)* |
-| Becky | Proposed project-based / flat-rate role in the strategy & influencer workstream (Aug 2026) | Prospective contractor |
+| Person | Role |
+|---|---|
+| Nicky Ison | Head of Direct Advocacy, Boundless Earth — main counterparty |
+| Larissa Brown | Project Lead / Consultant, Boundless — presents the deck to Mike |
+| Dione Scheltus | Government Relations Lead, Boundless |
+| Eytan Lenko | Outgoing Boundless CEO / incoming Chair |
+| Mike | *unconfirmed* — the pitch audience (17 Aug) |
+| Simon (Wavecrest Group) | Charlotte team lead / advisor *(role to confirm)* |
+| Les White (Lockslie Consulting) | Conservative/regional comms; "Locke" in earlier notes |
+| Jess Miller | Deputy Lord Mayor of Sydney; **TradieShift** founder — "TS3" is TradieShift |
+| Becky Corbett | Prospective project-based role, strategy & influencer |
+| Meg Argyriou, Amba-Rose (Yajilarra) | MEL partner *(to confirm)* |
+| Katie's digital network | Warm intros list in the "Charlotte Draft outreach list" sheet |
 
 ## Where things live
 
