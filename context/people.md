@@ -40,7 +40,7 @@ Worlds: **CH** Charlotte · **BT** Breakthrough Tools · **CO** Consulting ·
 | Alex Vitlin, Jonny (Brown Cardigan), Liana (Surprisingly Professional) | TradieShift team *?* | alexvitlin@gmail.com, jonny@browncardigan.com, liana@surprisinglyprofessional.xyz | TS3 x Charlotte |
 | Grace McBride, Rochelle, Tess | **Sentiment Agency** — digital and campaign shop specialising in influencers | grace@sentiment.agency | Charlotte influencer workstream |
 | Tom Milledge | Milledge Studio (design *?*) | tom@milledge.studio | |
-| Moira | Former PMO staffer (worked with Katie); introduced by Austin Phillips; **possible Charlotte consultant** | | Owed a measurement brief since 22 Jul |
+| Moira | Former PMO staffer (worked with Katie); introduced by Austin Phillips. In conversation about a possible Charlotte role — **not on staff, nothing agreed** | | Owed a measurement brief since 22 Jul |
 | Katie's digital network | Adam Knobel (Progress), Rob Flaherty (US digital), Austin Phillips (PMO digital), Georgia Kriz, Kate Ryan, Harry Nelly, Liz Bennett | | "Charlotte Draft outreach list" sheet, Jul 2026 — warm intros via Katie |
 | Global SMM network | Tom Lillywhite (UK), Ben Brandzel (OPEN), Sandor Madovy (Amplify:Good), Kevin Grandia (Canada), Ian Palmer (NZ), Gautam Raju (Movember), Mary Fitzgerald (CommsHub / Meliore) | | Thursday Social Media Meeting group (Notion Contacts) |
 | David Turnbull | Climate Communications | david.turnbull@climatecomms.org | Grant registration for Charlotte |
@@ -112,7 +112,7 @@ Freestone.
 | Comms Declare / WWF / ELA / CivicBridge / Skard / Luke Sartor | B Noble; R Law; Eddy Blaxell; Peter Lykkelind; Josh, Lucy | Light-touch, Aug |
 | RISE Collective / RISE Climate | Georgia Webster, Oli Courtney, Gideon Reisner | "RISE Collective x Boundless" |
 | Trawalla Foundation | Carol Schwartz AO, Sarah Buckley (CoS) | Prospect (Notion) |
-| Dave Rood | Introduced by Eytan Lenko (former Boundless CEO); active threads Sep 2026 — engagement to confirm | daverood@gmail.com |
+| Dave Rood | New introduction from Eytan Lenko; first conversation coming up — no role yet | daverood@gmail.com |
 
 ## Back office  [CH · CO]
 
@@ -142,4 +142,5 @@ Family is in `worlds/personal.md`, deliberately not here.
 
 ## Not yet placed
 
-Dave Rood's engagement.
+Nothing as of 5 Sep 2026. New names arrive via Donna and the AAR's
+"Context updates" section.

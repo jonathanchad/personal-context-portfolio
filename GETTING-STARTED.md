@@ -5,7 +5,7 @@ confirming the parts that were pattern-matched rather than stated.
 
 ## Confirm (highest value first)
 
-1. **`people.md`** — Dave Rood's engagement; any role marked *?*.
+1. **`people.md`** — any role still marked *?*.
 2. **`worlds/consulting.md`** — the Notion "Current Client" list looks
    stale (Lock the Gate, BZE, Independent Schools NSW, ECF) — confirm.
 3. **`goals-and-priorities.md`** — the "Tradeoffs" section: is the
