@@ -82,6 +82,9 @@ In Jonathan's words, 5 Sep 2026:
 
 **Protect**
 
+- **The P&C website.** Jonathan is P&C President; getting icsspandc.com
+  live is one of his two big P&C priorities. Real work, same as the
+  event.
 - **The P&C time capsule event.** His big personal priority this month.
   Community celebration, not a fundraiser: button-making machine,
   commemorative pins, sausage sizzle, Urban Sketchers, student

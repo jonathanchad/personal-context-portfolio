@@ -2,6 +2,10 @@
 
 Newest first. Format: `YYYY-MM-DD — entry` with a source in brackets.
 
+- 2026-09-05 — Jonathan is President of the Ithaca Creek State School
+  P&C; duties per the Constitution (in the pandc-compliance skill). Two
+  big P&C priorities: icsspandc.com live, and the time capsule event.
+  Added to identity, personal.md, goals Tradeoffs, people.md. [Jonathan]
 - 2026-09-05 — Time capsule event fixed: Sun 25 Oct 2026, 10am, ICSS
   school hall, 49 Lugg St Bardon. [Jonathan]
 - 2026-09-05 — Tradeoffs stated: protect the P&C time capsule event

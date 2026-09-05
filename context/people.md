@@ -136,7 +136,9 @@ Freestone.
 
 | Person | Role | Contact |
 |---|---|---|
+| Jonathan (President) | Ithaca Creek State School P&C — Jonathan is President; see `worlds/personal.md` | executive@icsspandc.com |
 | Jodie Painter | Ithaca Creek State School P&C | jodie.painter@icsspandc.com |
+| Chris Erbacher | Ithaca Creek State School P&C, events side | |
 | P&C executive | | executive@icsspandc.com |
 | School staff at P&C meetings | | @eq.edu.au addresses |
 

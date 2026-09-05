@@ -10,8 +10,7 @@ confirming the parts that were pattern-matched rather than stated.
    stale (Lock the Gate, BZE, Independent Schools NSW, ECF) — confirm.
 3. **`communication-style.md`** — signature phrases; whether the register
    shifts by audience.
-4. **`worlds/personal.md`** — P&C title (executive, which office?);
-   anything else agents should protect.
+4. **`worlds/personal.md`** — anything else agents should protect.
 
 ## How to update
 

@@ -4,6 +4,7 @@
 - **Roles:**
   - Founder & Sole Principal, Breakthrough Strategies Co.
   - Founder & CEO, and sole director, Charlotte Project Pty Ltd
+  - President, Ithaca Creek State School P&C (volunteer)
 - **Location:** Brisbane, Australia (Australia/Brisbane time)
 - **Primary product focus:** CapacityAI
 - **Language:** Australian English throughout, no AI flourishes
