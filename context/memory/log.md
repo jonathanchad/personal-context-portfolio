@@ -2,6 +2,11 @@
 
 Newest first. Format: `YYYY-MM-DD — entry` with a source in brackets.
 
+- 2026-09-05 — Jonathan: the old ten-file system "divided my life up too
+  much"; worlds are lenses on one blended day, guardrails stay. Added
+  `worlds/README.md` and rule 6 in AGENT-CONTEXT.md; Morning brief told
+  to plan one timeline. [this session]
+
 - 2026-08-30 — Restructured `context/` from the generic 10-file template
   to worlds/ + goals + memory + maintenance. Wired Morning brief, Donna
   (Processor v2, End of Day) and Weekly AAR to sync from this repo.

@@ -19,6 +19,7 @@ agents wherever possible (see `context/maintenance.md`).
 | `context/identity.md` | Who Jonathan is: roles, entities, background, family (one line) | Always |
 | `context/preferences-and-constraints.md` | Hard rules, verification rules, what not to over-explain | Always |
 | `context/goals-and-priorities.md` | What he's optimising for and deliberately not doing. **The Weekly AAR checks the week against this.** | Planning, prioritising, reviewing |
+| `context/worlds/README.md` | Why the worlds are lenses on one life, and how they lean on each other | Before planning or prioritising across them |
 | `context/worlds/charlotte.md` | Charlotte Project Pty Ltd: entity, Stage 2, the pitch, people | Anything Charlotte |
 | `context/worlds/breakthrough-tools.md` | CapacityAI, AI Signal, Erso, OPPO: status, blockers, go-to-market pattern | Product work, pitches |
 | `context/worlds/consulting.md` | Client retainers, caps, pipeline, counterparties, routing shorthand | Client work, Donna routing, billing |
@@ -45,6 +46,10 @@ original generic template this repo started from — reference only.
    to add. Routines end with a "Context updates" section for exactly this;
    the next Claude Code session applies it and pushes.
 5. **Charlotte is an entity, not a person.**
+6. **Worlds are lenses, not silos.** Jonathan's day blends across
+   parenting, the P&C, Charlotte, clients and the tools. Plan one day;
+   carry constraints across; keep the guardrails. See
+   `context/worlds/README.md`.
 
 ## Wired-in automations (Cowork Routines)
 
