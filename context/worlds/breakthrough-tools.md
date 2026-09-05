@@ -21,6 +21,8 @@ separate company. Authoritative list:
 Revenue is the goal: enough paying users to justify further development.
 CapacityAI 2–3 paying users (JCN already a client). OPPO 2–3 paying
 users. AI Signal: land one (89 Degrees East ~$30k scoped, not closed).
+Erso: **no revenue target** (Jonathan, 5 Sep 2026). It stays in beta; agents
+should not propose Erso pitches or Erso build work as a route to revenue.
 
 ## Current state (as of late Aug 2026)
 
@@ -38,8 +40,8 @@ users. AI Signal: land one (89 Degrees East ~$30k scoped, not closed).
 The tools sell as **an instrument held up to the buyer's own work, not as
 a platform**. Offer to measure; let the number do the selling. This has
 worked twice (AI Signal, OPPO) and is not yet run deliberately on
-CapacityAI or Erso. Agents helping with any product pitch should default
-to this framing.
+CapacityAI. Agents helping with any product pitch should default to this
+framing. Erso is excluded: no revenue target.
 
 ## Documentation and brand
 

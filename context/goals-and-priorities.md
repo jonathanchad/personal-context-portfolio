@@ -58,11 +58,10 @@ developing the tools further. By December:
 | CapacityAI | 2–3 paying users | JCN (Jewish Climate Network) is already a client |
 | OPPO | 2–3 paying users | Environment Victoria and ACBF have had OPPO reports; none paying yet |
 | AI Signal | Land one paying user | 89 Degrees East ~$30k scoped, not closed |
+| Erso | **No revenue target.** Stays in beta; don't pitch it or spend build time chasing revenue for it | — |
 
-*Jonathan said "CapacityAI and both tools"; read as CapacityAI and OPPO.
-If Erso was meant, say so.* The go-to-market pattern that has worked is
-in `worlds/breakthrough-tools.md`: sell the measurement, not the
-software.
+The go-to-market pattern that has worked is in
+`worlds/breakthrough-tools.md`: sell the measurement, not the software.
 
 ## Tradeoffs and what's deliberately not prioritised
 

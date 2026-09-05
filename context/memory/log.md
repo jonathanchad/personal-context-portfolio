@@ -3,8 +3,9 @@
 Newest first. Format: `YYYY-MM-DD — entry` with a source in brackets.
 
 - 2026-09-05 — Tools goal made concrete: 2–3 paying users each for
-  CapacityAI (JCN already) and OPPO; land one for AI Signal. Purpose is
-  revenue to justify further development. [Jonathan]
+  CapacityAI (JCN already) and OPPO; land one for AI Signal. Erso has
+  no revenue target and stays in beta. Purpose is revenue to justify
+  further development. [Jonathan]
 - 2026-09-05 — Goals set by Jonathan: (1) crush Charlotte's first three
   months and deliver on the promise; (2) Pan Pacs: sub-30 50 free, PB 50
   fly; (3) keep momentum on the Breakthrough tools. Charlotte sprint
