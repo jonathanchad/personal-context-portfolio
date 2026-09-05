@@ -25,6 +25,19 @@ three months it means:
 | 4 Dec | **First build report** to Boundless: team and measurement complete, experiments in market and what they show so far, financial position | Schedule 1, deliverable 4 |
 | 31 Dec | Two independent directors and board terms of reference; $150k second tranche on acceptance of the build report | Leadership Meeting 1; Schedule 1 |
 
+**The next 30 days (to early October), in Jonathan's words, 5 Sep:**
+
+1. **Hire the team.** Creative Director, Data Director, Movement
+   Ecosystem Lead. This is the month's first priority.
+2. **If the team can't be hired in time, pull together a bench of
+   support consultants** so the work starts anyway. The bench is the
+   fallback, not the plan; agents should track both tracks and say which
+   one is winning.
+3. **Get experiments off the ground.** Some, not all five; specs first.
+4. **Critical milestone: the Victorian state election, Sat 28 Nov 2026.**
+   That is the first live moment Charlotte has to be operating for.
+   Agents planning Charlotte work count backwards from it.
+
 The five experiments that have to be in market: disengaged men, Reddit,
 the creator program (10–15 creators; Tradie Shift sits here), Just the
 Facts, rapid response. Every one needs a pre-registered spec with a
