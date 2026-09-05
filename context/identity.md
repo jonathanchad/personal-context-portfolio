@@ -17,11 +17,12 @@ Three distinct things, easy to conflate:
   - **Breakthrough Tools** — a subset of work under Breakthrough
     Strategies Co., not a separate company. The software products live
     here: CapacityAI (primary focus), AI Signal, Erso, OPPO — see
-    `current-projects.md` for what each does.
+    `worlds/breakthrough-tools.md` for what each does.
 - **Charlotte Project Pty Ltd** — a separate legal entity, not a division
   of Breakthrough Strategies Co. Runs "Charlotte," Australia's always-on
   digital persuasion operation (formerly the Social Media Machine / SMM),
-  philanthropically funded (Boundless Earth and others).
+  philanthropically funded (Boundless Earth and others). See
+  `worlds/charlotte.md`.
 
 ## Email identities (owner = Jonathan)
 
@@ -41,10 +42,10 @@ Any other sender/participant domain in an automation = External.
 
 ## Personal
 
-Married to Katie. Two sons.
+Married to Katie. Two sons. Details and scheduling constraints in
+`worlds/personal.md`.
 
 ---
-_Seeded from the live prompts of the Morning brief, Donna Processor v2,
-Donna End of Day, and Weekly AAR routines — cross-checked against Notion.
-Needs a real pass (bio, working style, goals) — see `interview-protocol/`
-for the format to run that interview._
+_Slow-changing facts only. Clients, products, people and priorities live
+in `worlds/` and `goals-and-priorities.md`; see `maintenance.md` for who
+keeps each file current._
