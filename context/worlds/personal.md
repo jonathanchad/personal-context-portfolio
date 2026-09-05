@@ -22,8 +22,9 @@ prioritising on Jonathan's behalf must respect these.
   `pandc-compliance` skill before publishing. Contacts: Jodie Painter
   (jodie.painter@icsspandc.com), executive@icsspandc.com; Chris Erbacher
   on the events side.
-- **P&C time capsule event: his big priority this month (Sep 2026).**
-  See `goals-and-priorities.md` Tradeoffs. Date not yet recorded here.
+- **P&C time capsule event: Sunday 25 October 2026, 10am, school hall,
+  49 Lugg Street, Bardon.** His big personal priority through October.
+  See `goals-and-priorities.md` Tradeoffs. Keep 24 to 25 Oct clear.
   Related: 8 Sep parent conversation evening (bake stall being handed to
   the parent bake-sale group).
 

@@ -86,9 +86,10 @@ In Jonathan's words, 5 Sep 2026:
   Community celebration, not a fundraiser: button-making machine,
   commemorative pins, sausage sizzle, Urban Sketchers, student
   interviews and performances, notable alumni. He's running the run
-  sheet. 14 RSVPs as of the 25 Aug P&C meeting. *Date not yet in this
-  repo: ask.* Agents treat prep for it as real work, not a distraction,
-  and never schedule over it.
+  sheet. 14 RSVPs as of the 25 Aug P&C meeting. **Sunday 25 October
+  2026, 10am, school hall, 49 Lugg Street, Bardon.** Agents treat prep
+  for it as real work, not a distraction, keep the weekend of 24 to 25
+  Oct clear, and never schedule over it.
 
 **Let slide (the AAR should not nag about these)**
 

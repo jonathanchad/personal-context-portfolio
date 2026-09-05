@@ -2,6 +2,8 @@
 
 Newest first. Format: `YYYY-MM-DD — entry` with a source in brackets.
 
+- 2026-09-05 — Time capsule event fixed: Sun 25 Oct 2026, 10am, ICSS
+  school hall, 49 Lugg St Bardon. [Jonathan]
 - 2026-09-05 — Tradeoffs stated: protect the P&C time capsule event
   (big priority this month); consulting retainer hours can slide;
   LinkedIn and pitch work can definitely slide; everything else still

@@ -8,10 +8,9 @@ confirming the parts that were pattern-matched rather than stated.
 1. **`people.md`** — any role still marked *?*.
 2. **`worlds/consulting.md`** — the Notion "Current Client" list looks
    stale (Lock the Gate, BZE, Independent Schools NSW, ECF) — confirm.
-3. **`goals-and-priorities.md`** — date of the P&C time capsule event.
-4. **`communication-style.md`** — signature phrases; whether the register
+3. **`communication-style.md`** — signature phrases; whether the register
    shifts by audience.
-5. **`worlds/personal.md`** — P&C title (executive, which office?);
+4. **`worlds/personal.md`** — P&C title (executive, which office?);
    anything else agents should protect.
 
 ## How to update
