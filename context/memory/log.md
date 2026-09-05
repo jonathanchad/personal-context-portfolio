@@ -2,6 +2,13 @@
 
 Newest first. Format: `YYYY-MM-DD — entry` with a source in brackets.
 
+- 2026-09-05 — Goals set by Jonathan: (1) crush Charlotte's first three
+  months and deliver on the promise; (2) Pan Pacs: sub-30 50 free, PB 50
+  fly; (3) keep momentum on the Breakthrough tools. Charlotte sprint
+  spine written into charlotte.md from Boundless Schedule 1, the
+  Yajilarra outcomes paper and Leadership Meeting 1. Yajilarra is a
+  funder, not a MEL partner (earlier guess corrected). [this session]
+
 - 2026-09-05 — Jonathan set the voice: friendly, funny (self-deprecating,
   Ryan Reynolds register), concise; no AI tells ever; no em dashes ever;
   email = context, ask, explanation if needed, ask again. Written into

@@ -33,7 +33,7 @@ Worlds: **CH** Charlotte · **BT** Breakthrough Tools · **CO** Consulting ·
 
 | Person | Role | Contact | Note |
 |---|---|---|---|
-| Simon | **Paid consultant on Charlotte** (Wavecrest Group) | simon@wavecrestgroup.com.au | Charlotte Team, TS3 x Charlotte, boot camp, breakfast with Nicky & Les |
+| Simon Hobbs | **Paid consultant on Charlotte**; production; former Nine news director (Wavecrest Group) | simon@wavecrestgroup.com.au | Leadership team with Les |
 | Les White ("Locke", "Lockslie") | Director, Lockslie Consulting — conservative/regional comms | lockslieconsulting@gmail.com | Boot camp; Charlotte Weekly Spin; Notion says Current Client |
 | Becky Corbett | Prospective project-based role, strategy & influencer | beckyacorbett@gmail.com / bec@minniemgmt.com | Lunch with Simon, 27 Aug |
 | Jess Miller | Deputy Lord Mayor of Sydney; TradieShift founder | miller.jess@gmail.com | **TS / TS3 = TradieShift** (Charlotte workstream) |
@@ -43,18 +43,20 @@ Worlds: **CH** Charlotte · **BT** Breakthrough Tools · **CO** Consulting ·
 | Moira | Former PMO staffer (worked with Katie); introduced by Austin Phillips. In conversation about a possible Charlotte role — **not on staff, nothing agreed** | | Owed a measurement brief since 22 Jul |
 | Katie's digital network | Adam Knobel (Progress), Rob Flaherty (US digital), Austin Phillips (PMO digital), Georgia Kriz, Kate Ryan, Harry Nelly, Liz Bennett | | "Charlotte Draft outreach list" sheet, Jul 2026 — warm intros via Katie |
 | Global SMM network | Tom Lillywhite (UK), Ben Brandzel (OPEN), Sandor Madovy (Amplify:Good), Kevin Grandia (Canada), Ian Palmer (NZ), Gautam Raju (Movember), Mary Fitzgerald (CommsHub / Meliore) | | Thursday Social Media Meeting group (Notion Contacts) |
-| David Turnbull | Climate Communications | david.turnbull@climatecomms.org | Grant registration for Charlotte |
+| David Turnbull, Mary Fitzgerald | Climate Communications / Comms Hub (Meliore Foundation) | david.turnbull@climatecomms.org, mary.fitzgerald@climatecomms.org | Grant registration; Meliore is the prospective Diesel funder |
+| Nura Fund | Sprint funder, $400k | | Referral form completed Aug 2026 |
+| Kiera Peacock (Ripple Legal), Sam Loff (HSF Kramer) | Legal counsel | kiera@ripplelegal.au | |
 
-## Yajilarra — MEL (measurement, evaluation, learning) partner *?*  [CH · CO]
+## Yajilarra Trust — funder (Tradie Shift; Charlotte from month 7)  [CH · CO]
 
 | Person | Role | Contact |
 |---|---|---|
-| Meg Argyriou | *?* lead | meg@yajilarra.org |
-| Amba-Rose | *?* — most frequent email counterparty in Aug/Sep | amba-rose@yajilarra.org |
-| David Shaw | *?* | david.shaw@yajilarra.org |
+| Meg Argyriou | Yajilarra lead | meg@yajilarra.org |
+| Amba-Rose Atkinson | Program contact; most frequent email counterparty Aug/Sep; the outcomes-and-measures paper is addressed to her | amba-rose@yajilarra.org |
+| David Shaw | Director side ("walk David through the arithmetic") | david.shaw@yajilarra.org |
 
-"MEL Catch Up", "Charlotte x TS", "EV & Gas Tax Campaign — Reconnect". If
-"Moira's measurement brief" is actually for this team, say so.
+Meetings: "MEL Catch Up", "Charlotte x TS", "EV & Gas Tax Campaign — Reconnect".
+Yajilarra wants proof of concept before funding Charlotte directly.
 
 ## AFAE — Australians for Affordable Energy  [CO]
 
@@ -99,7 +101,7 @@ Freestone.
 | Org | People | Status |
 |---|---|---|
 | Environment Victoria | **Jonno La Nauze** (CEO), A. Merory | Notion: past client; active again Sep 2026 (OPPO report, Charlotte overview owed) |
-| 89 Degrees East | Rebecca Huntley (Director of Research), Annie O'Rourke, Scott Gamble | ~AUD 30k AI Signal measurement, Sunrise work |
+| 89 Degrees East | Rebecca Huntley (Director of Research; advising Charlotte's evaluation design), Annie O'Rourke, Scott Gamble | ~AUD 30k AI Signal measurement, Sunrise work; investment roadmap for Charlotte |
 | Jewish Climate Network (JCN) | Basya Vorchheimer, Jarred | CapacityAI onboarding / demo (blocked on v4) |
 | Australian Climate & Biodiversity Foundation | Marguerite Pettit, Dave Copeman, Olivia | "Chat about OPPO" — OPPO prospect |
 | Footy for Climate | Alexi (Lex) Lynch (CEO), Caroline Duffield, Owen Kelly, Tom Campbell | Notion: current client; FFC Contacts sheet is theirs |
@@ -121,7 +123,7 @@ Freestone.
 | Think Big FG | Sally Hurst | **Breakthrough Strategies bookkeeper** |
 | WMS Advisory | J McAskill, Adam Brzezinski, I Shah | Accountants: Charlotte setup, AFAE payroll, LAN shutdown |
 | BC Insurance | Tremayne, Scott | Charlotte multimedia liability |
-| Ripple Legal | Kiera | Legal ("Kiera, Jonathan and BJ") |
+| Ripple Legal / HSF Kramer | Kiera Peacock; Sam Loff | Charlotte legal counsel |
 | Thriday / Xero / Hubdoc | | Bookkeeping platforms |
 
 ## Contractors  [CH · BT · CO]

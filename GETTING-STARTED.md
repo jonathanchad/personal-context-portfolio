@@ -8,9 +8,8 @@ confirming the parts that were pattern-matched rather than stated.
 1. **`people.md`** — any role still marked *?*.
 2. **`worlds/consulting.md`** — the Notion "Current Client" list looks
    stale (Lock the Gate, BZE, Independent Schools NSW, ECF) — confirm.
-3. **`goals-and-priorities.md`** — the "Tradeoffs" section: is the
-   meetings-over-closes pattern something to counterbalance, or how you
-   actually want to work?
+3. **`goals-and-priorities.md`** — what "momentum on the tools" means
+   concretely; what's deliberately not a priority.
 4. **`communication-style.md`** — signature phrases; whether the register
    shifts by audience.
 5. **`worlds/personal.md`** — P&C role; anything else agents should protect.
