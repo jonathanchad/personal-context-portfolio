@@ -33,14 +33,14 @@ Worlds: **CH** Charlotte · **BT** Breakthrough Tools · **CO** Consulting ·
 
 | Person | Role | Contact | Note |
 |---|---|---|---|
-| Simon Hobbs | **Paid consultant on Charlotte**; production; former Nine news director (Wavecrest Group) | simon@wavecrestgroup.com.au | Leadership team with Les |
-| Les White ("Locke", "Lockslie") | Director, Lockslie Consulting — conservative/regional comms | lockslieconsulting@gmail.com | Boot camp; Charlotte Weekly Spin; Notion says Current Client |
+| Simon Hobbs | **Charlotte leadership team, on the payroll**; production; former Nine news director (Wavecrest Group) | simon@wavecrestgroup.com.au | Leadership team with Les |
+| Les White ("Locke", "Lockslie") | **Charlotte leadership team, on the payroll.** Director, Lockslie Consulting — conservative/regional comms | lockslieconsulting@gmail.com | Boot camp; Charlotte Weekly Spin; Notion says Current Client |
 | Becky Corbett | Prospective project-based role, strategy & influencer | beckyacorbett@gmail.com / bec@minniemgmt.com | Lunch with Simon, 27 Aug |
 | Jess Miller | Deputy Lord Mayor of Sydney; TradieShift founder | miller.jess@gmail.com | **TS / TS3 = TradieShift** (Charlotte workstream) |
 | Alex Vitlin, Jonny (Brown Cardigan), Liana (Surprisingly Professional) | TradieShift team *?* | alexvitlin@gmail.com, jonny@browncardigan.com, liana@surprisinglyprofessional.xyz | TS3 x Charlotte |
 | Grace McBride, Rochelle, Tess | **Sentiment Agency** — digital and campaign shop specialising in influencers | grace@sentiment.agency | Charlotte influencer workstream |
 | Tom Milledge | Milledge Studio (design *?*) | tom@milledge.studio | |
-| Moira | Former PMO staffer (worked with Katie); introduced by Austin Phillips. In conversation about a possible Charlotte role — **not on staff, nothing agreed** | | Owed a measurement brief since 22 Jul |
+| Moira | Former PMO staffer (worked with Katie); introduced by Austin Phillips. **Potential Charlotte adviser** only; not on staff, nothing agreed | | Owed a measurement brief since 22 Jul |
 | Katie's digital network | Adam Knobel (Progress), Rob Flaherty (US digital), Austin Phillips (PMO digital), Georgia Kriz, Kate Ryan, Harry Nelly, Liz Bennett | | "Charlotte Draft outreach list" sheet, Jul 2026 — warm intros via Katie |
 | Global SMM network | Tom Lillywhite (UK), Ben Brandzel (OPEN), Sandor Madovy (Amplify:Good), Kevin Grandia (Canada), Ian Palmer (NZ), Gautam Raju (Movember), Mary Fitzgerald (CommsHub / Meliore) | | Thursday Social Media Meeting group (Notion Contacts) |
 | David Turnbull, Mary Fitzgerald | Climate Communications / Comms Hub (Meliore Foundation) | david.turnbull@climatecomms.org, mary.fitzgerald@climatecomms.org | Grant registration; Meliore is the prospective Diesel funder |

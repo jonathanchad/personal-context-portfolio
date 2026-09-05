@@ -27,16 +27,16 @@ three months it means:
 
 **The next 30 days (to early October), in Jonathan's words, 5 Sep:**
 
-1. **Hire the team.** Creative Director, Data Director, Movement
-   Ecosystem Lead. This is the month's first priority.
-2. **If the team can't be hired in time, pull together a bench of
-   support consultants** so the work starts anyway. The bench is the
-   fallback, not the plan; agents should track both tracks and say which
-   one is winning.
-3. **Get experiments off the ground.** Some, not all five; specs first.
-4. **Critical milestone: the Victorian state election, Sat 28 Nov 2026.**
-   That is the first live moment Charlotte has to be operating for.
-   Agents planning Charlotte work count backwards from it.
+1. **Build the team AND assemble a bench of support consultants and
+   creatives at the same time.** Two parallel tracks, not a fallback.
+   There is no time to sequence them. Agents should not frame the bench
+   as "if hiring fails"; both are happening now.
+2. **Get experiments off the ground.** Some, not all five; specs first.
+3. **Content as soon as possible.** Most of the content needs to be
+   delivered as early as it can be, not held for a date.
+4. **Milestone: the Victorian state election, Sat 28 Nov 2026.** A good
+   milestone to plan against, but it is a checkpoint, not the launch.
+   Charlotte should be producing well before it.
 
 The five experiments that have to be in market: disengaged men, Reddit,
 the creator program (10–15 creators; Tradie Shift sits here), Just the
