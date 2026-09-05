@@ -2,6 +2,9 @@
 
 Newest first. Format: `YYYY-MM-DD — entry` with a source in brackets.
 
+- 2026-09-05 — INV-0002 and INV-0010 were never real: gaps in the Xero
+  sequence from deleted mistakes, not missing customers. Dropped from
+  the open list. [Jonathan]
 - 2026-09-05 — Corrections after the worksheet: "prospects, not
   pending" (no contracts); GSCC funded Your Shout Gas; Reliability Watch
   is a coal-emissions reporting tool, PMO is the Prime Minister's Office

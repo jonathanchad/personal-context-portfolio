@@ -16,8 +16,8 @@ confirming the parts that were pattern-matched rather than stated.
    into ISNSW, PIE into ECF, Solutions for Climate into CANA; remove
    Soul Freedom Movement, STEF, The Safer Air Project; Together (ASU) to
    Prospect (CapacityAI).
-2a. **Still open from the worksheet:** customers for Xero INV-0002 and
-   INV-0010; what "report on AMS" for Nura means; ACTU's status.
+2a. **Still open from the worksheet:** due date for the Nura
+   political-environment summary; ACTU's status.
 3. **`communication-style.md`** — signature phrases; whether the register
    shifts by audience.
 4. **`worlds/personal.md`** — anything else agents should protect.

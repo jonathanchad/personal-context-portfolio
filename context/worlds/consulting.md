@@ -89,7 +89,6 @@ struck; treated as past until he says otherwise.
 
 ### Still open
 
-- Customers for BTS Xero **INV-0002** and **INV-0010** (never emailed).
 - When the Nura political-environment summary is due.
 - Worksheet sections E and F (rulings, Notion approvals) were not in the
   scan; Notion status changes are listed in `GETTING-STARTED.md` and wait
