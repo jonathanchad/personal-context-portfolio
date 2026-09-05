@@ -69,7 +69,7 @@ developing the tools further. By December:
 | Tool | Target | Where it stands (5 Sep) |
 |---|---|---|
 | CapacityAI | 2–3 paying users | JCN (Jewish Climate Network) is already a client |
-| OPPO | 2–3 paying users | Environment Victoria and ACBF have had OPPO reports; none paying yet |
+| OPPO | 2–3 paying users | ACBF proposal sent 31 Aug (keen; 15 Sep Senate vote is their hook); Sunrise wants OPPO in a Victorian election proposal; Environment Victoria had a report. None paying yet |
 | AI Signal | Land one paying user | 89 Degrees East ~$30k scoped, not closed |
 | Erso | **No revenue target.** Stays in beta; don't pitch it or spend build time chasing revenue for it | — |
 

@@ -34,6 +34,10 @@ should not propose Erso pitches or Erso build work as a route to revenue.
   work with 89 Degrees East (Scott Gamble, Annie O'Rourke) by offering to
   *measure* whether their Sunrise work lands, rather than pitching software.
 - **OPPO** — led with an OPPO report (not a demo) to Environment Victoria.
+  **ACBF**: proposal sent 31 Aug 2026, chased 4 Sep; they said they are
+  keen to sign up; their deadline hook is the 15 Sep Senate disallowance
+  vote. **Sunrise**: asked for a Victorian election proposal that
+  includes OPPO. Two live routes to the 2–3 paying users target.
 
 ## Go-to-market pattern (Jonathan's own, from the AAR)
 

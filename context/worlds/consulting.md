@@ -17,8 +17,18 @@ the Notion **Client Retainers** database. If hours can't be measured
 Notion **Organisations** marks as *Current Client*: Boundless Earth, AFAE,
 1 Million Women, Footy for Climate, Lock the Gate, BZE, Independent
 Schools NSW, Stichting European Climate Foundation, Lockslie Consulting,
-Liberals Against Nuclear, Climate Defenders Australia (now inactive).
-Treat that list as needing a pass — several look stale.
+Liberals Against Nuclear, Climate Defenders Australia. Jonathan's pass on
+that list, 5 Sep 2026:
+
+| Org | Status | Notes |
+|---|---|---|
+| Lock the Gate | **Occasional work** | Not a retainer; route as a client when it comes up |
+| BZE (Beyond Zero Emissions) | **Not a client** | Mark former in Notion |
+| Independent Schools NSW | **Dormant, will return** | Will want another course next year (2027) |
+| Footy for Climate | **Current, light** | Board survey running with Lex (Aug 2026). They will want a board fundraising training course in the coming months |
+| Stichting European Climate Foundation (ECF) | **Unknown to Jonathan** | He doesn't recognise it. Mark former; if it resurfaces, ask |
+| Lockslie Consulting | Not a client | Les White's vehicle; he is on Charlotte's payroll. See `charlotte.md` |
+| LAN, CDA | Winding down / inactive | See table below |
 
 | Client / campaign | What we know | Notes |
 |---|---|---|
@@ -34,7 +44,16 @@ Treat that list as needing a pass — several look stale.
 - **89 Degrees East** — Scott Gamble, Annie O'Rourke. ~AUD 30k AI Signal
   measurement work on their Sunrise campaign. Proposal owed to Annie.
 - **Environment Victoria** — CEO **Jonno La Nauze** (j.lanauze@environmentvictoria.org.au). Owed the Charlotte overview and the AFAE JD. OPPO report led the conversation.
-- **Sunrise**, **Reliability Watch** — partner/funder conversations.
+- **Sunrise** (The Sunrise Project; Jonathan says "Sunrise Foundation")
+  — **asked for a proposal for the Victorian election (28 Nov 2026),
+  including OPPO for the election.** Live, Sep 2026. Also partner/funder
+  conversations. **Reliability Watch** — partner/funder conversation.
+- **ACBF** (Australian Climate & Biodiversity Foundation; Marguerite
+  Pettit, Dave Copeman, Olivia) — **OPPO proposal sent 31 Aug 2026**,
+  follow-up 4 Sep. They want to track ad spend by The Australia
+  Institute, Wilderness Australia, Bob Brown Foundation, The Wilderness
+  Society. Their hook: Senate disallowance vote 15 Sep. Closest OPPO
+  paying-user prospect.
 - **GSCC** — Dan Hurst. Energy-security digital campaign scoped; scoping
   doc owed to Dan.
 - **Your Shout Gas** — Boundless campaign (Dione Scheltus). Weekly WIP with Gather Media (Sam, Charlie Freestone).

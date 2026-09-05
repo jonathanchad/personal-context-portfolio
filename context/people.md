@@ -78,7 +78,7 @@ Fortnightly "Diesel Group" and "gas tax core strategy" meetings.
 | Victoria Whitaker (consultant) | Gas tax campaign planning; very frequent |
 | Moksha | Yallaroi | Gas tax |
 | Mark Wakeham · Nick Aberle (Strategy Partner) · Louise Morris (Australia Institute) | Core strategy team |
-| Sunrise Project | Damien Lawson, Adam Black, Ed; Miriam Lyons, Samuel Dariol, Tabatha Fulker (separate threads) |
+| Sunrise Project | Damien Lawson, Adam Black, Ed; Miriam Lyons, Samuel Dariol, Tabatha Fulker (separate threads). Asked (Sep 2026) for a Victorian election proposal incl. OPPO |
 | ACOSS | Kellie Caught, Peter |
 | ACF | Gavan McFadzean |
 | Climate Energy Finance | Tim, Matt |
@@ -103,8 +103,8 @@ Freestone.
 | Environment Victoria | **Jonno La Nauze** (CEO), A. Merory | Notion: past client; active again Sep 2026 (OPPO report, Charlotte overview owed) |
 | 89 Degrees East | Rebecca Huntley (Director of Research; advising Charlotte's evaluation design), Annie O'Rourke, Scott Gamble | ~AUD 30k AI Signal measurement, Sunrise work; investment roadmap for Charlotte |
 | Jewish Climate Network (JCN) | Basya Vorchheimer, Jarred | CapacityAI onboarding / demo (blocked on v4) |
-| Australian Climate & Biodiversity Foundation | Marguerite Pettit, Dave Copeman, Olivia | "Chat about OPPO" — OPPO prospect |
-| Footy for Climate | Alexi (Lex) Lynch (CEO), Caroline Duffield, Owen Kelly, Tom Campbell | Notion: current client; FFC Contacts sheet is theirs |
+| Australian Climate & Biodiversity Foundation (ACBF) | Marguerite Pettit, Dave Copeman, Olivia (marguerite@ / dave@ / olivia@climatebiodiversity.org) | **OPPO proposal sent 31 Aug 2026**; keen to sign up; 15 Sep Senate disallowance vote is their hook |
+| Footy for Climate | Alexi (Lex) Lynch (CEO), Caroline Duffield, Owen Kelly, Tom Campbell | Current, light: board survey (Aug 2026); board fundraising training wanted in coming months; FFC Contacts sheet is theirs |
 | Surfers for Climate | Rick, Josh, Ry | Prospect; active Aug–Sep |
 | 1 Million Women | Paula, Nat, Bree | CEO transition support; team day 17 Dec |
 | Liberals Against Nuclear (**LAN**) | via Solutions for Climate / CANA (Barry Traill) | Winding down ("LAN shutdown") — SOW overdue |

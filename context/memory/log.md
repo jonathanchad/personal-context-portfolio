@@ -2,6 +2,12 @@
 
 Newest first. Format: `YYYY-MM-DD — entry` with a source in brackets.
 
+- 2026-09-05 — Client list pass: Lock the Gate occasional; BZE not a
+  client; Independent Schools NSW dormant, course again next year; Footy
+  for Climate light (board survey; fundraising training coming); ECF
+  unknown to Jonathan, mark former. ACBF is a live OPPO prospect
+  (proposal sent 31 Aug, mail). Sunrise asked for a Victorian election
+  proposal including OPPO. [Jonathan + Gmail]
 - 2026-09-05 — Jonathan is President of the Ithaca Creek State School
   P&C; duties per the Constitution (in the pandc-compliance skill). Two
   big P&C priorities: icsspandc.com live, and the time capsule event.
