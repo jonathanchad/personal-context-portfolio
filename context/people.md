@@ -23,7 +23,7 @@ Worlds: **CH** Charlotte · **BT** Breakthrough Tools · **CO** Consulting ·
 | Eytan Lenko | Outgoing CEO / incoming Chair; incoming CEO of new global philanthropic unit | eytan@boundless.earth | Wrote the DailyDigest repo |
 | Rebecca Chew | *?* (ops/finance threads with Nicky, Kajute) | rebecca.chew@boundless.earth | Active Sep 2026 |
 | Kajute O'Riordan | *?* Impact Operations | kajute.oriordan@boundless.earth / kajute@impactoperations.ai | |
-| Nehal | *?* | nehal@boundless.earth | |
+| Nehal | Boundless finance / accounts payable: processes BTS invoices, runs the weekly payment run, requests NSW subcontractor statements | nehal@boundless.earth | INV-0009 thread, Aug 2026 |
 | Dan Pediaditis | Head of Philanthropy | | Thursday SMM meeting |
 | Caro Vu | Chief of Staff → new global philanthropic unit | | Thursday SMM meeting |
 | Georgia Laurandos | Commercial & Investments Associate Director | | Thursday SMM meeting |
@@ -39,7 +39,7 @@ Worlds: **CH** Charlotte · **BT** Breakthrough Tools · **CO** Consulting ·
 | Jess Miller | Deputy Lord Mayor of Sydney; TradieShift founder | miller.jess@gmail.com | **TS / TS3 = TradieShift** (Charlotte workstream) |
 | Alex Vitlin, Jonny (Brown Cardigan), Liana (Surprisingly Professional) | TradieShift team *?* | alexvitlin@gmail.com, jonny@browncardigan.com, liana@surprisinglyprofessional.xyz | TS3 x Charlotte |
 | Grace McBride, Rochelle, Tess | **Sentiment Agency** — digital and campaign shop specialising in influencers | grace@sentiment.agency | Charlotte influencer workstream |
-| Tom Milledge | Milledge Studio (design *?*) | tom@milledge.studio | |
+| Tom Milledge | Milledge Studio, brand designer: Your Shout Gas brand identity (Phase 1 final invoice Apr 2026) and the Charlotte Project brand identity (estimate approved 19 Aug 2026) | tom@milledge.studio | |
 | Moira | Former PMO staffer (worked with Katie); introduced by Austin Phillips. **Potential Charlotte adviser** only; not on staff, nothing agreed | | Owed a measurement brief since 22 Jul |
 | Katie's digital network | Adam Knobel (Progress), Rob Flaherty (US digital), Austin Phillips (PMO digital), Georgia Kriz, Kate Ryan, Harry Nelly, Liz Bennett | | "Charlotte Draft outreach list" sheet, Jul 2026 — warm intros via Katie |
 | Global SMM network | Tom Lillywhite (UK), Ben Brandzel (OPEN), Sandor Madovy (Amplify:Good), Kevin Grandia (Canada), Ian Palmer (NZ), Gautam Raju (Movember), Mary Fitzgerald (CommsHub / Meliore) | | Thursday Social Media Meeting group (Notion Contacts) |
