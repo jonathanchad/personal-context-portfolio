@@ -6,6 +6,10 @@ Newest first. Format: `YYYY-MM-DD — entry` with a source in brackets.
   (finish the Middle Powers Australian country assessment from the 1 Sep
   draft, using the ALP research, the "Understanding Australia" memo,
   polling on hand, Erso/OPPO/AI Signal; Dione note first). [this session]
+- 2026-09-05 — Voice rule added: clarity, storytelling, humour; "chew
+  the reader's food for them". Never presume shared context, inside
+  jokes or prior analysis. Concise is not the same as truncated.
+  [Jonathan]
 - 2026-09-05 — Notion Organisations corrected to match consulting.md:
   Funder/Ally/Remove options added; 30 rows updated; Nura Fund, Meliore,
   GSCC, 89 Degrees East created; Solutions for Climate renamed CANA;

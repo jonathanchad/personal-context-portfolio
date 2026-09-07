@@ -11,6 +11,16 @@ examples; this file is the rule set.
   reader's. One good line beats three.
 - **Concise.** Say it, then stop. Short paragraphs. No warm-up, no
   wind-down.
+- **Clarity, storytelling, humour.** The three things every piece is
+  judged on. Clarity first.
+- **Chew the reader's food for them.** Jonathan's phrase, 5 Sep 2026.
+  Assume the reader has none of the context in this repo, none of the
+  inside jokes, and has not read the analysis behind the point. Spell
+  out the step from fact to conclusion. Name the thing rather than
+  alluding to it. Concise means no padding; it never means leaving out
+  the explanation the reader needs. The truncated AI style that gestures
+  at a point and presumes the reader already agrees does not fly.
+  When in doubt, add the sentence that explains why.
 - **Australian English**, always.
 - **No AI tells. Ever.** Run `remove-ai-flourishes` on every draft before
   it goes anywhere.
