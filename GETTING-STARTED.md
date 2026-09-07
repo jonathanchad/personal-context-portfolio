@@ -5,23 +5,21 @@ confirming the parts that were pattern-matched rather than stated.
 
 ## Confirm (highest value first)
 
-1. **`people.md`** — any role still marked *?*.
-2. **Notion Organisations** — changes derived from the 5 Sep worksheet,
-   waiting for Jonathan's tick (worksheet section F was not scanned):
-   JCN to Current; ACBF, Environment Victoria, Footy for Climate, ISNSW
-   to Prospect; 1 Million Women, BZE, ECF, CDA to Past; Lockslie,
-   89 Degrees East, Surfers for Climate to Not a client / Supplier;
-   Sunrise Foundation to Prospect and rename The Sunrise Project; add a
-   "Funder" type for Boundless Earth, CANA, Nura, Meliore; merge AISNSW
-   into ISNSW, PIE into ECF, Solutions for Climate into CANA; remove
-   Soul Freedom Movement, STEF, The Safer Air Project; Together (ASU) to
-   Prospect (CapacityAI).
-2a. **Still open from the worksheet:** ACTU's status. (The Nura item is
-   now fully specified in `worlds/consulting.md`; it is overdue work, not
-   an open question.)
-3. **`communication-style.md`** — signature phrases; whether the register
-   shifts by audience.
-4. **`worlds/personal.md`** — anything else agents should protect.
+1. **Notion Organisations**: five rows are marked "Remove" (AISNSW, PIE,
+   Soul Freedom Movement, STEF, The Safer Air Project). The connector
+   cannot delete pages; delete them in Notion.
+2. **`people.md`**: confirm "Dan Cheryl" (ACTU) and "Annie O'Rourke" vs
+   "Ann O'Reilly" (89 Degrees East) spellings.
+3. **`worlds/personal.md`**: anything else agents should protect.
+
+## Next build, once the context package is signed off
+
+Daily audio brief with a real mp3 attached. The ElevenLabs MCP connector
+can generate speech but the bytes never reach the routine; direct REST
+is blocked from remote sessions. Jonathan's call, 5 Sep: wire it up with
+ElevenLabs or something else, and a small Fly.io service is acceptable
+(the pattern in Eytan's DailyDigest). Design the service around the
+routine output in this repo, not around a new prompt.
 
 ## How to update
 

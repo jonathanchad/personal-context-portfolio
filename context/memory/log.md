@@ -6,6 +6,19 @@ Newest first. Format: `YYYY-MM-DD — entry` with a source in brackets.
   (finish the Middle Powers Australian country assessment from the 1 Sep
   draft, using the ALP research, the "Understanding Australia" memo,
   polling on hand, Erso/OPPO/AI Signal; Dione note first). [this session]
+- 2026-09-05 — Notion Organisations corrected to match consulting.md:
+  Funder/Ally/Remove options added; 30 rows updated; Nura Fund, Meliore,
+  GSCC, 89 Degrees East created; Solutions for Climate renamed CANA;
+  Sunrise Foundation renamed The Sunrise Project. Five rows marked
+  Remove for Jonathan to delete. [this session]
+- 2026-09-05 — Pan Pacs = Pan Pacific Masters Games, Gold Coast, 6 to
+  15 Nov 2026, swimming 12 to 14 Nov; events 50 free, 50 fly, mixed 100
+  and 200 free. Rebecca Chew and Kajute at Boundless; TradieShift team
+  is Alex Vitlin, Jonny, Liana, Jess Miller (independent consultants
+  under one brand); Gianni Sottile is Boundless's contractor running
+  Solar Sharer; ACTU is an ally, contact Dan Cheryl. Voice sign-offs
+  written from sent mail. Next build: daily audio, Fly.io acceptable.
+  [Jonathan]
 - 2026-09-05 — Nura item identified from Mary Fitzgerald's 14 Aug
   "analysis request": the Australian country assessment for Nura Fund's
   Middle Powers climate comms strategy, EUR 500 honorarium, due end Aug,

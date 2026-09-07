@@ -11,6 +11,9 @@ prioritising on Jonathan's behalf must respect these.
   commitment (e.g. Saturday 9:30–10:30, Newmarket/Centenary pool). When
   Katie travels, Grandad covers squad runs.
 - **Wedding anniversary: 4 September.** Protect it.
+- **Jonathan swims.** Pan Pacific Masters Games, Gold Coast, 6 to 15 Nov
+  2026; his swimming is 12 to 14 Nov (50 free, 50 fly, mixed 100 and
+  200 free). Training is fixed. See `goals-and-priorities.md` goal 2.
 
 ## Community
 

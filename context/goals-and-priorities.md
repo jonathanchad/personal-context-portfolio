@@ -56,10 +56,16 @@ calibration report.
 
 ### 2. Swim well at Pan Pacs
 
+**Pan Pacific Masters Games, Gold Coast, 6 to 15 November 2026. Swimming
+12 to 14 November.** His events: Men's 50m Freestyle, Men's 50m
+Butterfly, Mixed 100m Freestyle, Mixed 200m Freestyle.
+
 - **Sub-30 on the 50 free.**
 - **PB on the 50 fly.**
 
 Training is a fixed commitment. Agents plan around it, not through it.
+Keep 12 to 14 November clear of anything that can move; the Victorian
+election is 28 November, so the fortnight between is full.
 
 ### 3. Keep momentum on the Breakthrough tools
 

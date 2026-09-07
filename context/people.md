@@ -21,8 +21,8 @@ Worlds: **CH** Charlotte · **BT** Breakthrough Tools · **CO** Consulting ·
 | Larissa Brown | Project Lead / Project Consultant (clean-energy political consultant) | larissa@boundless.earth | Presents the Charlotte deck to Mike; AEGN "Hearts & Minds" briefing |
 | Dione Scheltus | Government Relations Lead | dione@boundless.earth | Your Shout Gas; frequent |
 | Eytan Lenko | Outgoing CEO / incoming Chair; incoming CEO of new global philanthropic unit | eytan@boundless.earth | Wrote the DailyDigest repo |
-| Rebecca Chew | *?* (ops/finance threads with Nicky, Kajute) | rebecca.chew@boundless.earth | Active Sep 2026 |
-| Kajute O'Riordan | *?* Impact Operations | kajute.oriordan@boundless.earth / kajute@impactoperations.ai | |
+| Rebecca Chew | Boundless Earth, ops/finance side (works with Nicky and Kajute) | rebecca.chew@boundless.earth | Active Sep 2026 |
+| Kajute O'Riordan | Boundless Earth operations (Impact Operations) | kajute.oriordan@boundless.earth / kajute@impactoperations.ai | |
 | Nehal | Boundless finance / accounts payable: processes BTS invoices, runs the weekly payment run, requests NSW subcontractor statements | nehal@boundless.earth | INV-0009 thread, Aug 2026 |
 | Dan Pediaditis | Head of Philanthropy | | Thursday SMM meeting |
 | Caro Vu | Chief of Staff → new global philanthropic unit | | Thursday SMM meeting |
@@ -37,7 +37,7 @@ Worlds: **CH** Charlotte · **BT** Breakthrough Tools · **CO** Consulting ·
 | Les White ("Locke", "Lockslie") | **Charlotte leadership team, on the payroll.** Director, Lockslie Consulting — conservative/regional comms | lockslieconsulting@gmail.com | Boot camp; Charlotte Weekly Spin; Notion says Current Client |
 | Becky Corbett | Prospective project-based role, strategy & influencer | beckyacorbett@gmail.com / bec@minniemgmt.com | Lunch with Simon, 27 Aug |
 | Jess Miller | Deputy Lord Mayor of Sydney; TradieShift founder | miller.jess@gmail.com | **TS / TS3 = TradieShift** (Charlotte workstream) |
-| Alex Vitlin, Jonny (Brown Cardigan), Liana (Surprisingly Professional) | TradieShift team *?* | alexvitlin@gmail.com, jonny@browncardigan.com, liana@surprisinglyprofessional.xyz | TS3 x Charlotte |
+| Alex Vitlin, Jonny (Brown Cardigan), Liana (Surprisingly Professional), Jess Miller | **The TradieShift team: four independent consultants working together under the TradieShift brand** | alexvitlin@gmail.com, jonny@browncardigan.com, liana@surprisinglyprofessional.xyz | TS3 x Charlotte |
 | Grace McBride, Rochelle, Tess | **Sentiment Agency** — digital and campaign shop specialising in influencers | grace@sentiment.agency | Charlotte influencer workstream |
 | Tom Milledge | Milledge Studio, brand designer: Your Shout Gas brand identity (Phase 1 final invoice Apr 2026) and the Charlotte Project brand identity (estimate approved 19 Aug 2026) | tom@milledge.studio | |
 | Moira | Former PMO staffer (worked with Katie); introduced by Austin Phillips. **Potential Charlotte adviser** only; not on staff, nothing agreed | | Owed a measurement brief since 22 Jul |
@@ -64,7 +64,7 @@ Yajilarra wants proof of concept before funding Charlotte directly.
 |---|---|---|
 | Margo Lockhart | Director | margo@afae.net.au / margo@margolockhart.com.au |
 | Alex Linton | **Comms Lead — hired** (alex@afae.net.au live from late Aug) | alex@afae.net.au / alex.linton@pm.me |
-| Gianni Sottile | Sottile Advisory — AFAE strategy/board *?*; Solar Dividend; IEEFA report | gianni@sottileadvisory.com.au |
+| Gianni Sottile | Sottile Advisory. **Boundless contractor in charge of the Solar Sharer programme**; Solar Dividend; IEEFA report | gianni@sottileadvisory.com.au |
 | J Gordon | IEEFA — Solar Sharer report | jgordon@ieefa.org |
 | Edwyn Shiell | DCCEEW — Solar Sharer | edwyn.shiell@dcceew.gov.au |
 
@@ -88,6 +88,7 @@ Fortnightly "Diesel Group" and "gas tax core strategy" meetings.
 | ATSE | Olivia Allen, Nicola Smillie, Dan Wheelahan |
 | Minderoo | N Comparti, N Cera, B Jafari |
 | LEAN | Louise, Jude, Felicity, Janaline |
+| ACTU (Australian Council of Trade Unions) | Ally organisation on many of the same issues; not a client. Main contact **Dan Cheryl** (spelling from voice, confirm) | |
 | Others | John Daley; Nick Haines (Watershed Change); Charlie Caruso; Christina Hobbs (Future Group); Joe Rafalowicz (Greenpeace); Rob Potter, Tim Lamacraft (Smart Energy Council); Deidre Willmott (Fortescue); Alex Engel-Mallon (Climate Council); Daniel Sherrell (ACTU); Miles Prosser, Toby Phillips (CPD); Jane, Thomas (ThinkForward); Lachlan (Curtin RC); Mandala Partners (Amit Singh, Tom McMahon, Nikhil Babu) |
 | GSCC | Dan Hurst — **funded Your Shout Gas**; energy-security digital campaign scoped |
 | Sunshine Coast Environment Council (SCEC) | Steph | Past: an evaluation, paid for by Environmental Legacy Foundation |

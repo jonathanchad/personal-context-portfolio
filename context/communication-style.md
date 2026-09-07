@@ -51,6 +51,18 @@ declaratives that assert without arguing.
 - `remove-ai-flourishes` — the standing style guard.
 - Weekly AAR prompt — tone for coaching contexts.
 
-## Still open
+## Sign-offs and openers he actually uses (from sent mail, 2026)
 
-- Signature phrases he actually uses, and words he never uses.
+- Openers: "Hey [first name]," to people he knows; "Hi [first name]," to
+  the rest; "Hey mate" to close colleagues; "Good morning Team!" to
+  Boundless.
+- Sign-offs: **"Thanks - jcs"**, **"Looking forward - jcs"**, or just
+  "Thanks!" Sometimes "Cheers, jcs". Never "Best regards", never
+  "Warm regards".
+- Signature block ends with the acknowledgement of country: "I live and
+  work on the lands of the Jagera and Turrbul people, whose sovereignty
+  was never ceded, and pay my respect to the Elders past, present, and
+  emerging." Keep it; don't paraphrase it.
+- Self-deprecation in the first line when he's late or has slipped
+  ("Obviously my email earlier didn't go through. I was on a plane").
+- One register for everyone. He does not go formal for funders.
