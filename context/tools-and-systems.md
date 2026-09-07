@@ -57,5 +57,24 @@
   normalization for acronyms/numbers/%) and its player-page aesthetic
   (dark gradient background, white rounded card, speed controls).
 
+## Connector quirks found 5 Sep 2026
+
+- **Xero connector is linked to Charlotte Project Pty Ltd**, not
+  Breakthrough Strategies Co. It sees the Charlotte invoices only. BTS
+  invoices have to be read from Xero's emailed copies in Gmail
+  (`from:messaging-service@post.xero.com`), which started July 2026;
+  before that BTS used Thriday. Gaps in the BTS invoice number sequence
+  are deleted mistakes, not missing customers.
+- **Notion Organisations** (data source e51e1250-24c1-43b8-80fe-e7e9ccc733bd)
+  now carries Client Type = Current Client / Prospect / Past Client /
+  Funder / Partner / Ally / Remove, matching `worlds/consulting.md`.
+  The connector cannot delete pages; rows marked Remove wait for a manual
+  delete. Each page update is one tool call, so bulk changes prompt per
+  row unless the session is in auto mode.
+- **Google Calendar semantic search** misses plain event titles; search
+  Gmail for the event name instead.
+- **Egress** also blocks mastersgames.com.au; use WebSearch for public
+  facts when a fetch is refused.
+
 ---
 _Seeded from the live prompts of the Donna and Weekly AAR routines._
