@@ -1,7 +1,8 @@
 # Getting Started — what's still open
 
-The structure is in place and four routines read from it. What remains is
-confirming the parts that were pattern-matched rather than stated.
+The structure is in place. Six routines read from it live: Morning Chief
+of Staff, Donna Processor v2, Weekly AAR, Monthly directions diff, the
+Allianz watch, and the AI Signal benchmark. What remains is small.
 
 ## Confirm (highest value first)
 
@@ -11,14 +12,11 @@ confirming the parts that were pattern-matched rather than stated.
 2. **`people.md`**: confirm "Dan Cheryl" (ACTU) and "Annie O'Rourke" vs
    "Ann O'Reilly" (89 Degrees East) spellings.
 3. **`worlds/personal.md`**: anything else agents should protect.
-
-## Agent streamlining (from the 9 Sep brain dump)
-
-`agents/README.md` has the inventory and the plan. Decisions Jonathan
-owes: delete the four dead routines; keep or fold the monthly directions
-diff; re-enable or retire Donna End of Day; confirm the P&C, LAN and
-Rackley mailbox addresses for `context/accounts.md`. Then the morning
-brief is rebuilt as the Morning Chief of Staff.
+4. **Watch the first Morning Chief of Staff run** (next weekday, 06:00
+   Brisbane). It's new and unproven: check the report length, whether
+   the "nothing to worry about" section reads as reassuring rather than
+   padding, and whether all 8 mailboxes actually came back. Tune from
+   there — see `agents/README.md`.
 
 ## Next build: daily audio, rebuilt from scratch (session to be scheduled)
 
@@ -41,6 +39,17 @@ live. Walk in with this agenda:
    `agents/routines/`.
 
 Old prompt, for reference: `agents/routines/donna-end-of-day-reconcile-audio-email.md`.
+
+## Smaller follow-ons noted in `agents/README.md`
+
+- Donna should produce a clean dated "overnight" block the Morning Chief
+  of Staff can read, instead of the Chief of Staff re-reading raw
+  meeting notes.
+- The Allianz watch is still its own routine rather than a line in
+  `accounts.md`; folding it in would lose its guaranteed daily check on
+  one thread, so it stays separate for now.
+- Whether the Monthly directions diff should fold into the first-Saturday
+  AAR run instead of its own schedule.
 
 ## How to update
 
