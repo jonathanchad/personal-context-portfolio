@@ -6,11 +6,8 @@ Allianz watch, and the AI Signal benchmark. What remains is small.
 
 ## Confirm (highest value first)
 
-1. **Notion Organisations**: five rows are marked "Remove" (AISNSW, PIE,
-   Soul Freedom Movement, STEF, The Safer Air Project). The connector
-   cannot delete pages; delete them in Notion.
-2. **`worlds/personal.md`**: anything else agents should protect.
-3. **Watch the first Morning Chief of Staff run** (next weekday, 06:00
+1. **`worlds/personal.md`**: anything else agents should protect.
+2. **Watch the first Morning Chief of Staff run** (next weekday, 06:00
    Brisbane). It's new and unproven: check the report length, whether
    the "nothing to worry about" section reads as reassuring rather than
    padding, and whether all 8 mailboxes actually came back. Tune from
