@@ -9,8 +9,8 @@ marked and are the first thing to fix.
 
 **Final list, Jonathan, 9 Sep 2026** — replaces every earlier draft in
 this file. Eight accounts, each with the role he gave it. All eight are
-in scope for the morning scan; he will add the ones not yet in
-Superhuman himself.
+in scope for the morning scan. 5 of 8 linked as of 9 Sep; 3 remain
+(P&C President, LAN operations, Your Shout Gas admin).
 
 | # | Account | Role (Jonathan's words) | World | In Superhuman | Linked to agent connector |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@ Superhuman himself.
 | 5 | operations@afae.net.au | AFAE Maintenance | consulting | yes | yes |
 | 6 | operations@liberalsagainstnuclear.au | AFAE Maintenance *(as given; flagged below)* | consulting | yes | no |
 | 7 | admin@yourshoutgas.com.au | added, active campaign | consulting | no | no |
-| 8 | Centenary.race@rackleyswimteam.com.au | Race Volunteer Organiser | personal | no | no |
+| 8 | Centenary.race@rackleyswimteam.com.au | Race Volunteer Organiser | personal | yes | **yes, linked 9 Sep** |
 
 **Flag, not silently corrected:** rows 5 and 6 both say "AFAE
 Maintenance" in Jonathan's list, but row 6's address is
