@@ -6,6 +6,11 @@ Newest first. Format: `YYYY-MM-DD — entry` with a source in brackets.
   (finish the Middle Powers Australian country assessment from the 1 Sep
   draft, using the ALP research, the "Understanding Australia" memo,
   polling on hand, Erso/OPPO/AI Signal; Dione note first). [this session]
+- 2026-09-09 — Full mailbox list from Jonathan's Superhuman screenshot
+  (11 addresses) written into accounts.md; 4 linked to the connector.
+  Proposed scan set: BTS, Charlotte, gmail, P&C president, swim club,
+  AFAE ops, LAN operations. Jonathan: "I don't need all of those";
+  awaiting his cut. [Jonathan]
 - 2026-09-09 — End of Day (audio) retired, to be rebuilt from scratch in
   a dedicated session with the wiring verified first. Agenda in
   GETTING-STARTED. [Jonathan]

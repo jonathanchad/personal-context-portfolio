@@ -7,16 +7,29 @@ marked and are the first thing to fix.
 
 ## Mailboxes
 
-| Account | World | Wired how | Volume | Watch for | Status |
+Eleven addresses live in Jonathan's Superhuman (screenshot, 9 Sep 2026).
+Only four are linked to the Superhuman MCP connector that agents use, so
+"scan" below means "should scan once linked". Jonathan, 9 Sep: "I don't
+need all of those." The Scan column is the proposal; he corrects it.
+
+| Account | World | In Superhuman | Linked to the agent connector | Scan in the morning brief? | Watch for |
 |---|---|---|---|---|---|
-| jonathan@breakthroughstrategies.co | consulting, tools | Superhuman (primary), Gmail connector | high | everything | wired |
-| jonathan@charlotteproject.au | charlotte | Superhuman | medium | funder and team mail | wired |
-| jonathanchad@gmail.com | personal | Superhuman, Gmail connector | low | Allianz claim 6210520873, school, family admin | wired; Allianz thread watched daily |
-| operations@afae.net.au | consulting (AFAE ops) | Superhuman | low | payroll, Xero, supplier invoices, Margo | wired; no routine reads it yet |
-| P&C mailbox (executive@icsspandc.com and/or a personal P&C address) | personal (P&C President) | **not connected** | low | Jodie Painter, school, time capsule RSVPs, website | **gap: confirm address, connect** |
-| operations@liberalsagainstnuclear.au | consulting (LAN wind-down) | **not connected** | low | Ripple Legal, insurance, shutdown admin | **gap** |
-| Rackley swimming / race-timing account | personal | **not connected**; address unknown | low | meet entries, timing duties | **gap: confirm address** |
-| oppo@breakthroughstrategies.co | tools | OPPO app sends from it | n/a | subscriber replies | handled by the OPPO app, not a personal routine |
+| jonathan@breakthroughstrategies.co | consulting, tools | yes (primary) | **yes** | **yes** | everything |
+| jonathan@charlotteproject.au | charlotte | yes | **yes** | **yes** | funders, team, Boundless |
+| jonathanchad@gmail.com | personal | yes | **yes** | **yes** | Allianz claim 6210520873, family and school admin, Rackley squad |
+| jonathan.schleifer@icsspandc.com | personal (P&C President) | yes | no | **yes, once linked** | Jodie Painter, time capsule RSVPs, website, P&C executive |
+| swimclubVC1@icsspandc.com | personal (ICSS Sharks Swim Club, race timing) | yes | no | **yes, once linked** | meet entries, timing duties. *Confirm this is the "Rackley / race timing" account from the 9 Sep notes* |
+| operations@afae.net.au | consulting (AFAE ops) | yes | **yes** | **yes** | payroll, Xero, supplier invoices, Margo |
+| operations@liberalsagainstnuclear.au | consulting (LAN wind-down) | yes | no | **yes, once linked** | Ripple Legal, insurance, shutdown admin |
+| contact@liberalsagainstnuclear.au | consulting (LAN) | yes | no | no | public inbox; skim only if the wind-down needs it |
+| admin@liberalsagainstnuclear.au | consulting (LAN) | yes | no | no | |
+| andrew@liberalsagainstnuclear.au | consulting (LAN) | yes | no | no | someone else's mailbox; not Jonathan's to triage |
+| admin@yourshoutgas.com.au | consulting (Your Shout Gas) | yes | no | no | campaign admin; Gather Media and Nidhi handle day to day |
+| oppo@breakthroughstrategies.co | tools | no (app sends from it) | no | no | subscriber replies, handled by the OPPO app |
+
+To link a mailbox to the connector: Superhuman connector, add account.
+Do this only for the rows marked "once linked", and only when Jonathan
+says so.
 
 ## Calendars (Google Calendar connector, 9 Sep 2026)
 
