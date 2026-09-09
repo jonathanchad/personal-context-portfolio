@@ -2,8 +2,8 @@
 name: "Morning Chief of Staff"
 trigger_id: trig_01BZdfHczNrNwrooRuEXtW61
 platform: Cowork Routine (Claude)
-schedule_utc: "0 21 * * 0-4"
-schedule_local: "weekdays 07:00 Brisbane"
+schedule_utc: "0 20 * * 0-4"
+schedule_local: "weekdays 06:00 Brisbane"
 enabled: true
 model: claude-opus-5
 rebuilt: 2026-09-09

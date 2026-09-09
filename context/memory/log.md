@@ -6,6 +6,8 @@ Newest first. Format: `YYYY-MM-DD — entry` with a source in brackets.
   (finish the Middle Powers Australian country assessment from the 1 Sep
   draft, using the ALP research, the "Understanding Australia" memo,
   polling on hand, Erso/OPPO/AI Signal; Dione note first). [this session]
+- 2026-09-09 — Morning Chief of Staff moved from 07:00 to 06:00 Brisbane;
+  Jonathan sometimes works that early. [Jonathan]
 - 2026-09-09 — Morning brief rebuilt as the Morning Chief of Staff. Same
   Cowork Routine (trig_01BZdfHczNrNwrooRuEXtW61), new prompt: scans all 8
   registered mailboxes via Superhuman acting_email, reads all 7 Google
