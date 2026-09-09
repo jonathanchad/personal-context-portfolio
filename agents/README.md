@@ -12,7 +12,7 @@ then refactor shared logic into `context/`.
 |---|---|---|---|---|---|---|
 | 1 | **Morning brief** | weekdays 07:00 | live | repo, Google Calendar (primary only), Gmail/Superhuman (generic), Todoist, Notion, Granola | HTML artifact | One-day plan across all worlds via the generic `/morning` skill |
 | 2 | **Donna — Processor v2** | weekdays 10:00 to 18:00, 2-hourly | live | repo, Granola, Otter, Calendar, Gmail, Notion, Todoist | Todoist tasks, Gmail drafts, Notion Donna Log and Run History | Meeting notes into commitments and follow-up drafts |
-| 3 | **Donna — End of Day (audio)** | daily 18:15 | **disabled 6 Sep** | repo, Todoist, Gmail, Notion, ElevenLabs | Todoist completions, Gmail draft with audio link, Notion Run History | Reconcile the day's loops and read a 90-second summary |
+| 3 | **Donna — End of Day (audio)** | daily 18:15 | **retired 9 Sep; rebuild from scratch later** | repo, Todoist, Gmail, Notion, ElevenLabs | Todoist completions, Gmail draft with audio link, Notion Run History | Reconcile the day's loops and read a 90-second summary |
 | 4 | **Weekly AAR** | Saturday 06:00 | live | repo, Calendar, Todoist, Notion, Granola, Otter | Notion AAR db, email, proposed context updates | Blunt weekly retrospective, drift check against goals |
 | 5 | **Monthly Claude directions diff** | 1st, 14:00 | live | Notion Sessions db, Gmail, Calendar, Todoist | Report | Are the skills and standing instructions still what he actually does |
 | 6 | **Watch for Allianz reply** | daily 09:00 | live | Gmail personal (via Superhuman acting_email) | Report | One low-volume inbox, one thread, until the claim closes |
@@ -99,10 +99,10 @@ it checked, and the accounts with nothing to worry about. The Allianz
 watch then becomes a line in the registry ("watch this thread"), not a
 routine.
 
-**Decide one thing**: End of Day. Either re-enable it as the evening
-specialist once audio delivery works, or move its reconciliation into the
-Processor's last run of the day and drop it. Two summaries a day plus a
-weekly one is one too many unless the evening one is spoken.
+**Decided 9 Sep**: End of Day stays off and will be rebuilt from scratch
+in a dedicated session, with the wiring verified end to end before it is
+switched on. The Processor's last run of the day covers reconciliation
+until then. Agenda for that session is in `GETTING-STARTED.md`.
 
 **Then**: the platform-neutral repo the notes ask for is this one.
 `agents/` holds definitions; `context/` holds shared context and rules;

@@ -61,7 +61,7 @@ repo started from — reference only.
 |---|---|---|
 | **Morning brief** (weekday mornings) | identity, goals, worlds/*, personal | — |
 | **Donna — Processor v2** (weekdays, 2-hourly) | identity, tools, preferences, worlds/consulting + charlotte | Todoist, Notion Donna Log / Run History |
-| **Donna — End of Day** (daily 18:15; **disabled since 6 Sep 2026**, decision pending, see `agents/README.md`) | identity, tools, preferences, worlds/consulting | Todoist, Gmail draft, Notion Run History |
+| **Donna — End of Day** | retired 9 Sep 2026; to be rebuilt from scratch with working audio, see `agents/README.md` | — |
 | **Weekly AAR** (Fridays) | identity, goals, worlds/*, memory/log | Notion AAR db; **proposes context updates** |
 
 Update the files here, not the routine prompts, when something changes.
