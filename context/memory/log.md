@@ -6,6 +6,7 @@ Newest first. Format: `YYYY-MM-DD — entry` with a source in brackets.
   (finish the Middle Powers Australian country assessment from the 1 Sep
   draft, using the ALP research, the "Understanding Australia" memo,
   polling on hand, Erso/OPPO/AI Signal; Dione note first). [this session]
+- 2026-09-09 — Corrected the Rackley address: .com.au, not .com. [Jonathan]
 - 2026-09-09 — Final mailbox list from Jonathan, replacing the earlier
   draft: 8 accounts with named roles (BTS CEO/principal, Charlotte
   CEO/Founder, personal, P&C President, AFAE Maintenance x2 — flagged,

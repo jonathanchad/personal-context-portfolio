@@ -21,7 +21,7 @@ Superhuman himself.
 | 5 | operations@afae.net.au | AFAE Maintenance | consulting | yes | yes |
 | 6 | operations@liberalsagainstnuclear.au | AFAE Maintenance *(as given; flagged below)* | consulting | yes | no |
 | 7 | admin@yourshoutgas.com.au | added, active campaign | consulting | no | no |
-| 8 | Centenary.race@rackleyswimteam.com | Race Volunteer Organiser | personal | no | no |
+| 8 | Centenary.race@rackleyswimteam.com.au | Race Volunteer Organiser | personal | no | no |
 
 **Flag, not silently corrected:** rows 5 and 6 both say "AFAE
 Maintenance" in Jonathan's list, but row 6's address is
@@ -32,7 +32,7 @@ whether "AFAE Maintenance" was meant for row 5 only and row 6 should
 read "LAN wind-down" as before.
 
 **Dropped from the previous draft:** swimclubVC1@icsspandc.com (P&C
-swim club) is not on this final list; Centenary.race@rackleyswimteam.com
+swim club) is not on this final list; Centenary.race@rackleyswimteam.com.au
 (Rackley Swim Team, Centenary — race volunteer organising) replaces it
 as the swimming-world address. contact@liberalsagainstnuclear.au,
 admin@liberalsagainstnuclear.au, andrew@liberalsagainstnuclear.au and
