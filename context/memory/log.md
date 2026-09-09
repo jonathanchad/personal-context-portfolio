@@ -6,6 +6,9 @@ Newest first. Format: `YYYY-MM-DD — entry` with a source in brackets.
   (finish the Middle Powers Australian country assessment from the 1 Sep
   draft, using the ALP research, the "Understanding Australia" memo,
   polling on hand, Erso/OPPO/AI Signal; Dione note first). [this session]
+- 2026-09-09 — Your Shout Gas admin account linked. All 8 registry
+  accounts now linked to the Superhuman connector. Account registry
+  complete; the morning scan can reach every mailbox. [Jonathan]
 - 2026-09-09 — LAN operations account linked to the Superhuman
   connector. 7 of 8 registry accounts now linked. [Jonathan]
 - 2026-09-09 — P&C President account linked to the Superhuman connector.

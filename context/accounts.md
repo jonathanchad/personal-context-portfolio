@@ -8,8 +8,9 @@ marked and are the first thing to fix.
 ## Mailboxes
 
 **Final list, Jonathan, 9 Sep 2026** — replaces every earlier draft in
-this file. Eight accounts, each with the role he gave it. All eight are
-in scope for the morning scan. 7 of 8 linked as of 9 Sep; 1 remains (Your Shout Gas admin).
+this file. Eight accounts, each with the role he gave it. **All eight
+linked to the Superhuman connector as of 9 Sep 2026.** The morning scan
+can read every registered mailbox.
 
 | # | Account | Role (Jonathan's words) | World | In Superhuman | Linked to agent connector |
 |---|---|---|---|---|---|
@@ -19,7 +20,7 @@ in scope for the morning scan. 7 of 8 linked as of 9 Sep; 1 remains (Your Shout 
 | 4 | jonathan.schleifer@icsspandc.com | P&C President | personal | yes | **yes, linked 9 Sep** |
 | 5 | operations@afae.net.au | AFAE Maintenance | consulting | yes | yes |
 | 6 | operations@liberalsagainstnuclear.au | AFAE Maintenance *(as given; flagged below)* | consulting | yes | **yes, linked 9 Sep** |
-| 7 | admin@yourshoutgas.com.au | added, active campaign | consulting | no | no |
+| 7 | admin@yourshoutgas.com.au | added, active campaign | consulting | yes | **yes, linked 9 Sep** |
 | 8 | Centenary.race@rackleyswimteam.com.au | Race Volunteer Organiser | personal | yes | **yes, linked 9 Sep** |
 
 **Flag, not silently corrected:** rows 5 and 6 both say "AFAE
