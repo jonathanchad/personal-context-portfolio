@@ -6,6 +6,10 @@ Newest first. Format: `YYYY-MM-DD — entry` with a source in brackets.
   (finish the Middle Powers Australian country assessment from the 1 Sep
   draft, using the ALP research, the "Understanding Australia" memo,
   polling on hand, Erso/OPPO/AI Signal; Dione note first). [this session]
+- 2026-09-09 — Mailbox scan set settled: add Your Shout Gas admin (active
+  campaign, Jonathan wants eyes on it); keep Andrew's LAN mailbox out
+  (not his to triage). 8 of 11 addresses in scope once linked. Jonathan
+  will add the missing accounts to Superhuman himself. [Jonathan]
 - 2026-09-09 — Full mailbox list from Jonathan's Superhuman screenshot
   (11 addresses) written into accounts.md; 4 linked to the connector.
   Proposed scan set: BTS, Charlotte, gmail, P&C president, swim club,

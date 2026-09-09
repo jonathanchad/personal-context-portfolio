@@ -23,13 +23,20 @@ need all of those." The Scan column is the proposal; he corrects it.
 | operations@liberalsagainstnuclear.au | consulting (LAN wind-down) | yes | no | **yes, once linked** | Ripple Legal, insurance, shutdown admin |
 | contact@liberalsagainstnuclear.au | consulting (LAN) | yes | no | no | public inbox; skim only if the wind-down needs it |
 | admin@liberalsagainstnuclear.au | consulting (LAN) | yes | no | no | |
-| andrew@liberalsagainstnuclear.au | consulting (LAN) | yes | no | no | someone else's mailbox; not Jonathan's to triage |
-| admin@yourshoutgas.com.au | consulting (Your Shout Gas) | yes | no | no | campaign admin; Gather Media and Nidhi handle day to day |
+| andrew@liberalsagainstnuclear.au | consulting (LAN) | yes | no | **no, kept out** | someone else's mailbox; Jonathan's call, 9 Sep: keep it out |
+| admin@yourshoutgas.com.au | consulting (Your Shout Gas) | yes | no | **yes, once linked** | active campaign; Jonathan wants eyes on it, 9 Sep |
 | oppo@breakthroughstrategies.co | tools | no (app sends from it) | no | no | subscriber replies, handled by the OPPO app |
 
 To link a mailbox to the connector: Superhuman connector, add account.
-Do this only for the rows marked "once linked", and only when Jonathan
-says so.
+Jonathan, 9 Sep: he will add the missing accounts himself. Once each is
+added, an agent session confirms it shows up in `list_accounts` and
+flips its row here to "yes" / "linked".
+
+**Settled scan set, 9 Sep 2026 (8 of 11):** breakthroughstrategies.co,
+charlotteproject.au, jonathanchad@gmail.com, P&C president
+(jonathan.schleifer@icsspandc.com), swim club (swimclubVC1@icsspandc.com),
+AFAE ops, LAN operations, Your Shout Gas admin. Excluded: LAN contact,
+LAN admin, Andrew's LAN mailbox, the OPPO sender address.
 
 ## Calendars (Google Calendar connector, 9 Sep 2026)
 
