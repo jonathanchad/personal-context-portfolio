@@ -10,7 +10,7 @@ then refactor shared logic into `context/`.
 
 | # | Routine | Schedule (Brisbane) | Status | Reads | Writes | Job in one line |
 |---|---|---|---|---|---|---|
-| 1 | **Morning brief** | weekdays 07:00 | live | repo, Google Calendar (primary only), Gmail/Superhuman (generic), Todoist, Notion, Granola | HTML artifact | One-day plan across all worlds via the generic `/morning` skill |
+| 1 | **Morning Chief of Staff** (rebuilt 9 Sep, was "Morning brief") | weekdays 07:00 | live | repo incl. accounts.md, all 8 registered mailboxes via Superhuman, 7 Google Calendars, Todoist | HTML artifact | Scans every mailbox and calendar, reports what it checked and what's clear, 7-day look-ahead, 1-3 moves for open blocks |
 | 2 | **Donna — Processor v2** | weekdays 10:00 to 18:00, 2-hourly | live | repo, Granola, Otter, Calendar, Gmail, Notion, Todoist | Todoist tasks, Gmail drafts, Notion Donna Log and Run History | Meeting notes into commitments and follow-up drafts |
 | 3 | **Donna — End of Day (audio)** | daily 18:15 | **retired 9 Sep; rebuild from scratch later** | repo, Todoist, Gmail, Notion, ElevenLabs | Todoist completions, Gmail draft with audio link, Notion Run History | Reconcile the day's loops and read a 90-second summary |
 | 4 | **Weekly AAR** | Saturday 06:00 | live | repo, Calendar, Todoist, Notion, Granola, Otter | Notion AAR db, email, proposed context updates | Blunt weekly retrospective, drift check against goals |
@@ -88,16 +88,18 @@ are preserved in `routines/` with `enabled: false` in the frontmatter.
 - Monthly directions diff: fold into the AAR as a first-Saturday extra
   step, or keep if the monthly cadence matters. One drift definition.
 
-**Rebuild one thing**: the Morning brief becomes the **Morning Chief of
-Staff**. It reads `context/accounts.md`, scans every registered mailbox
-(Superhuman `acting_email` per account) for the last 72 hours plus
-anything unread or pending, reads all seven calendars and deduplicates,
-looks seven days ahead, reads Donna's overnight block instead of the raw
-meeting notes, and outputs: what matters today, what it is at risk of
-missing, one to three moves for open blocks, what is coming, the accounts
-it checked, and the accounts with nothing to worry about. The Allianz
-watch then becomes a line in the registry ("watch this thread"), not a
-routine.
+**Rebuilt 9 Sep 2026.** The Morning brief is now the Morning Chief of
+Staff (`morning-chief-of-staff.md`, same trigger_id as the old routine).
+It reads `context/accounts.md` fresh every run, scans all 8 registered
+mailboxes via Superhuman `acting_email`, reads all 7 Google Calendars and
+deduplicates, looks 7 days ahead, and outputs: what matters today, what
+it is at risk of missing, one to three moves for open blocks, what is
+coming, every account and calendar it checked, and which of them had
+nothing needing attention. Not yet done: it still reads raw meeting
+notes rather than Donna's overnight output (Donna doesn't produce a
+dated overnight block yet — a follow-on improvement), and the Allianz
+watch is still its own routine rather than a registry line, since
+folding it in would drop its daily-scan guarantee for one thread.
 
 **Decided 9 Sep**: End of Day stays off and will be rebuilt from scratch
 in a dedicated session, with the wiring verified end to end before it is

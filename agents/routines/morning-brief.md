@@ -4,7 +4,8 @@ trigger_id: trig_01BZdfHczNrNwrooRuEXtW61
 platform: Cowork Routine (Claude)
 schedule_utc: "0 21 * * 0-4"
 schedule_local: "weekdays 07:00 Brisbane"
-enabled: true
+enabled: false
+superseded: 2026-09-09 by morning-chief-of-staff.md (same trigger_id, prompt replaced)
 model: claude-opus-5
 last_run: 2026-09-08T21:02:13.628960236Z ROUTINE_RUN_STATUS_SUCCEEDED
 captured: 2026-09-09
@@ -12,8 +13,7 @@ captured: 2026-09-09
 
 # Morning brief
 
-Captured verbatim from the live Cowork Routine on 9 Sep 2026, per the
-migration rule: copy first, refactor later. Metadata above; the prompt
+Captured verbatim from the live Cowork Routine on 9 Sep 2026. **Superseded the same day**: the routine (same trigger_id) now runs the Morning Chief of Staff prompt in `morning-chief-of-staff.md`. Kept for the record; the generic `/morning` skill this prompt invoked only ever read one calendar and had no account registry. Metadata above; the prompt
 below is untouched. Purpose, inputs and outputs are summarised in
 `agents/README.md`.
 
