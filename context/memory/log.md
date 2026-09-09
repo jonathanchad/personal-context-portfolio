@@ -6,6 +6,11 @@ Newest first. Format: `YYYY-MM-DD — entry` with a source in brackets.
   (finish the Middle Powers Australian country assessment from the 1 Sep
   draft, using the ALP research, the "Understanding Australia" memo,
   polling on hand, Erso/OPPO/AI Signal; Dione note first). [this session]
+- 2026-09-09 — Personal world file: added Jonathan's Rackley Swim Team
+  Centenary Race Volunteer Organiser role as a commitment to protect,
+  and an explicit rule never to name the sons. Confirm list closed;
+  GETTING-STARTED now just tracks watching the Chief of Staff's first
+  run. [this session]
 - 2026-09-09 — Jonathan deleted the five duplicate Notion Organisations
   rows (AISNSW, PIE, Soul Freedom Movement, STEF, The Safer Air Project)
   by hand in Notion. Confirmed gone by query. Client list reconciliation

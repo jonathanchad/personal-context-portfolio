@@ -14,6 +14,10 @@ prioritising on Jonathan's behalf must respect these.
 - **Jonathan swims.** Pan Pacific Masters Games, Gold Coast, 6 to 15 Nov
   2026; his swimming is 12 to 14 Nov (50 free, 50 fly, mixed 100 and
   200 free). Training is fixed. See `goals-and-priorities.md` goal 2.
+- **Jonathan is Rackley Swim Team's Centenary Race Volunteer Organiser**
+  (centenary.race@rackleyswimteam.com.au). Race-day organising for the
+  club is a commitment to protect, same as squad sessions — don't book
+  over race days without asking.
 
 ## Community
 
@@ -49,6 +53,10 @@ prioritising on Jonathan's behalf must respect these.
 
 ## Rules for agents
 
-- Don't book work over squad or family commitments without asking.
+- Don't book work over squad, race-day or family commitments without
+  asking.
 - Family details are in this repo because Jonathan asked for them; keep
   them here, not in client-facing material.
+- **Never name the sons.** Jonathan deliberately removed their names
+  from this repo; refer to them as "his sons" or "one of the boys",
+  never by name, in anything an agent writes or generates.

@@ -4,10 +4,9 @@ The structure is in place. Six routines read from it live: Morning Chief
 of Staff, Donna Processor v2, Weekly AAR, Monthly directions diff, the
 Allianz watch, and the AI Signal benchmark. What remains is small.
 
-## Confirm (highest value first)
+## Watch
 
-1. **`worlds/personal.md`**: anything else agents should protect.
-2. **Watch the first Morning Chief of Staff run** (next weekday, 06:00
+1. **Watch the first Morning Chief of Staff run** (next weekday, 06:00
    Brisbane). It's new and unproven: check the report length, whether
    the "nothing to worry about" section reads as reassuring rather than
    padding, and whether all 8 mailboxes actually came back. Tune from
