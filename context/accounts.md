@@ -7,36 +7,39 @@ marked and are the first thing to fix.
 
 ## Mailboxes
 
-Eleven addresses live in Jonathan's Superhuman (screenshot, 9 Sep 2026).
-Only four are linked to the Superhuman MCP connector that agents use, so
-"scan" below means "should scan once linked". Jonathan, 9 Sep: "I don't
-need all of those." The Scan column is the proposal; he corrects it.
+**Final list, Jonathan, 9 Sep 2026** — replaces every earlier draft in
+this file. Eight accounts, each with the role he gave it. All eight are
+in scope for the morning scan; he will add the ones not yet in
+Superhuman himself.
 
-| Account | World | In Superhuman | Linked to the agent connector | Scan in the morning brief? | Watch for |
+| # | Account | Role (Jonathan's words) | World | In Superhuman | Linked to agent connector |
 |---|---|---|---|---|---|
-| jonathan@breakthroughstrategies.co | consulting, tools | yes (primary) | **yes** | **yes** | everything |
-| jonathan@charlotteproject.au | charlotte | yes | **yes** | **yes** | funders, team, Boundless |
-| jonathanchad@gmail.com | personal | yes | **yes** | **yes** | Allianz claim 6210520873, family and school admin, Rackley squad |
-| jonathan.schleifer@icsspandc.com | personal (P&C President) | yes | no | **yes, once linked** | Jodie Painter, time capsule RSVPs, website, P&C executive |
-| swimclubVC1@icsspandc.com | personal (ICSS Sharks Swim Club, race timing) | yes | no | **yes, once linked** | meet entries, timing duties. *Confirm this is the "Rackley / race timing" account from the 9 Sep notes* |
-| operations@afae.net.au | consulting (AFAE ops) | yes | **yes** | **yes** | payroll, Xero, supplier invoices, Margo |
-| operations@liberalsagainstnuclear.au | consulting (LAN wind-down) | yes | no | **yes, once linked** | Ripple Legal, insurance, shutdown admin |
-| contact@liberalsagainstnuclear.au | consulting (LAN) | yes | no | no | public inbox; skim only if the wind-down needs it |
-| admin@liberalsagainstnuclear.au | consulting (LAN) | yes | no | no | |
-| andrew@liberalsagainstnuclear.au | consulting (LAN) | yes | no | **no, kept out** | someone else's mailbox; Jonathan's call, 9 Sep: keep it out |
-| admin@yourshoutgas.com.au | consulting (Your Shout Gas) | yes | no | **yes, once linked** | active campaign; Jonathan wants eyes on it, 9 Sep |
-| oppo@breakthroughstrategies.co | tools | no (app sends from it) | no | no | subscriber replies, handled by the OPPO app |
+| 1 | jonathan@breakthroughstrategies.co | CEO and principal consultant, includes Breakthrough Tools | consulting, tools | yes | yes |
+| 2 | jonathan@charlotteproject.au | CEO and Founder | charlotte | yes | yes |
+| 3 | jonathanchad@gmail.com | Personal | personal | yes | yes |
+| 4 | jonathan.schleifer@icsspandc.com | P&C President | personal | no | no |
+| 5 | operations@afae.net.au | AFAE Maintenance | consulting | yes | yes |
+| 6 | operations@liberalsagainstnuclear.au | AFAE Maintenance *(as given; flagged below)* | consulting | yes | no |
+| 7 | admin@yourshoutgas.com.au | added, active campaign | consulting | no | no |
+| 8 | Centenary.race@rackleyswimteam.com | Race Volunteer Organiser | personal | no | no |
 
-To link a mailbox to the connector: Superhuman connector, add account.
-Jonathan, 9 Sep: he will add the missing accounts himself. Once each is
-added, an agent session confirms it shows up in `list_accounts` and
-flips its row here to "yes" / "linked".
+**Flag, not silently corrected:** rows 5 and 6 both say "AFAE
+Maintenance" in Jonathan's list, but row 6's address is
+liberalsagainstnuclear.au, a different entity (LAN, winding down —
+see `worlds/consulting.md`). Recorded verbatim; ask Jonathan whether
+row 6 is actually AFAE-related mail routed through the LAN domain, or
+whether "AFAE Maintenance" was meant for row 5 only and row 6 should
+read "LAN wind-down" as before.
 
-**Settled scan set, 9 Sep 2026 (8 of 11):** breakthroughstrategies.co,
-charlotteproject.au, jonathanchad@gmail.com, P&C president
-(jonathan.schleifer@icsspandc.com), swim club (swimclubVC1@icsspandc.com),
-AFAE ops, LAN operations, Your Shout Gas admin. Excluded: LAN contact,
-LAN admin, Andrew's LAN mailbox, the OPPO sender address.
+**Dropped from the previous draft:** swimclubVC1@icsspandc.com (P&C
+swim club) is not on this final list; Centenary.race@rackleyswimteam.com
+(Rackley Swim Team, Centenary — race volunteer organising) replaces it
+as the swimming-world address. contact@liberalsagainstnuclear.au,
+admin@liberalsagainstnuclear.au, andrew@liberalsagainstnuclear.au and
+oppo@breakthroughstrategies.co are out of scope, per the 9 Sep decision.
+
+Once Jonathan adds an account to Superhuman, an agent session confirms
+it in `list_accounts` and flips its "linked" column to yes.
 
 ## Calendars (Google Calendar connector, 9 Sep 2026)
 
