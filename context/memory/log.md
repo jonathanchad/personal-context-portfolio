@@ -6,6 +6,14 @@ Newest first. Format: `YYYY-MM-DD — entry` with a source in brackets.
   (finish the Middle Powers Australian country assessment from the 1 Sep
   draft, using the ALP research, the "Understanding Australia" memo,
   polling on hand, Erso/OPPO/AI Signal; Dione note first). [this session]
+- 2026-09-09 — Agent inventory. Jonathan's ChatGPT brain dump (Morning
+  Chief of Staff, account registry, specialists feeding a cross-domain
+  decider, platform-neutral repo) saved to agents/DESIGN-NOTES. All 11
+  Cowork Routines captured verbatim into agents/routines/. Findings: 6
+  live, 4 dead, Donna End of Day disabled 6 Sep; the generic /morning
+  skill reads one calendar and no account list; four mailboxes wired via
+  Superhuman, P&C, LAN ops and Rackley not connected. context/accounts.md
+  started. Plan in agents/README.md, not yet applied. [this session]
 - 2026-09-05 — Voice rule added: clarity, storytelling, humour; "chew
   the reader's food for them". Never presume shared context, inside
   jokes or prior analysis. Concise is not the same as truncated.

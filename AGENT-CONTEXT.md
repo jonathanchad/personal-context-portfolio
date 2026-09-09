@@ -24,6 +24,7 @@ agents wherever possible (see `context/maintenance.md`).
 | `context/worlds/breakthrough-tools.md` | CapacityAI, AI Signal, Erso, OPPO: status, blockers, go-to-market pattern | Product work, pitches |
 | `context/worlds/consulting.md` | Client retainers, caps, pipeline, counterparties, routing shorthand | Client work, Donna routing, billing |
 | `context/worlds/personal.md` | Family, community roles, scheduling constraints | Scheduling, anything touching personal time |
+| `context/accounts.md` | Registry of every mailbox and calendar, what is wired, what is missing; the list a morning scan reports against | Any inbox or calendar scan |
 | `context/people.md` | Who he works with, by organisation, tagged by world; points at the Notion CRM | Drafting to someone, meeting prep, routing |
 | `context/communication-style.md` | Voice — points at the canonical writer skills | Writing as Jonathan |
 | `context/tools-and-systems.md` | Connectors, data sources, known quirks (egress block, MCP path) | Wiring, debugging |
@@ -31,7 +32,7 @@ agents wherever possible (see `context/maintenance.md`).
 | `context/memory/log.md` | Dated log of decisions that changed this context | Before proposing a change |
 | `context/maintenance.md` | Who keeps each file current, and the weekly loop | Before editing anything here |
 
-`prompts/` holds reusable hand-off prompts for specific jobs (paste into
+`agents/` holds the inventory of every automation, each Cowork Routine prompt captured verbatim, and the streamlining plan (`agents/README.md`). `prompts/` holds reusable hand-off prompts for specific jobs (paste into
 a fresh Cowork or Claude Desktop session). `templates/`, `examples/`,
 `wiring/`, `interview-protocol/` are the original generic template this
 repo started from — reference only.
@@ -60,7 +61,7 @@ repo started from — reference only.
 |---|---|---|
 | **Morning brief** (weekday mornings) | identity, goals, worlds/*, personal | — |
 | **Donna — Processor v2** (weekdays, 2-hourly) | identity, tools, preferences, worlds/consulting + charlotte | Todoist, Notion Donna Log / Run History |
-| **Donna — End of Day** (daily 18:15) | identity, tools, preferences, worlds/consulting | Todoist, Gmail draft, Notion Run History |
+| **Donna — End of Day** (daily 18:15; **disabled since 6 Sep 2026**, decision pending, see `agents/README.md`) | identity, tools, preferences, worlds/consulting | Todoist, Gmail draft, Notion Run History |
 | **Weekly AAR** (Fridays) | identity, goals, worlds/*, memory/log | Notion AAR db; **proposes context updates** |
 
 Update the files here, not the routine prompts, when something changes.

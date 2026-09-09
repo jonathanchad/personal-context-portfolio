@@ -12,6 +12,14 @@ confirming the parts that were pattern-matched rather than stated.
    "Ann O'Reilly" (89 Degrees East) spellings.
 3. **`worlds/personal.md`**: anything else agents should protect.
 
+## Agent streamlining (from the 9 Sep brain dump)
+
+`agents/README.md` has the inventory and the plan. Decisions Jonathan
+owes: delete the four dead routines; keep or fold the monthly directions
+diff; re-enable or retire Donna End of Day; confirm the P&C, LAN and
+Rackley mailbox addresses for `context/accounts.md`. Then the morning
+brief is rebuilt as the Morning Chief of Staff.
+
 ## Next build, once the context package is signed off
 
 Daily audio brief with a real mp3 attached. The ElevenLabs MCP connector

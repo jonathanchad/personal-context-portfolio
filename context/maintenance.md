@@ -17,6 +17,8 @@ kept current by agents, not by hand.
 | `worlds/personal.md` | Rarely | Jonathan | Family/community change |
 | `people.md` | Weekly | Donna and the AAR propose new/changed people; Notion Contacts stays the CRM | New counterparty appears in meetings or mail |
 | `memory/log.md` | Every notable change | Claude Code sessions append; AAR proposes | Any decision that changes context |
+| `accounts.md` | Rarely | Jonathan; the morning scan reports against it | A mailbox or calendar is added or dropped |
+| `../agents/` | When a routine changes | Claude Code session re-captures the prompt verbatim; Jonathan decides what runs | Any edit to a Cowork Routine |
 
 ## The loop
 
