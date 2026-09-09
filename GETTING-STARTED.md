@@ -9,10 +9,8 @@ Allianz watch, and the AI Signal benchmark. What remains is small.
 1. **Notion Organisations**: five rows are marked "Remove" (AISNSW, PIE,
    Soul Freedom Movement, STEF, The Safer Air Project). The connector
    cannot delete pages; delete them in Notion.
-2. **`people.md`**: confirm "Dan Cheryl" (ACTU) and "Annie O'Rourke" vs
-   "Ann O'Reilly" (89 Degrees East) spellings.
-3. **`worlds/personal.md`**: anything else agents should protect.
-4. **Watch the first Morning Chief of Staff run** (next weekday, 06:00
+2. **`worlds/personal.md`**: anything else agents should protect.
+3. **Watch the first Morning Chief of Staff run** (next weekday, 06:00
    Brisbane). It's new and unproven: check the report length, whether
    the "nothing to worry about" section reads as reassuring rather than
    padding, and whether all 8 mailboxes actually came back. Tune from

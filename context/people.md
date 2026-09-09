@@ -88,7 +88,7 @@ Fortnightly "Diesel Group" and "gas tax core strategy" meetings.
 | ATSE | Olivia Allen, Nicola Smillie, Dan Wheelahan |
 | Minderoo | N Comparti, N Cera, B Jafari |
 | LEAN | Louise, Jude, Felicity, Janaline |
-| ACTU (Australian Council of Trade Unions) | Ally organisation on many of the same issues; not a client. Main contact **Dan Cheryl** (spelling from voice, confirm) | |
+| ACTU (Australian Council of Trade Unions) | Ally organisation on many of the same issues; not a client. Main contact **Dan Sherrell** (corrected by Jonathan, 9 Sep) | |
 | Others | John Daley; Nick Haines (Watershed Change); Charlie Caruso; Christina Hobbs (Future Group); Joe Rafalowicz (Greenpeace); Rob Potter, Tim Lamacraft (Smart Energy Council); Deidre Willmott (Fortescue); Alex Engel-Mallon (Climate Council); Daniel Sherrell (ACTU); Miles Prosser, Toby Phillips (CPD); Jane, Thomas (ThinkForward); Lachlan (Curtin RC); Mandala Partners (Amit Singh, Tom McMahon, Nikhil Babu) |
 | GSCC | Dan Hurst — **funded Your Shout Gas**; energy-security digital campaign scoped |
 | Sunshine Coast Environment Council (SCEC) | Steph | Past: an evaluation, paid for by Environmental Legacy Foundation |
@@ -105,7 +105,7 @@ Freestone.
 | Org | People | Status |
 |---|---|---|
 | Environment Victoria | **Jonno La Nauze** (CEO), A. Merory | Notion: past client; active again Sep 2026 (OPPO report, Charlotte overview owed) |
-| 89 Degrees East | Rebecca Huntley (Director of Research; key person; advising Charlotte's evaluation design), Annie O'Rourke (name from email; Jonathan said "Ann O'Reilly" by voice, confirm), Scott Gamble | **Polling and research firm Jonathan does research with; not a client** (worksheet 5 Sep). AI Signal measurement idea sits with their Sunrise work, Sunrise is the counterparty; investment roadmap for Charlotte |
+| 89 Degrees East | Alister Jordan (CEO), **Annie O'Rourke (Founder & Chief Creative Officer — confirmed via 89degreeseast.com, 9 Sep)**, Rebecca Huntley (Director of Research; advising Charlotte's evaluation design), Scott Gamble | **Polling and research firm Jonathan does research with; not a client** (worksheet 5 Sep). AI Signal measurement idea sits with their Sunrise work, Sunrise is the counterparty; investment roadmap for Charlotte |
 | Jewish Climate Network (JCN) | Basya Vorchheimer, Jarred | CapacityAI onboarding / demo (blocked on v4) |
 | Australian Climate & Biodiversity Foundation (ACBF) | Marguerite Pettit, Dave Copeman, Olivia (marguerite@ / dave@ / olivia@climatebiodiversity.org) | **OPPO proposal sent 31 Aug 2026**; keen to sign up; 15 Sep Senate disallowance vote is their hook |
 | Footy for Climate | Alexi (Lex) Lynch (CEO), Caroline Duffield, Owen Kelly, Tom Campbell | **Pending**: board fundraising training wanted in coming months; board survey ran Aug 2026; FFC Contacts sheet is theirs |
