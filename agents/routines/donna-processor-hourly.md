@@ -5,6 +5,7 @@ platform: Cowork Routine (Claude)
 schedule_utc: "0 20-23,0-6 * * *"
 schedule_local: "hourly 06:00 to 16:00 Brisbane"
 enabled: false
+deleted: 2026-09-09 (routine removed from Cowork; prompt kept for the record)
 model: claude-opus-4-8
 last_run: 2026-07-24T01:03:51.138921243Z ROUTINE_RUN_STATUS_SUCCEEDED
 captured: 2026-09-09

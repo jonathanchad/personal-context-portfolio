@@ -5,6 +5,7 @@ platform: Cowork Routine (Claude)
 schedule_utc: "29 */4 * * *"
 schedule_local: "every 4 h"
 enabled: false
+deleted: 2026-09-09 (routine removed from Cowork; prompt kept for the record)
 model: unset
 last_run: never 
 captured: 2026-09-09

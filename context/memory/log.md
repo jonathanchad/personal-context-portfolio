@@ -6,6 +6,11 @@ Newest first. Format: `YYYY-MM-DD — entry` with a source in brackets.
   (finish the Middle Powers Australian country assessment from the 1 Sep
   draft, using the ALP research, the "Understanding Australia" memo,
   polling on hand, Erso/OPPO/AI Signal; Dione note first). [this session]
+- 2026-09-09 — Four dead routines deleted from Cowork at Jonathan's
+  instruction: Donna Processor (hourly), Donna End of Day (email), OPPO
+  subscriber question drafter, EthicalJobs applicant intake. Prompts
+  remain in agents/routines/. Seven routines remain, six live plus the
+  disabled End of Day (audio). [Jonathan]
 - 2026-09-09 — Agent inventory. Jonathan's ChatGPT brain dump (Morning
   Chief of Staff, account registry, specialists feeding a cross-domain
   decider, platform-neutral repo) saved to agents/DESIGN-NOTES. All 11

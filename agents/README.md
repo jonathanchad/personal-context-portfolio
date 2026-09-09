@@ -17,10 +17,10 @@ then refactor shared logic into `context/`.
 | 5 | **Monthly Claude directions diff** | 1st, 14:00 | live | Notion Sessions db, Gmail, Calendar, Todoist | Report | Are the skills and standing instructions still what he actually does |
 | 6 | **Watch for Allianz reply** | daily 09:00 | live | Gmail personal (via Superhuman acting_email) | Report | One low-volume inbox, one thread, until the claim closes |
 | 7 | **AI Signal Benchmark** | 1st and 15th, 06:00 | live | Cloudflare KV, repo code | Benchmark output | Product pipeline, not personal ops |
-| 8 | Donna — Processor (hourly) | hourly | dead since 24 Jul | | | Superseded by #2 |
-| 9 | Donna — End of Day (email) | daily 17:00 | dead, never ran | | | Superseded by #3 |
-| 10 | OPPO subscriber question drafter | every 4 h | dead, never ran | | | OPPO's own Cloudflare app handles this |
-| 11 | EthicalJobs applicant intake | weekdays 23:00 | dead since Jul | | | Hire done (Alex Linton) |
+| 8 | Donna — Processor (hourly) | hourly | **deleted 9 Sep** | | | Superseded by #2; prompt kept in `routines/` |
+| 9 | Donna — End of Day (email) | daily 17:00 | **deleted 9 Sep** | | | Superseded by #3; prompt kept |
+| 10 | OPPO subscriber question drafter | every 4 h | **deleted 9 Sep** | | | Never ran; OPPO's own app handles replies; prompt kept |
+| 11 | EthicalJobs applicant intake | weekdays 23:00 | **deleted 9 Sep** | | | Hire done (Alex Linton); prompt kept |
 
 Other automation that is not a Cowork Routine but competes for the same
 ground: the `morning-briefing` skill (a second, older morning brief that
@@ -72,8 +72,8 @@ parts:
 
 ## 4. Streamlining plan (proposed, not applied)
 
-**Delete now** (dead, superseded, or job finished): #8, #9, #10, #11.
-Their prompts are preserved in `routines/`, so nothing is lost.
+**Deleted 9 Sep 2026** (Jonathan's call): #8, #9, #10, #11. Their prompts
+are preserved in `routines/` with `enabled: false` in the frontmatter.
 
 **Keep as specialists** (they understand one domain):
 
