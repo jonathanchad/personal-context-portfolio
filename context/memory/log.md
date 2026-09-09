@@ -6,6 +6,8 @@ Newest first. Format: `YYYY-MM-DD — entry` with a source in brackets.
   (finish the Middle Powers Australian country assessment from the 1 Sep
   draft, using the ALP research, the "Understanding Australia" memo,
   polling on hand, Erso/OPPO/AI Signal; Dione note first). [this session]
+- 2026-09-09 — P&C President account linked to the Superhuman connector.
+  6 of 8 registry accounts now linked. [Jonathan]
 - 2026-09-09 — Rackley Swim Team account linked to the Superhuman
   connector. 5 of 8 registry accounts now linked. [Jonathan]
 - 2026-09-09 — Corrected the Rackley address: .com.au, not .com. [Jonathan]

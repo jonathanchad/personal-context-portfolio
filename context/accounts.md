@@ -9,15 +9,15 @@ marked and are the first thing to fix.
 
 **Final list, Jonathan, 9 Sep 2026** — replaces every earlier draft in
 this file. Eight accounts, each with the role he gave it. All eight are
-in scope for the morning scan. 5 of 8 linked as of 9 Sep; 3 remain
-(P&C President, LAN operations, Your Shout Gas admin).
+in scope for the morning scan. 6 of 8 linked as of 9 Sep; 2 remain
+(LAN operations, Your Shout Gas admin).
 
 | # | Account | Role (Jonathan's words) | World | In Superhuman | Linked to agent connector |
 |---|---|---|---|---|---|
 | 1 | jonathan@breakthroughstrategies.co | CEO and principal consultant, includes Breakthrough Tools | consulting, tools | yes | yes |
 | 2 | jonathan@charlotteproject.au | CEO and Founder | charlotte | yes | yes |
 | 3 | jonathanchad@gmail.com | Personal | personal | yes | yes |
-| 4 | jonathan.schleifer@icsspandc.com | P&C President | personal | no | no |
+| 4 | jonathan.schleifer@icsspandc.com | P&C President | personal | yes | **yes, linked 9 Sep** |
 | 5 | operations@afae.net.au | AFAE Maintenance | consulting | yes | yes |
 | 6 | operations@liberalsagainstnuclear.au | AFAE Maintenance *(as given; flagged below)* | consulting | yes | no |
 | 7 | admin@yourshoutgas.com.au | added, active campaign | consulting | no | no |
