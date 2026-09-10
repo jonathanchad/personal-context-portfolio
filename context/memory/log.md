@@ -1,3 +1,42 @@
+# Memory log
+
+- 2026-09-10 — **Morning brief feedback, marked up by Jonathan on the printed brief.**
+  Corrections that must change future runs, not just that day's report:
+  - **Check the counterparty thread before calling anything "quiet".** The brief
+    said ACBF had gone quiet and told him to chase before the 15 Sep Senate
+    vote. Wrong: Marguerite replied 6 Sep saying she lacks bandwidth for INFM
+    right now, and Jonathan replied 7 Sep parking it himself — "Focus everything
+    on the 15th... Let's pick it up the week of the 21st." The thread is
+    labelled `[Superhuman]/AI/Waiting` with a reminder set. A 72-hour inbox
+    sweep plus a stale line in `consulting.md` is not enough; search the
+    counterparty by name and read their thread before asserting silence.
+  - **A draft still in the folder is not an open loop.** Jonathan marked several
+    of the nine unsent drafts "HANDLED in mtg". Drafts get overtaken by
+    meetings and calls and are never deleted. Report a draft as an unsent close
+    only after checking whether the substance moved by another route.
+  - **Name which product.** "Daily Brief" is ambiguous across at least three
+    things: the CapacityAI in-app Today page, the OPPO email brief, and 25G
+    Daily Clips. Always say which.
+  - **Attribute family commitments to the right person.** The 5:15 swim is his
+    son's session; Jonathan goes to the gym. The UQ Transition Meet is his
+    son's, not Jonathan's Pan Pacs preparation. Do not fold the boys'
+    activities into Jonathan's own training.
+  - **Don't assign work that is not his.** The LAN AEC disclosure return is
+    signed by Paul, not Jonathan.
+  - **Drop the dramatic headline.** "Two things are quietly on fire" — his note:
+    "too much." Lead with the day, not a hook.
+  - **Format:** the five-minute cluster should be a discrete list, not a
+    paragraph.
+  - Confirmed good catches, keep this class of finding: the stale "Sydney —
+    booked" hold, the Becky Corbett unsent role email ("Good catch!"), the
+    Safina time-capsule cutoff, the Kiera document access, the open block.
+  - Already handled before the brief ran, so old news by the time he read it:
+    the 2pm/4pm Tradie Shift time question, and soccer cover (Katie had it).
+
+- 2026-09-10 — Stale calendar entries Jonathan flagged for deletion: Aqualicious
+  masters squad Sunday 8:30 ("no more"), and the Saturday 6:00am squad, which
+  is now a 6:30 birthday party. [Jonathan]
+
 # Context log
 
 Newest first. Format: `YYYY-MM-DD — entry` with a source in brackets.

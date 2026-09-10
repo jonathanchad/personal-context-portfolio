@@ -74,3 +74,39 @@ elsewhere. Confirm.
   definition of important gets more his over time.
 - Adding an account means adding a row here first. Routines read this
   file; they do not carry their own list.
+
+## Importance signals — refinements from Jonathan, 10 Sep 2026
+
+Marked up on the printed morning brief. These narrow the signals above; they
+do not replace them.
+
+- **Silence is a claim, and it needs evidence.** Before reporting that a
+  counterparty has gone quiet or a loop has stalled, search that counterparty
+  by name and read the thread. A `[Superhuman]/AI/Waiting` label, a set
+  reminder, or a reply from Jonathan parking the conversation all mean the
+  loop is under control and must not be surfaced as a risk. Getting this
+  wrong is worse than missing it, because acting on it makes him look like he
+  is not reading his own mail.
+- **An unsent draft is a candidate, not a finding.** Drafts are routinely
+  overtaken by a meeting or a call and left in the folder. Check whether the
+  substance moved another way before calling it an unsent close. The
+  priority-one-close rule still holds for genuine unsent proposals, SOWs and
+  invoices.
+- **Say which product.** "Daily Brief" means three different things:
+  the CapacityAI in-app Today page (`breakthroughtools/capacityai`), the OPPO
+  email brief with its approval gate (`jonathanchad/oppo-tracker`), and 25G
+  Daily Clips (`breakthroughstrategies/25g-daily-clips`). Never write
+  "the Daily Brief" unqualified.
+- **Check who owns the task.** Compliance paperwork often belongs to someone
+  else. The LAN AEC disclosure return is Paul's to sign, not Jonathan's.
+- **Family commitments belong to whoever is doing them.** The early swim
+  squads and the UQ meets are his sons'; Jonathan's own training is separate.
+  Do not merge them into a single "your swimming" line.
+- **A declined invitation is not automatically resolved.** Check whether the
+  meeting is load-bearing before writing it off — the Friday FTC & Safeguard
+  submissions meeting is the Diesel Fuel Tax Credits campaign, which Meliore
+  is the prospective funder for, and Jonathan has a Todoist task to attend it.
+- **Tone:** no dramatic headline. He marked "Two things are quietly on fire"
+  as "too much". Lead with the day.
+- **Format:** short cluster items ("the five-minute pile") go as a discrete
+  list, not a paragraph.
