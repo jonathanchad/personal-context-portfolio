@@ -67,8 +67,12 @@ parts:
 - No "accounts checked" or "nothing to worry about" section.
 - No seven-day look-ahead, no conflict or landmine detection.
 - No open-block recommendations.
-- No feedback loop for "important". The AAR's context-updates section is
-  the nearest thing and it runs weekly, not daily.
+- ~~No feedback loop for "important".~~ **Fixed 10 Sep**: the Morning
+  Chief of Staff now ends with its own daily "Context updates" section
+  (Step 6), and the print-and-patch round trip from its first real run
+  has been replaced with a plain-English reply → verify if needed →
+  "Context updates" block → paste into Claude Code. See
+  `context/maintenance.md`.
 
 ## 4. Streamlining plan (proposed, not applied)
 

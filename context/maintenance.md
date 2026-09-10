@@ -22,18 +22,34 @@ kept current by agents, not by hand.
 
 ## The loop
 
-1. **Friday:** Weekly AAR clones the repo, reads `goals-and-priorities.md`
-   and `worlds/`, reports where the week's hours went versus the stated
-   priorities, and ends with a **"Context updates"** section — concrete
-   proposed edits (new client, retainer ended, hire made, blocker cleared,
-   memory entries).
-2. **Next Claude Code session** (or Jonathan): applies those edits to
-   `context/` and pushes. Routines can't push to git from their
-   environments, so this step is human/session-driven for now.
-3. **Every morning:** Morning brief reads the updated `worlds/` and
-   `personal.md` and plans against current state.
-4. **All day:** Donna routes commitments using `worlds/consulting.md` and
+1. **Any routine or session that makes a judgment call ends with a
+   "Context updates" section** — concrete proposed lines, not prose —
+   whenever it catches its own miscall or Jonathan corrects it. Not just
+   the Weekly AAR: the Morning Chief of Staff does this daily now (see
+   `agents/routines/morning-chief-of-staff.md` Step 6), and any Cowork or
+   Desktop session should when a correction needs verifying against a
+   real inbox or calendar thread before it's trusted.
+2. **Jonathan corrects in plain English** — a reply, a message in any
+   session — not a printed markup and not a git patch. If the correction
+   needs checking against source data (was a thread actually quiet?),
+   that happens in whichever session has the mailbox/calendar access;
+   the output is still a plain "Context updates" block.
+3. **Next Claude Code session applies it and pushes.** Paste or attach
+   the block; a Claude Code session has git push access, Cowork sessions
+   don't, so this hand-off stays for now. A git patch still works if one
+   shows up (9-10 Sep did it that way) but isn't the expected path —
+   it's more machinery than the job needs.
+4. **Every morning:** the Morning Chief of Staff reads the updated
+   `accounts.md`, `worlds/` and `personal.md` and plans against current
+   state, including whatever the previous day's correction added.
+5. **All day:** Donna routes commitments using `worlds/consulting.md` and
    `worlds/charlotte.md` for client shorthand and counterparties.
+
+**Open question, worth testing:** whether a Cowork/Desktop session can
+push a branch or open a PR directly via the GitHub connector, which
+would remove the "paste into Claude Code" hand-off entirely. Untested as
+of 10 Sep 2026 — try it next time a correction comes through and note
+the result here.
 
 ## Rule
 

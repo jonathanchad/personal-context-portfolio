@@ -2,6 +2,22 @@
 
 Newest first. Format: `YYYY-MM-DD — entry` with a source in brackets.
 
+- 2026-09-10 — **Feedback loop lightened.** The 9-10 Sep round trip
+  (print the brief, mark it up by hand, a separate session verifies
+  against mailbox and writes a git patch, upload the patch) was more
+  machinery than the job needs. New standard: correct any session in
+  plain English; if the correction needs checking against a real thread
+  or event, that happens in whichever session has the access; either way
+  the output is a plain "Context updates" block (same pattern the Weekly
+  AAR already used weekly), pasted into a Claude Code session to apply.
+  The Morning Chief of Staff now proposes its own "Context updates"
+  section daily (Step 6) instead of only via the weekly AAR. Git patches
+  still work as a fallback but aren't the expected path. Open question
+  to test: whether a Cowork/Desktop session can push a PR directly via
+  the GitHub connector and remove the paste step too. See
+  `context/maintenance.md`. [this session, responding to Jonathan: "the
+  am JCS brief was great! what is next in improving this tool"]
+
 - 2026-09-10 — Jonathan lifted the blanket "never name the sons" rule for
   internal agent output. Owen and Jacob can be named in the morning brief and
   similar internal work; they stay out of client-facing and published

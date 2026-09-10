@@ -16,6 +16,16 @@ Allianz watch, and the AI Signal benchmark. What remains is small.
    commitments to them rather than folding them into Jonathan's, and
    drop dramatic headlines. Keep watching the next few runs against this
    list — see `agents/README.md`.
+2. **The feedback loop itself got lighter, 10 Sep.** No more printing
+   and marking up: reply in plain English to whatever session you're
+   correcting, it drafts a "Context updates" block (verified against the
+   real inbox/calendar if the correction depends on one), and you paste
+   that block into a Claude Code session to apply. The Morning Chief of
+   Staff now proposes its own "Context updates" daily (Step 6) instead
+   of waiting for the weekly AAR. See `context/maintenance.md`. Open
+   question worth testing next time: can a Cowork/Desktop session push a
+   PR directly via the GitHub connector and skip the paste step
+   entirely?
 
 ## Next build: daily audio, rebuilt from scratch (session to be scheduled)
 

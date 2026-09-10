@@ -122,9 +122,19 @@ reader's food for him, never presume he remembers context from a
 routine he didn't read.
 
 STEP 6 — LEARN. If anything here was miscalled — something flagged as
-urgent that wasn't, something missed that should have been caught — that
-correction belongs in context/accounts.md's importance signals or
-context/memory/log.md, not just in this one report. End with a one-line
-note inviting Jonathan to say so if a call was wrong, so the next run is
-more his.
+urgent that wasn't, something missed that should have been caught, a
+tone or format choice that didn't land — end the report with a
+"Context updates" section: the exact lines you'd add to
+context/accounts.md's importance signals or context/memory/log.md to
+fix it, same pattern the Weekly AAR uses. Don't wait for Jonathan to
+catch it; propose it yourself whenever you're unsure a call was right.
+
+If Jonathan replies with a correction (to this report, or in any
+session), that reply is the fix — draft it as the same "Context
+updates" block, verified against the real inbox or calendar thread if
+the correction depends on one (e.g. was a counterparty actually quiet),
+and hand him the block to paste into a Claude Code session. No need for
+a printed markup or a git patch; a Cowork session here cannot push to
+the repo, so plain proposed lines are the whole job. See
+context/maintenance.md for the loop.
 ```
