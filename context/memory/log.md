@@ -1,4 +1,6 @@
-# Memory log
+# Context log
+
+Newest first. Format: `YYYY-MM-DD — entry` with a source in brackets.
 
 - 2026-09-10 — Jonathan lifted the blanket "never name the sons" rule for
   internal agent output. Owen and Jacob can be named in the morning brief and
@@ -49,10 +51,6 @@
 - 2026-09-10 — Stale calendar entries Jonathan flagged for deletion: Aqualicious
   masters squad Sunday 8:30 ("no more"), and the Saturday 6:00am squad, which
   is now a 6:30 birthday party. [Jonathan]
-
-# Context log
-
-Newest first. Format: `YYYY-MM-DD — entry` with a source in brackets.
 
 - 2026-09-05 — Hand-off prompt written: prompts/nura-country-assessment.md
   (finish the Middle Powers Australian country assessment from the 1 Sep
