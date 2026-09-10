@@ -6,11 +6,16 @@ Allianz watch, and the AI Signal benchmark. What remains is small.
 
 ## Watch
 
-1. **Watch the first Morning Chief of Staff run** (next weekday, 06:00
-   Brisbane). It's new and unproven: check the report length, whether
-   the "nothing to worry about" section reads as reassuring rather than
-   padding, and whether all 8 mailboxes actually came back. Tune from
-   there — see `agents/README.md`.
+1. **First Morning Chief of Staff run happened 10 Sep and Jonathan marked
+   it up on paper.** The corrections are folded into
+   `context/accounts.md` ("Importance signals — refinements from
+   Jonathan") and `context/memory/log.md`: verify a counterparty thread
+   before calling it quiet, treat unsent drafts as candidates not
+   findings, name which "Daily Brief" product, check task ownership
+   before assigning it to Jonathan, attribute Owen's and Jacob's own
+   commitments to them rather than folding them into Jonathan's, and
+   drop dramatic headlines. Keep watching the next few runs against this
+   list — see `agents/README.md`.
 
 ## Next build: daily audio, rebuilt from scratch (session to be scheduled)
 
