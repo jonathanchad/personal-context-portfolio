@@ -57,6 +57,11 @@ prioritising on Jonathan's behalf must respect these.
   asking.
 - Family details are in this repo because Jonathan asked for them; keep
   them here, not in client-facing material.
-- **Never name the sons.** Jonathan deliberately removed their names
-  from this repo; refer to them as "his sons" or "one of the boys",
-  never by name, in anything an agent writes or generates.
+- **Naming the sons: scoped, not banned (Jonathan, 10 Sep 2026).** The two
+  boys are **Owen** and **Jacob**. They may be named in internal agent output
+  written for Jonathan alone, the morning brief above all, because a brief
+  that says "one of the boys has guitar" is useless for planning a day where
+  both boys have something on. They stay out of anything client-facing,
+  published, or shared outside the family: no proposals, decks, EDMs,
+  LinkedIn, P&C material or funder correspondence. This replaces the earlier
+  blanket rule.

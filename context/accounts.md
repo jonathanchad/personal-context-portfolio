@@ -46,7 +46,7 @@ it in `list_accounts` and flips its "linked" column to yes.
 | Calendar | Id | World | Notes |
 |---|---|---|---|
 | jonathan@breakthroughstrategies.co | same | consulting, tools | the "primary" the generic morning skill reads |
-| jonathan@charlotteproject.au | same | charlotte | separate at source; keep it that way |
+| jonathan@charlotteproject.au | same | charlotte | separate at source; keep it that way. **Full detail from 10 Sep 2026** (was free/busy only) |
 | JCS - Personal | jonathanchad@gmail.com | personal | |
 | SchleifCon Family Calendar | 6f6d4a75…1422@group.calendar.google.com | personal | family commitments, squad |
 | Todoist | c_d0a523…1c61e@group.calendar.google.com | all | task due dates mirrored; deduplicate against Todoist itself |
@@ -100,8 +100,9 @@ do not replace them.
 - **Check who owns the task.** Compliance paperwork often belongs to someone
   else. The LAN AEC disclosure return is Paul's to sign, not Jonathan's.
 - **Family commitments belong to whoever is doing them.** The early swim
-  squads and the UQ meets are his sons'; Jonathan's own training is separate.
-  Do not merge them into a single "your swimming" line.
+  squads and the UQ meets are Owen's; Jonathan's own training is separate. Do
+  not merge them into a single "your swimming" line. Name Owen and Jacob in
+  the brief so the attribution is unambiguous — see `worlds/personal.md`.
 - **A declined invitation is not automatically resolved.** Check whether the
   meeting is load-bearing before writing it off — the Friday FTC & Safeguard
   submissions meeting is the Diesel Fuel Tax Credits campaign, which Meliore

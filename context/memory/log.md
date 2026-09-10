@@ -1,5 +1,18 @@
 # Memory log
 
+- 2026-09-10 — Jonathan lifted the blanket "never name the sons" rule for
+  internal agent output. Owen and Jacob can be named in the morning brief and
+  similar internal work; they stay out of client-facing and published
+  material. `worlds/personal.md` updated. Reason: attribution matters for
+  planning — the brief mis-assigned Owen's 5:15 swim squad to Jonathan and
+  Owen's UQ Transition Meet to Jonathan's Pan Pacs preparation, and unnamed
+  boys made both errors easy to miss. [Jonathan]
+
+- 2026-09-10 — Charlotte calendar access widened from free/busy to full detail.
+  It now returns titles, attendees and response status. Still not visible to
+  the connector: any P&C, Rackley or Masters calendar, and the Charlotte weekly
+  leadership hour, which does not appear on the Charlotte calendar. [Jonathan]
+
 - 2026-09-10 — **Morning brief feedback, marked up by Jonathan on the printed brief.**
   Corrections that must change future runs, not just that day's report:
   - **Check the counterparty thread before calling anything "quiet".** The brief
