@@ -4,6 +4,25 @@ The structure is in place. Six routines read from it live: Morning Chief
 of Staff, Donna Processor v2, Weekly AAR, Monthly directions diff, the
 Allianz watch, and the AI Signal benchmark. What remains is small.
 
+## Fix before Monday: Charlotte Project Manager has no connectors
+
+Built 12 Sep as the pilot for per-project PMs (see
+`agents/routines/charlotte-pm.md`, `agents/README.md`). Its Notion
+tracker ("Charlotte Timeline & Priorities", under the Charlotte — Hub
+page) is seeded and ready. **The Cowork trigger itself
+(`trig_01JgLDQF5roRynHpNzHDtzty`, Mon/Thu 05:30 Brisbane, next fire
+Mon 14 Sep) has zero MCP connectors attached** — it was created from a
+Claude Code session that had none to pass through, and a follow-up
+update didn't fix it. As it stands it will fire Monday and fail with
+nothing to work with.
+
+**Fix, before Monday:** open the Routine in the claude.ai Routines UI
+and attach Notion, Superhuman_Mail, Google_Calendar, Todoist and Gmail —
+or ask a Cowork session (one that already holds those connectors, not a
+remote Claude Code session like this one) to attach them. See
+`context/maintenance.md`'s "Per-project PMs" section for why this
+happened.
+
 ## Watch
 
 1. **First Morning Chief of Staff run happened 10 Sep and Jonathan marked
@@ -26,6 +45,13 @@ Allianz watch, and the AI Signal benchmark. What remains is small.
    question worth testing next time: can a Cowork/Desktop session push a
    PR directly via the GitHub connector and skip the paste step
    entirely?
+3. **Once the Charlotte PM has connectors and has run a few times**,
+   check: is Mon/Thu the right cadence, or should it run right after the
+   Monday leadership hour instead; does the Morning Chief of Staff
+   actually lean on the tracker for Charlotte's priorities or keep
+   re-deriving them from the mailbox; is the priority list staying short
+   (5-8 rows) rather than turning into a task list. See
+   `agents/routines/charlotte-pm.md`'s "Open questions" section.
 
 ## Next build: daily audio, rebuilt from scratch (session to be scheduled)
 

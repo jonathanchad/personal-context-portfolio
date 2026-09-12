@@ -134,9 +134,18 @@ Full directory in `../people.md`. Key roles (resolved 5 Sep 2026):
 
 - Notion: **Charlotte — Hub** (all active documents), **Charlotte
   Intelligence Briefs** (database), **Charlotte Knowledge Bank — Findings**
-  (database), **Charlotte Project Pty Ltd — Entity Details** (facts for forms)
+  (database), **Charlotte Project Pty Ltd — Entity Details** (facts for forms),
+  **Charlotte Timeline & Priorities** (database, under the Hub page,
+  new 12 Sep 2026) — every sprint milestone and objective, and the
+  active priority list the Charlotte Project Manager routine maintains
+  twice a week. This is the live, current view; the deliverables table
+  above is the stable reference the tracker was seeded from.
 - Skill: `charlotte-nda-and-deck-access` — sends the NDA for e-signature
   and grants deck access once signed. Use it; don't hand-roll.
+- Routine: `agents/routines/charlotte-pm.md` — the project-manager
+  pattern: backward-plans from the timeline, keeps the priority list
+  honest, feeds the Morning Chief of Staff. Not yet functional as of
+  12 Sep; see `agents/README.md`.
 
 ## Rules for agents
 

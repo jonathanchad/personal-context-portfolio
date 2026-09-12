@@ -2,6 +2,30 @@
 
 Newest first. Format: `YYYY-MM-DD — entry` with a source in brackets.
 
+- 2026-09-12 — **Charlotte Project Manager built — pilot for per-project
+  PMs.** Jonathan's design thought: agents that hold a project's
+  timeline and objectives, check whether today's work serves them, and
+  keep a maintained active priority list, feeding the Morning Chief of
+  Staff instead of reporting to Jonathan directly. Built a Notion
+  database "Charlotte Timeline & Priorities" (under Charlotte — Hub;
+  data source `collection://a8c5654c-0cf1-4416-9447-419d0efd42d1`),
+  seeded from `worlds/charlotte.md`: 3 Objectives, 12 dated Milestones
+  through Mar 2027, 7 ranked Priority rows (each stating which milestone
+  it Serves), 5 Risks. Created the Cowork trigger
+  (`trig_01JgLDQF5roRynHpNzHDtzty`, Mon/Thu 05:30 Brisbane) and wired
+  the Morning Chief of Staff to read the tracker's top priorities and
+  any at-risk milestone for Charlotte specifically. **Not yet
+  functional**: the trigger has zero MCP connectors because it was
+  created from a Claude Code session with none to pass through, and a
+  follow-up update didn't fix it — needs manual connector attachment in
+  the claude.ai Routines UI before its first fire (Mon 14 Sep). See
+  `GETTING-STARTED.md` and `context/maintenance.md`. If the pattern
+  works, Breakthrough Tools gets a portfolio variant next; a standalone
+  Breakthrough Strategies PM was judged unnecessary given Donna, the
+  Morning CoS and `client-time-tracker` already cover that ground.
+  [this session, responding to Jonathan's design thought about
+  per-project chiefs of staff]
+
 - 2026-09-10 — **Feedback loop lightened.** The 9-10 Sep round trip
   (print the brief, mark it up by hand, a separate session verifies
   against mailbox and writes a git patch, upload the patch) was more

@@ -66,6 +66,15 @@ and the people directory. Surface any drafted-but-unsent proposal, SOW or
 invoice as a priority-one close, ahead of new opportunities — this is
 Jonathan's own stated failure pattern from the AARs.
 
+For anything Charlotte-related: read the Notion database "Charlotte
+Timeline & Priorities" (under the Charlotte — Hub page) and trust its
+top-ranked Priority rows and any Milestone marked At risk or Blocked as
+the current judgement on what matters for Charlotte, rather than
+re-deriving Charlotte priority from the charlotteproject.au mailbox
+scan alone. That tracker is maintained by a dedicated routine that
+backward-plans against the sprint timeline twice a week; this one just
+carries its conclusions into today's report.
+
 STEP 2 — READ EVERY CALENDAR. context/accounts.md lists the calendars
 the connector can see: Breakthrough (primary), Charlotte, personal
 (JCS - Personal), the SchleifCon family calendar, the Todoist mirror,

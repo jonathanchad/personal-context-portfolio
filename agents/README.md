@@ -10,13 +10,14 @@ then refactor shared logic into `context/`.
 
 | # | Routine | Schedule (Brisbane) | Status | Reads | Writes | Job in one line |
 |---|---|---|---|---|---|---|
-| 1 | **Morning Chief of Staff** (rebuilt 9 Sep, was "Morning brief") | weekdays 06:00 | live | repo incl. accounts.md, all 8 registered mailboxes via Superhuman, 7 Google Calendars, Todoist | HTML artifact | Scans every mailbox and calendar, reports what it checked and what's clear, 7-day look-ahead, 1-3 moves for open blocks |
+| 1 | **Morning Chief of Staff** (rebuilt 9 Sep, was "Morning brief") | weekdays 06:00 | live | repo incl. accounts.md, all 8 registered mailboxes via Superhuman, 7 Google Calendars, Todoist, Charlotte Timeline & Priorities (Notion) | HTML artifact | Scans every mailbox and calendar, reports what it checked and what's clear, 7-day look-ahead, 1-3 moves for open blocks |
 | 2 | **Donna — Processor v2** | weekdays 10:00 to 18:00, 2-hourly | live | repo, Granola, Otter, Calendar, Gmail, Notion, Todoist | Todoist tasks, Gmail drafts, Notion Donna Log and Run History | Meeting notes into commitments and follow-up drafts |
 | 3 | **Donna — End of Day (audio)** | daily 18:15 | **retired 9 Sep; rebuild from scratch later** | repo, Todoist, Gmail, Notion, ElevenLabs | Todoist completions, Gmail draft with audio link, Notion Run History | Reconcile the day's loops and read a 90-second summary |
 | 4 | **Weekly AAR** | Saturday 06:00 | live | repo, Calendar, Todoist, Notion, Granola, Otter | Notion AAR db, email, proposed context updates | Blunt weekly retrospective, drift check against goals |
 | 5 | **Monthly Claude directions diff** | 1st, 14:00 | live | Notion Sessions db, Gmail, Calendar, Todoist | Report | Are the skills and standing instructions still what he actually does |
 | 6 | **Watch for Allianz reply** | daily 09:00 | live | Gmail personal (via Superhuman acting_email) | Report | One low-volume inbox, one thread, until the claim closes |
 | 7 | **AI Signal Benchmark** | 1st and 15th, 06:00 | live | Cloudflare KV, repo code | Benchmark output | Product pipeline, not personal ops |
+| 12 | **Charlotte Project Manager** (new 12 Sep) | Mon and Thu, 05:30 | **created but not yet functional — see below** | repo worlds/charlotte.md, Charlotte Timeline & Priorities (Notion), jonathan@charlotteproject.au, Charlotte calendar, Todoist | Notion tracker (writes state, not reports) | Backward-plans every sprint milestone against today's date, maintains a ranked active priority list, feeds the Morning Chief of Staff |
 | 8 | Donna — Processor (hourly) | hourly | **deleted 9 Sep** | | | Superseded by #2; prompt kept in `routines/` |
 | 9 | Donna — End of Day (email) | daily 17:00 | **deleted 9 Sep** | | | Superseded by #3; prompt kept |
 | 10 | OPPO subscriber question drafter | every 4 h | **deleted 9 Sep** | | | Never ran; OPPO's own app handles replies; prompt kept |
@@ -73,6 +74,12 @@ parts:
   has been replaced with a plain-English reply → verify if needed →
   "Context updates" block → paste into Claude Code. See
   `context/maintenance.md`.
+- **New 12 Sep: no agent checked whether today's work actually served a
+  project's timeline** — only whether the inbox was current. Jonathan's
+  design thought: a per-project PM that holds the timeline and
+  objectives, backward-plans from them, and maintains an active priority
+  list, feeding the Morning Chief of Staff rather than reporting to
+  Jonathan directly. Charlotte is the pilot; see below.
 
 ## 4. Streamlining plan (proposed, not applied)
 
@@ -114,6 +121,39 @@ until then. Agenda for that session is in `GETTING-STARTED.md`.
 `agents/` holds definitions; `context/` holds shared context and rules;
 `context/accounts.md` is the registry. Output schemas and adapters come
 after the Chief of Staff rebuild, not before.
+
+**Built 12 Sep 2026, pilot: Charlotte Project Manager.** Runs Mon/Thu
+05:30 Brisbane. Reads the sprint's milestones and objectives (now a
+Notion database, "Charlotte Timeline & Priorities", seeded from
+`worlds/charlotte.md`), checks Charlotte's real activity since last run,
+backward-plans each milestone against today's date, and maintains a
+short ranked active priority list — each row stating which milestone it
+actually serves. Writes state to Notion; doesn't email Jonathan except
+one exception (a near-term milestone just went Blocked). The Morning
+Chief of Staff reads the tracker's top priorities and any at-risk
+milestone as its source of truth for Charlotte, instead of re-deriving
+Charlotte priority from the mailbox alone. Full design and prompt:
+`agents/routines/charlotte-pm.md`.
+
+**Not yet functional — needs a manual fix before its first run
+(Mon 14 Sep 05:30 Brisbane).** The Cowork trigger
+(`trig_01JgLDQF5roRynHpNzHDtzty`) was created from a Claude Code session
+that holds no connector grants to pass through, so it stores zero MCP
+connectors — it can't reach Notion, Superhuman, the Charlotte calendar
+or Todoist yet. Same underlying limitation the account already worked
+around once for the Morning Chief of Staff, but this time it needs a
+direct fix: open the Routine in the claude.ai Routines UI and attach
+Notion, Superhuman_Mail, Google_Calendar, Todoist and Gmail, or ask
+Claude to do it from a session that already holds those connectors
+(a Cowork session, not this remote one). Until that's done the routine
+will fire and fail with nothing to work with.
+
+**If this pattern earns its keep**: Breakthrough Tools next, as a
+portfolio variant (CapacityAI, AI Signal, Erso, OPPO each get a status
+row rather than a separate PM). Hold off on a standalone Breakthrough
+Strategies (consulting) PM — Donna, the Morning Chief of Staff and
+`client-time-tracker` already cover most of that ground; strengthen
+`consulting.md`'s deliverables detail first.
 
 ## 5. How to use this directory
 

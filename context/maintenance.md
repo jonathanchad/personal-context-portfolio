@@ -12,6 +12,7 @@ kept current by agents, not by hand.
 | `tools-and-systems.md` | Occasionally | Whoever changes wiring | New connector, routine, or known-issue |
 | `goals-and-priorities.md` | Quarterly | Jonathan sets; **Weekly AAR reports drift** every Friday | Quarter start; AAR flags stated-vs-actual gap |
 | `worlds/charlotte.md` | Weekly-ish | Weekly AAR proposes; next Claude Code session applies | Hire, funder decision, workstream change |
+| Charlotte Timeline & Priorities (Notion, not this repo) | Twice-weekly | Charlotte Project Manager routine (Mon/Thu) | Runs on schedule; also reconciles against `worlds/charlotte.md` and proposes context updates if that file goes stale |
 | `worlds/breakthrough-tools.md` | Weekly-ish | Same; `tool-documentation` skill for product docs | Status change, blocker cleared, sale |
 | `worlds/consulting.md` | Weekly | Weekly AAR proposes; Donna's routing rules consume it | Client starts/ends, cap changes, counterparty confirmed |
 | `worlds/personal.md` | Rarely | Jonathan | Family/community change |
@@ -50,6 +51,29 @@ push a branch or open a PR directly via the GitHub connector, which
 would remove the "paste into Claude Code" hand-off entirely. Untested as
 of 10 Sep 2026 — try it next time a correction comes through and note
 the result here.
+
+## Per-project PMs (new 12 Sep 2026)
+
+A different axis from the loop above: a project PM (piloted on
+Charlotte) doesn't wait for a weekly cycle or a human correction — it
+holds a project's timeline and objectives, checks on its own schedule
+whether current work still serves them, and keeps a live Notion tracker
+current. It writes state, not reports; the Morning Chief of Staff reads
+that state rather than the PM emailing Jonathan directly (one narrow
+exception: a near-term milestone just went Blocked). See
+`agents/routines/charlotte-pm.md` and `agents/README.md`.
+
+**Known limitation, hit building the Charlotte PM:** a brand-new Cowork
+trigger created from a Claude Code session stores zero MCP connectors —
+this session held none to pass through, and `create_trigger`'s own
+`connectors` parameter isn't available for this account. An
+`update_trigger` re-send didn't fix it either (that side-effect only
+seems to apply to a trigger the account already wired via the UI, as
+happened once for the Morning Chief of Staff). A new routine needing
+connectors has to be created from a session that already holds them
+(a Cowork session), or have them attached by hand afterward in the
+claude.ai Routines UI. Note it here so the next per-project PM doesn't
+hit the same surprise.
 
 ## Rule
 
