@@ -2,6 +2,39 @@
 
 Newest first. Format: `YYYY-MM-DD — entry` with a source in brackets.
 
+- 2026-09-13 — **Charlotte PM rebuilt on real PM discipline.** Jonathan
+  pushed back that the first version (12 Sep) tracked status but didn't
+  manage anything. Researched what a PM actually does (RAID logs,
+  decision logs, action registers, RAG status reporting) and rebuilt
+  the Notion tracker: added Assumption, Issue, Decision and Action row
+  types alongside Objective/Milestone/Priority/Risk/Note, added Owner
+  and Severity properties, reclassified the unconfirmed paid-media
+  proposal from a Priority into an Issue, seeded 3 Assumptions, 4
+  Decisions and 5 Actions from `worlds/charlotte.md`, and added a single
+  "Charlotte overall status (RAG)" rollup row with explicit criteria for
+  what flips it. The routine's prompt now runs the RAID log, the
+  decision log and the action register each fire, and the Morning Chief
+  of Staff leads with the RAG row rather than re-deriving Charlotte
+  priority itself. Full citations in
+  `agents/routines/charlotte-pm.md`'s "Design basis" section. [this
+  session, responding to Jonathan: "The PM's responsibility should be
+  actually project management... identify what an agentic PM would do"]
+
+- 2026-09-13 — **Calendar naming convention adopted; no separate
+  Scheduler agent.** Jonathan drafted a detailed convention (tag
+  register, meeting-title pattern, 25/50-minute durations, travel-time
+  buffers) — filed as `context/calendar-conventions.md`. Decided this
+  is a standing rule any agent applies at event-creation time, not a
+  scheduled routine; the Weekly AAR's existing drift check now also
+  spot-checks compliance (Step 1.6) instead of a new job being built.
+  Rationale in `context/maintenance.md`. [this session, responding to
+  Jonathan: "i drafted these calendar directions - do we need a
+  separate Scheduler agent?"]
+
+- 2026-09-13 — Resend connector added (transactional/bulk email). Not
+  yet wired into any routine; noted in `tools-and-systems.md` as
+  available for a future EDM-sending flow. [Jonathan]
+
 - 2026-09-12 — **Charlotte Project Manager built — pilot for per-project
   PMs.** Jonathan's design thought: agents that hold a project's
   timeline and objectives, check whether today's work serves them, and

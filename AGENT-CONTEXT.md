@@ -25,6 +25,7 @@ agents wherever possible (see `context/maintenance.md`).
 | `context/worlds/consulting.md` | Client retainers, caps, pipeline, counterparties, routing shorthand | Client work, Donna routing, billing |
 | `context/worlds/personal.md` | Family, community roles, scheduling constraints | Scheduling, anything touching personal time |
 | `context/accounts.md` | Registry of every mailbox and calendar, what is wired, what is missing; the list a morning scan reports against | Any inbox or calendar scan |
+| `context/calendar-conventions.md` | Event naming, meeting-title pattern, tag register, durations, travel-time buffers | Creating or editing any Google Calendar event for Jonathan |
 | `context/people.md` | Who he works with, by organisation, tagged by world; points at the Notion CRM | Drafting to someone, meeting prep, routing |
 | `context/communication-style.md` | Voice — points at the canonical writer skills | Writing as Jonathan |
 | `context/tools-and-systems.md` | Connectors, data sources, known quirks (egress block, MCP path) | Wiring, debugging |

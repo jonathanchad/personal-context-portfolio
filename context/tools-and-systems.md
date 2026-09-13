@@ -75,6 +75,24 @@
   Gmail for the event name instead.
 - **Egress** also blocks mastersgames.com.au; use WebSearch for public
   facts when a fetch is refused.
+- **A brand-new Cowork trigger created from a Claude Code session stores
+  zero MCP connectors**, even when named explicitly in a `connectors`
+  param (that param may also be unavailable for this account — it was
+  when creating the Charlotte PM trigger 12 Sep). A follow-up
+  `update_trigger` doesn't fix it either. Create routines needing
+  connectors from a Cowork session that already holds them, or attach
+  them by hand afterward in the claude.ai Routines UI. See
+  `context/maintenance.md`'s "Known limitation" note.
+
+## Resend connector (added 13 Sep 2026)
+
+Jonathan added a Resend connector — transactional/bulk email sending
+(domains, broadcasts, contacts, templates, webhooks). Not yet wired into
+any routine. Natural fit for anything the `edm-writer` skill drafts that
+needs actual sending rather than a Gmail draft, or for a future
+notification path. No automation uses it yet; note here so the next
+session building an EDM-sending flow knows it exists rather than
+reaching for Gmail send by default.
 
 ---
 _Seeded from the live prompts of the Donna and Weekly AAR routines._

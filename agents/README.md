@@ -17,7 +17,7 @@ then refactor shared logic into `context/`.
 | 5 | **Monthly Claude directions diff** | 1st, 14:00 | live | Notion Sessions db, Gmail, Calendar, Todoist | Report | Are the skills and standing instructions still what he actually does |
 | 6 | **Watch for Allianz reply** | daily 09:00 | live | Gmail personal (via Superhuman acting_email) | Report | One low-volume inbox, one thread, until the claim closes |
 | 7 | **AI Signal Benchmark** | 1st and 15th, 06:00 | live | Cloudflare KV, repo code | Benchmark output | Product pipeline, not personal ops |
-| 12 | **Charlotte Project Manager** (new 12 Sep) | Mon and Thu, 05:30 | **created but not yet functional — see below** | repo worlds/charlotte.md, Charlotte Timeline & Priorities (Notion), jonathan@charlotteproject.au, Charlotte calendar, Todoist | Notion tracker (writes state, not reports) | Backward-plans every sprint milestone against today's date, maintains a ranked active priority list, feeds the Morning Chief of Staff |
+| 12 | **Charlotte Project Manager** (rebuilt 13 Sep on real PM discipline) | Mon and Thu, 05:30 | **created but not yet functional — see below** | repo worlds/charlotte.md, Charlotte Timeline & Priorities (Notion: Objectives/Milestones/Priorities/RAID log/Decision log/Action register), jonathan@charlotteproject.au, Charlotte calendar, Todoist | Notion tracker (writes state, not reports) | Backward-plans every milestone, runs a RAID log + decision log + action register, reports one RAG status, feeds the Morning Chief of Staff |
 | 8 | Donna — Processor (hourly) | hourly | **deleted 9 Sep** | | | Superseded by #2; prompt kept in `routines/` |
 | 9 | Donna — End of Day (email) | daily 17:00 | **deleted 9 Sep** | | | Superseded by #3; prompt kept |
 | 10 | OPPO subscriber question drafter | every 4 h | **deleted 9 Sep** | | | Never ran; OPPO's own app handles replies; prompt kept |
@@ -154,6 +154,13 @@ row rather than a separate PM). Hold off on a standalone Breakthrough
 Strategies (consulting) PM — Donna, the Morning Chief of Staff and
 `client-time-tracker` already cover most of that ground; strengthen
 `consulting.md`'s deliverables detail first.
+
+**Rebuilt again 13 Sep 2026** after Jonathan pushed back that the first
+version tracked status without managing anything. Researched actual PM
+discipline (RAID logs, decision logs, action registers, RAG status
+reporting) and rebuilt the tracker and routine around it — see
+`agents/routines/charlotte-pm.md`'s "Design basis" section for what
+changed and why, with citations.
 
 ## 5. How to use this directory
 

@@ -19,6 +19,7 @@ kept current by agents, not by hand.
 | `people.md` | Weekly | Donna and the AAR propose new/changed people; Notion Contacts stays the CRM | New counterparty appears in meetings or mail |
 | `memory/log.md` | Every notable change | Claude Code sessions append; AAR proposes | Any decision that changes context |
 | `accounts.md` | Rarely | Jonathan; the morning scan reports against it | A mailbox or calendar is added or dropped |
+| `calendar-conventions.md` | Rarely | Jonathan drafted it 13 Sep 2026; Weekly AAR spot-checks compliance | A tag is added/retired, or a real trip disproves a travel estimate |
 | `../agents/` | When a routine changes | Claude Code session re-captures the prompt verbatim; Jonathan decides what runs | Any edit to a Cowork Routine |
 
 ## The loop
@@ -74,6 +75,20 @@ connectors has to be created from a session that already holds them
 (a Cowork session), or have them attached by hand afterward in the
 claude.ai Routines UI. Note it here so the next per-project PM doesn't
 hit the same surprise.
+
+## Why calendar-conventions.md isn't a "Scheduler agent" (13 Sep 2026)
+
+Jonathan drafted a detailed calendar naming/tagging/travel-time
+convention and asked whether it needs its own agent. It doesn't: it's a
+standing rule ("when you create an event, do X"), applied at the moment
+any agent or session creates or edits one — the same shape as
+`communication-style.md` governing tone without needing a "Writer
+agent." Giving it its own scheduled routine would mean a fifth clock
+checking the same calendars the Morning Chief of Staff and the Charlotte
+PM already read, recreating the exact overlap the 9 Sep cleanup fixed.
+The one genuinely periodic part — auditing past events for drift from
+the convention — is folded into the Weekly AAR's existing drift check
+instead of a new one.
 
 ## Rule
 

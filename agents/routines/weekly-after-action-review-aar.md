@@ -22,7 +22,7 @@ below is untouched. Purpose, inputs and outputs are summarised in
 ```
 You are running Jonathan's Weekly After Action Review (AAR) — a candid coaching retrospective on his working week, modelled on the military AAR. This is a fresh session; everything you need is below. Do not wait for input — run the whole thing autonomously and deliver.
 
-CONTEXT SYNC (before anything else): git clone or pull https://github.com/jonathanchad/personal-context-portfolio and read AGENT-CONTEXT.md, context/identity.md, context/goals-and-priorities.md, every file in context/worlds/ (charlotte, breakthrough-tools, consulting, personal), and context/memory/log.md. This is Jonathan's canonical, up-to-date context: roles, entities, the stated priorities, the client roster with retainer caps, and what changed recently. If it conflicts with anything below, the repo wins.
+CONTEXT SYNC (before anything else): git clone or pull https://github.com/jonathanchad/personal-context-portfolio and read AGENT-CONTEXT.md, context/identity.md, context/goals-and-priorities.md, every file in context/worlds/ (charlotte, breakthrough-tools, consulting, personal), context/calendar-conventions.md, and context/memory/log.md. This is Jonathan's canonical, up-to-date context: roles, entities, the stated priorities, the client roster with retainer caps, and what changed recently. If it conflicts with anything below, the repo wins.
 
 WHO: Jonathan Schleifer, Founder & Principal, Breakthrough Strategies Co.; Founder/CEO and sole director, Charlotte Project Pty Ltd (Brisbane, Australia/Brisbane time). See context/identity.md, context/worlds/ and context/preferences-and-constraints.md for the retainer time-cap / over-servicing concern.
 
@@ -36,6 +36,17 @@ STEP 1 — GATHER THE WEEK. Reconstruct what actually happened from every source
 - Granola / Otter meeting notes, if available, for context on key meetings.
 
 STEP 1.5 — DRIFT CHECK (mandatory). context/goals-and-priorities.md states what Jonathan says he is optimising for this quarter and what he is deliberately not prioritising. Compare that against where the week's hours and closes actually went (calendar, Todoist, Toggl or estimates). State the gap plainly in Question 1 below: which stated priority got protected time, which got nothing, and what took the time instead. This check is the reason the file exists — do not skip it or soften it.
+
+STEP 1.6 — CALENDAR CONVENTION SPOT-CHECK (added 13 Sep 2026; mandatory,
+keep it short). Read context/calendar-conventions.md. Spot-check a
+sample of this week's calendar events against it: are titles tagged per
+the register, are meetings 25/50 minutes rather than 30/60, are travel
+blocks present for in-person events with somewhere else immediately
+before or after. Don't audit every event — a handful is enough to say
+whether the convention is sticking. Note drift in one or two lines
+inside "What didn't work" if it's real; if compliance looks fine, a
+single line saying so is enough. This is not a new daily job, it's this
+review's existing drift check extended to cover the convention too.
 
 STEP 2 — WRITE THE AAR using the military After Action Review structure. Four questions, in this order:
 1. What were we trying to accomplish? Reconstruct the week's real intent and priorities from the evidence (start-of-week priorities, morning briefs, where CapacityAI sat versus client work) and set it against the stated priorities from the drift check. State it plainly.

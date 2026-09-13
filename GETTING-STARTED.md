@@ -6,15 +6,19 @@ Allianz watch, and the AI Signal benchmark. What remains is small.
 
 ## Fix before Monday: Charlotte Project Manager has no connectors
 
-Built 12 Sep as the pilot for per-project PMs (see
-`agents/routines/charlotte-pm.md`, `agents/README.md`). Its Notion
-tracker ("Charlotte Timeline & Priorities", under the Charlotte — Hub
-page) is seeded and ready. **The Cowork trigger itself
-(`trig_01JgLDQF5roRynHpNzHDtzty`, Mon/Thu 05:30 Brisbane, next fire
-Mon 14 Sep) has zero MCP connectors attached** — it was created from a
-Claude Code session that had none to pass through, and a follow-up
-update didn't fix it. As it stands it will fire Monday and fail with
-nothing to work with.
+Built 12 Sep as the pilot for per-project PMs, rebuilt 13 Sep on real
+PM discipline after Jonathan pushed back that v1 tracked status without
+managing anything (see `agents/routines/charlotte-pm.md`,
+`agents/README.md`). Its Notion tracker ("Charlotte Timeline &
+Priorities", under the Charlotte — Hub page) now runs a RAID log
+(Risks, Assumptions, Issues; Dependencies as free text), an append-only
+Decision log, an Action register with named owners and due dates, and a
+single "Charlotte overall status (RAG)" rollup — seeded and ready.
+**The Cowork trigger itself (`trig_01JgLDQF5roRynHpNzHDtzty`, Mon/Thu
+05:30 Brisbane, next fire Mon 14 Sep) has zero MCP connectors
+attached** — it was created from a Claude Code session that had none to
+pass through, and two follow-up updates (12 and 13 Sep) didn't fix it.
+As it stands it will fire Monday and fail with nothing to work with.
 
 **Fix, before Monday:** open the Routine in the claude.ai Routines UI
 and attach Notion, Superhuman_Mail, Google_Calendar, Todoist and Gmail —
@@ -50,8 +54,16 @@ happened.
    Monday leadership hour instead; does the Morning Chief of Staff
    actually lean on the tracker for Charlotte's priorities or keep
    re-deriving them from the mailbox; is the priority list staying short
-   (5-8 rows) rather than turning into a task list. See
-   `agents/routines/charlotte-pm.md`'s "Open questions" section.
+   (5-8 rows) rather than turning into a task list; does the RAG status
+   actually stay honest (recomputed with real evidence, not left on
+   whatever it was last); does "Owner: Jonathan" on most RAID rows
+   spread out once hiring closes. See `agents/routines/charlotte-pm.md`'s
+   "Open questions" section.
+4. **Calendar naming convention, adopted 13 Sep** (`context/calendar-
+   conventions.md`) — watch whether Claude sessions actually apply the
+   tag/duration/travel-block rules when creating events, and whether the
+   Weekly AAR's new spot-check (Step 1.6) catches real drift or just
+   says "looks fine" every week without checking hard enough to matter.
 
 ## Next build: daily audio, rebuilt from scratch (session to be scheduled)
 
