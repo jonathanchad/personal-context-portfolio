@@ -11,7 +11,7 @@ then refactor shared logic into `context/`.
 | # | Routine | Schedule (Brisbane) | Status | Reads | Writes | Job in one line |
 |---|---|---|---|---|---|---|
 | 1 | **Morning Chief of Staff** (rebuilt 9 Sep, was "Morning brief") | weekdays 06:00 | live | repo incl. accounts.md, all 8 registered mailboxes via Superhuman, 7 Google Calendars, Todoist, Charlotte Timeline & Priorities (Notion) | HTML artifact | Scans every mailbox and calendar, reports what it checked and what's clear, 7-day look-ahead, 1-3 moves for open blocks |
-| 2 | **Donna — Processor v2** | weekdays 10:00 to 18:00, 2-hourly | live | repo, Granola, Otter, Calendar, Gmail, Notion, Todoist | Todoist tasks, Gmail drafts, Notion Donna Log and Run History | Meeting notes into commitments and follow-up drafts |
+| 2 | **Donna — Processor v2** (importance gate added 13 Sep) | weekdays 10:00 to 18:00, 2-hourly | live | repo, Granola, Otter, Calendar, Gmail, Notion, Todoist | Todoist tasks (gated), Gmail drafts, Notion Donna Log and Run History (every extracted item, gated or not) | Meeting notes into commitments; only genuinely important ones become Todoist tasks, everything is logged either way |
 | 3 | **Donna — End of Day (audio)** | daily 18:15 | **retired 9 Sep; rebuild from scratch later** | repo, Todoist, Gmail, Notion, ElevenLabs | Todoist completions, Gmail draft with audio link, Notion Run History | Reconcile the day's loops and read a 90-second summary |
 | 4 | **Weekly AAR** | Saturday 06:00 | live | repo, Calendar, Todoist, Notion, Granola, Otter | Notion AAR db, email, proposed context updates | Blunt weekly retrospective, drift check against goals |
 | 5 | **Monthly Claude directions diff** | 1st, 14:00 | live | Notion Sessions db, Gmail, Calendar, Todoist | Report | Are the skills and standing instructions still what he actually does |
@@ -161,6 +161,19 @@ discipline (RAID logs, decision logs, action registers, RAG status
 reporting) and rebuilt the tracker and routine around it — see
 `agents/routines/charlotte-pm.md`'s "Design basis" section for what
 changed and why, with citations.
+
+**Does the Charlotte PM replace Donna? No — different jobs.** Jonathan
+asked, hoping the PM pattern could fix Donna's over-eager Todoist
+writing. It can't, directly: Donna extracts commitments from meeting
+notes (a transcription job, cross-cutting every world); the Charlotte
+PM backward-plans one project's timeline against its milestones (a
+judgement job, Charlotte-specific). What Donna actually needed was the
+same discipline the PM already has — an explicit bar before something
+earns a task rather than "everything mentioned becomes one" — so that
+got fixed directly in Donna's own prompt (Step 2.6, "The Importance
+Gate," 13 Sep): a task now needs to clear the same importance signals
+as everywhere else in this repo, or it's logged (never lost) but not
+put in front of Jonathan in Todoist.
 
 ## 5. How to use this directory
 

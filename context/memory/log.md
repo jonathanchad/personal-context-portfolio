@@ -2,6 +2,20 @@
 
 Newest first. Format: `YYYY-MM-DD — entry` with a source in brackets.
 
+- 2026-09-13 — **Donna's Todoist over-eagerness fixed; clarified it's not
+  a job the Charlotte PM absorbs.** Jonathan: Donna was "overzealous with
+  adding follow ups - important or not" to Todoist, hoping the new PM
+  pattern could fix or replace it. It can't directly — different jobs,
+  extraction vs backward-planning — but Donna needed the exact discipline
+  the PM already has: an importance bar before something earns a task.
+  Added Step 2.6 ("The Importance Gate") to
+  `agents/routines/donna-processor-v2-hardened-weekdays-2-hourly.md`
+  using the same importance signals as `accounts.md`: a task now needs a
+  real ask, deadline, external dependency or genuine consequence, not
+  just "was mentioned." Everything extracted still gets logged to the
+  Notion Donna Log regardless — nothing is lost, only Todoist noise is
+  cut. Pushed live. [this session]
+
 - 2026-09-13 — **Charlotte PM rebuilt on real PM discipline.** Jonathan
   pushed back that the first version (12 Sep) tracked status but didn't
   manage anything. Researched what a PM actually does (RAID logs,

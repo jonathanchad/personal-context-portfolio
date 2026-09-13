@@ -36,11 +36,48 @@ STEP 2 — For each NEW meeting: extract commitments, decisions and action items
 
 STEP 2.5 — CHECK GMAIL SENT BEFORE DRAFTING: for each of your own comms commitments, search Gmail Sent to the counterparty since the meeting date (across all three of Jonathan's addresses). If a relevant reply already exists (he may have replied via Granola or Gmail), DO NOT create a Gmail draft — note "Already replied (Gmail Sent) — likely closed" on the task. Only draft when no reply is found.
 
-STEP 3 — ACT (draft-only) for YOUR and SHARED commitments only. Create a Todoist task via add-tasks: concise actionable content; projectId per routing (Inbox if unknown); labels ["donna"] (add "donna-needs-routing" if unknown); set priority/dueString/deadlineDate/duration as classified; the description MUST include, each on its own line: "donna-key:granola:<id>", "From: <meeting title> (<date>)", "Why: <one line>", "Checklist: <sub-items>", "Confidence: <n>". If STEP 2.5 found no prior reply, make a best-effort Gmail draft for comms tasks (lead with a short bullet stub, then a full draft, using placeholders like [FEE] where info is missing). If the Gmail draft tool fails or is declined, append "Draft: pending (create manually)" to the task description and CONTINUE — do not abort and do not retry in a loop. External commitments and pure decisions: do not create a task.
+STEP 2.6 — THE IMPORTANCE GATE (added 13 Sep 2026; mandatory before
+STEP 3). Not every extracted commitment earns a Todoist task — only
+the ones that actually need tracking there. Jonathan's complaint: this
+routine was overzealous, adding follow-ups to Todoist whether or not
+they mattered. Priority (p1-p4) is metadata on a task you've already
+decided to create; it is not the decision itself. Before creating a
+task, check that at least one of these is true — the same importance
+signals used everywhere else in this repo (context/accounts.md):
+a direct question or request that needs an answer; someone external is
+waiting on this; an explicit deadline or date was stated in the
+meeting; money, invoices, tax or financial admin; legal or governance
+matters; a real project decision or dependency; anything that creates
+a genuine problem if it slips.
+
+If none of those hold — a passing mention with no clear ask, something
+that reads as a nice-to-have, anything with confidence below 0.5 and
+no explicit deadline — do NOT create a Todoist task. Still capture it
+in STEP 5's Notion log (lossless record either way); it just doesn't
+clutter Todoist. When genuinely unsure whether it clears the bar, don't
+create the task — a missed unimportant item costs nothing, a cluttered
+Todoist costs Jonathan's trust in the list, which is the whole failure
+mode being fixed here.
+
+STEP 3 — ACT (draft-only) for YOUR and SHARED commitments that cleared
+STEP 2.6's gate. Create a Todoist task via add-tasks: concise
+actionable content; projectId per routing (Inbox if unknown); labels
+["donna"] (add "donna-needs-routing" if unknown); set
+priority/dueString/deadlineDate/duration as classified; the description
+MUST include, each on its own line: "donna-key:granola:<id>", "From:
+<meeting title> (<date>)", "Why: <one line>", "Checklist:
+<sub-items>", "Confidence: <n>". If STEP 2.5 found no prior reply, make
+a best-effort Gmail draft for comms tasks (lead with a short bullet
+stub, then a full draft, using placeholders like [FEE] where info is
+missing). If the Gmail draft tool fails or is declined, append "Draft:
+pending (create manually)" to the task description and CONTINUE — do
+not abort and do not retry in a loop. External commitments, pure
+decisions, and anything STEP 2.6 gated out: do not create a task —
+STEP 5 still logs them.
 
 STEP 4 — MARK PROCESSED (mandatory, exactly once per NEW meeting, even if it produced zero tasks): add-tasks a marker with content "checkmark Donna processed: <title> — <date>", labels ["donna-processed"], and a description containing "donna-key:granola:<id>"; then complete-tasks that marker immediately. This marker is what prevents the meeting being reprocessed on the next run.
 
-STEP 5 — BEST-EFFORT NOTION (never block on this): if Notion is reachable, write one Donna Log page per surfaced item (data source 7cafcc7b-ede6-41a2-82be-57af5d6b41a8) and one Run History row (ed04d10a-a5ae-427a-b42d-ebff0de97482). If any Notion call fails, silently continue — the Todoist markers already guarantee correctness.
+STEP 5 — BEST-EFFORT NOTION (never block on this): if Notion is reachable, write one Donna Log page per item extracted in STEP 2 — every commitment, decision and action item, whether or not STEP 2.6 gated it into a Todoist task, and say in the page which it was (task created, or logged only and why) — (data source 7cafcc7b-ede6-41a2-82be-57af5d6b41a8) and one Run History row (ed04d10a-a5ae-427a-b42d-ebff0de97482). This log is the lossless record; the gate in STEP 2.6 only controls Todoist noise, never what gets remembered. If any Notion call fails, silently continue — the Todoist markers already guarantee correctness.
 
 HARD RULES: never create a task whose meeting key is already in PROCESSED; never send email; only ever complete your own "donna-processed" marker tasks (never complete a real work task); if one meeting errors, continue with the others. Running this prompt again must create ZERO new tasks for meetings already marked processed.
 ```
