@@ -2,6 +2,26 @@
 
 Newest first. Format: `YYYY-MM-DD — entry` with a source in brackets.
 
+- 2026-09-17 — **"Say it like it is" extended from headlines to body
+  copy.** Jonathan flagged "Rebecca Chew and Nicky each left comments
+  that need resolving before that drafting is worth anything" as
+  nonsense: "They literally can't draft it until the schedule is done, so
+  be specific. That reads like AI slop." Rewritten to name the actual
+  dependency (Nehal drafts from the schedule, so he cannot start while
+  comments are open) and the real sequence, which was already spelled out
+  in Nicky's own email. A second instance in the same brief — "sixty
+  minutes of comment-clearing unlocks the quarter" — replaced with the
+  payment consequence stated plainly.
+
+  This is the 10 Sep "drop the dramatic headline" note recurring one
+  layer down: the rule was read as applying to the headline only, and the
+  same register survived in the body. His emphasis on the fix: **the
+  brief is operational, so report the state of things and stop.** Added
+  an "Operational writing: say it like it is" section to
+  `communication-style.md` with the banned constructions listed, so the
+  rule binds body copy explicitly and future runs do not have to infer
+  it. [this session]
+
 - 2026-09-13 — **Donna's Todoist over-eagerness fixed; clarified it's not
   a job the Charlotte PM absorbs.** Jonathan: Donna was "overzealous with
   adding follow ups - important or not" to Todoist, hoping the new PM

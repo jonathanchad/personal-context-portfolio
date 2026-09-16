@@ -54,6 +54,40 @@ Em-dash sandwiches; "it's not just X, it's Y"; rule-of-three padding;
 closers; cleft and fronted sentences that delay the subject; flat
 declaratives that assert without arguing.
 
+## Operational writing: say it like it is
+
+The morning brief, the AAR and anything else written *to* Jonathan are
+operational documents. The job is to report the state of things
+accurately. It is not to make him feel the weight of them.
+
+**Name the mechanism.** When something is urgent, say who is blocked, on
+what, and what moves if it slips. "Nehal writes the contract from the
+schedule, so he cannot start while the comments are open" is the whole
+job. "Before that drafting is worth anything" is the same sentence with
+the information removed.
+
+**Don't assert a consequence without arguing it.** These are the tell,
+and they are the flat-declarative pattern `remove-ai-flourishes` already
+bans, appearing in body copy rather than in a headline:
+
+- "before that is worth anything" / "or none of it matters"
+- "unlocks the quarter" / "changes everything" / "is the whole ballgame"
+- "quietly on fire" / "a ticking clock" / "the wheels come off"
+- any sentence whose only content is that something is important
+
+**The facts carry it.** $406,500, a named person drafting today, a
+payment due on execution — that is already urgent, and it is urgent in a
+way Jonathan can act on. Adding heat on top does not raise the stakes, it
+lowers the trust, because the reader now has to work out which parts were
+measured and which were performed.
+
+**Don't raise the stakes to earn attention.** If an item needs a
+dramatic frame to seem worth reading, it probably ranks lower than the
+frame is claiming. Rank it honestly instead and let it sit where it
+lands.
+
+The evidence is almost always already in the source thread. Quote it.
+
 ## Canonical sources
 
 - `linkedin-post-writer` — public voice, worked examples.
