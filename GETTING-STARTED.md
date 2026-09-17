@@ -4,28 +4,35 @@ The structure is in place. Six routines read from it live: Morning Chief
 of Staff, Donna Processor v2, Weekly AAR, Monthly directions diff, the
 Allianz watch, and the AI Signal benchmark. What remains is small.
 
-## Fix before Monday: Charlotte Project Manager has no connectors
+## Fixed 17 Sep: Charlotte Project Manager now has connectors
 
 Built 12 Sep as the pilot for per-project PMs, rebuilt 13 Sep on real
 PM discipline after Jonathan pushed back that v1 tracked status without
 managing anything (see `agents/routines/charlotte-pm.md`,
 `agents/README.md`). Its Notion tracker ("Charlotte Timeline &
-Priorities", under the Charlotte — Hub page) now runs a RAID log
-(Risks, Assumptions, Issues; Dependencies as free text), an append-only
+Priorities", under the Charlotte — Hub page) runs a RAID log (Risks,
+Assumptions, Issues; Dependencies as free text), an append-only
 Decision log, an Action register with named owners and due dates, and a
-single "Charlotte overall status (RAG)" rollup — seeded and ready.
-**The Cowork trigger itself (`trig_01JgLDQF5roRynHpNzHDtzty`, Mon/Thu
-05:30 Brisbane, next fire Mon 14 Sep) has zero MCP connectors
-attached** — it was created from a Claude Code session that had none to
-pass through, and two follow-up updates (12 and 13 Sep) didn't fix it.
-As it stands it will fire Monday and fail with nothing to work with.
+single "Charlotte overall status (RAG)" rollup — seeded and ready. The
+trigger (`trig_01JgLDQF5roRynHpNzHDtzty`) had zero MCP connectors for
+five days (created from a Claude Code session with none to pass
+through; two API-side fixes didn't work). Jonathan attached them by
+hand in the Routines UI 17 Sep — confirmed via the API: Gmail, Notion,
+Granola, Google-Drive, Google-Calendar, Superhuman-Mail, Todoist,
+Resend, Xero. It's live for its next fire.
 
-**Fix, before Monday:** open the Routine in the claude.ai Routines UI
-and attach Notion, Superhuman_Mail, Google_Calendar, Todoist and Gmail —
-or ask a Cowork session (one that already holds those connectors, not a
-remote Claude Code session like this one) to attach them. See
-`context/maintenance.md`'s "Per-project PMs" section for why this
-happened.
+**New, flagged 17 Sep — two routines outside this repo's inventory,
+found while checking the fix above:**
+
+1. **"Check for Kiera's review (day 3)"** (`trig_01N9kagMTCy81UM1KS2myUym`)
+   has the identical zero-connector problem Charlotte PM just had —
+   enabled, but nothing to work with. Needs the same manual fix.
+2. **"Nura Fund reply check"** and **"Monthly billing reconstruction —
+   BTS"** exist and are fully connected, but neither is captured in
+   `agents/routines/` or `agents/README.md`'s inventory — they weren't
+   created in this session. Worth a "copy first" pass to capture their
+   prompts verbatim next time there's room for it, same as the original
+   9 Sep migration.
 
 ## Watch
 

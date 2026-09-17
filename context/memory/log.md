@@ -2,6 +2,21 @@
 
 Newest first. Format: `YYYY-MM-DD — entry` with a source in brackets.
 
+- 2026-09-17 — **Charlotte PM connectors fixed; two more untracked
+  routines found.** Jonathan attached Notion, Superhuman_Mail,
+  Google_Calendar, Todoist, Gmail (plus Granola, Google_Drive, Resend,
+  Xero) to the Charlotte Project Manager trigger by hand in the
+  claude.ai Routines UI, confirmed live via the API — it went 5 days
+  with zero connectors after two failed API-side fixes (9-13 Sep).
+  Checking it turned up three routines outside this repo's inventory,
+  not created in any session tracked here: "Check for Kiera's review
+  (day 3)" (same zero-connector bug — needs the same manual fix),
+  "Nura Fund reply check", and "Monthly billing reconstruction — BTS"
+  (both fully connected, just uncaptured). The zero-connector bug is
+  confirmed general, not specific to routines a Claude Code session
+  creates. [this session, per Jonathan: "check the routines UI for the
+  connectors"]
+
 - 2026-09-17 — **"Say it like it is" extended from headlines to body
   copy.** Jonathan flagged "Rebecca Chew and Nicky each left comments
   that need resolving before that drafting is worth anything" as

@@ -76,6 +76,18 @@ connectors has to be created from a session that already holds them
 claude.ai Routines UI. Note it here so the next per-project PM doesn't
 hit the same surprise.
 
+**Confirmed 17 Sep 2026: this isn't unique to routines this session
+created.** Checking Charlotte PM's fix turned up "Check for Kiera's
+review (day 3)" (`trig_01N9kagMTCy81UM1KS2myUym`) — a routine outside
+this repo's inventory, not created by this session — with the identical
+zero-connector problem: enabled, but nothing to reach. The bug is in
+however new triggers get created generally, not specific to the
+Claude-Code-session path. Same manual fix applies: attach connectors by
+hand in the Routines UI. Also found two other untracked, fully-connected
+routines ("Nura Fund reply check", "Monthly billing reconstruction —
+BTS") that need a "copy first" capture into `agents/routines/` at some
+point — see `GETTING-STARTED.md`.
+
 ## Why calendar-conventions.md isn't a "Scheduler agent" (13 Sep 2026)
 
 Jonathan drafted a detailed calendar naming/tagging/travel-time

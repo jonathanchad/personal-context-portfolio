@@ -17,7 +17,7 @@ then refactor shared logic into `context/`.
 | 5 | **Monthly Claude directions diff** | 1st, 14:00 | live | Notion Sessions db, Gmail, Calendar, Todoist | Report | Are the skills and standing instructions still what he actually does |
 | 6 | **Watch for Allianz reply** | daily 09:00 | live | Gmail personal (via Superhuman acting_email) | Report | One low-volume inbox, one thread, until the claim closes |
 | 7 | **AI Signal Benchmark** | 1st and 15th, 06:00 | live | Cloudflare KV, repo code | Benchmark output | Product pipeline, not personal ops |
-| 12 | **Charlotte Project Manager** (rebuilt 13 Sep on real PM discipline) | Mon and Thu, 05:30 | **created but not yet functional — see below** | repo worlds/charlotte.md, Charlotte Timeline & Priorities (Notion: Objectives/Milestones/Priorities/RAID log/Decision log/Action register), jonathan@charlotteproject.au, Charlotte calendar, Todoist | Notion tracker (writes state, not reports) | Backward-plans every milestone, runs a RAID log + decision log + action register, reports one RAG status, feeds the Morning Chief of Staff |
+| 12 | **Charlotte Project Manager** (rebuilt 13 Sep on real PM discipline) | Mon and Thu, 05:30 | live (connectors attached 17 Sep) | repo worlds/charlotte.md, Charlotte Timeline & Priorities (Notion: Objectives/Milestones/Priorities/RAID log/Decision log/Action register), jonathan@charlotteproject.au, Charlotte calendar, Todoist | Notion tracker (writes state, not reports) | Backward-plans every milestone, runs a RAID log + decision log + action register, reports one RAG status, feeds the Morning Chief of Staff |
 | 8 | Donna — Processor (hourly) | hourly | **deleted 9 Sep** | | | Superseded by #2; prompt kept in `routines/` |
 | 9 | Donna — End of Day (email) | daily 17:00 | **deleted 9 Sep** | | | Superseded by #3; prompt kept |
 | 10 | OPPO subscriber question drafter | every 4 h | **deleted 9 Sep** | | | Never ran; OPPO's own app handles replies; prompt kept |
@@ -135,18 +135,18 @@ milestone as its source of truth for Charlotte, instead of re-deriving
 Charlotte priority from the mailbox alone. Full design and prompt:
 `agents/routines/charlotte-pm.md`.
 
-**Not yet functional — needs a manual fix before its first run
-(Mon 14 Sep 05:30 Brisbane).** The Cowork trigger
+**Fixed 17 Sep.** The Cowork trigger
 (`trig_01JgLDQF5roRynHpNzHDtzty`) was created from a Claude Code session
-that holds no connector grants to pass through, so it stores zero MCP
-connectors — it can't reach Notion, Superhuman, the Charlotte calendar
-or Todoist yet. Same underlying limitation the account already worked
-around once for the Morning Chief of Staff, but this time it needs a
-direct fix: open the Routine in the claude.ai Routines UI and attach
-Notion, Superhuman_Mail, Google_Calendar, Todoist and Gmail, or ask
-Claude to do it from a session that already holds those connectors
-(a Cowork session, not this remote one). Until that's done the routine
-will fire and fail with nothing to work with.
+that holds no connector grants to pass through, so it stored zero MCP
+connectors for five days — it couldn't reach Notion, Superhuman, the
+Charlotte calendar or Todoist. Jonathan attached them by hand in the
+claude.ai Routines UI; confirmed live via the API: Gmail, Notion,
+Granola, Google-Drive, Google-Calendar, Superhuman-Mail, Todoist,
+Resend, Xero. Same underlying limitation the account already worked
+around once for the Morning Chief of Staff — see
+`context/maintenance.md`'s "Known limitation" note, which also now
+flags a second routine ("Check for Kiera's review (day 3)") hitting the
+identical zero-connector bug.
 
 **If this pattern earns its keep**: Breakthrough Tools next, as a
 portfolio variant (CapacityAI, AI Signal, Erso, OPPO each get a status
