@@ -13,18 +13,16 @@ and publishes/updates a private podcast RSS feed ("JCS Briefings",
 `~/.config/briefings/env` on the Mac, outside iCloud — never in this
 repo.
 
-**Likely supersedes the "rebuild the daily audio routine from scratch"
-item in `GETTING-STARTED.md`.** The session's `audio-briefing` skill
-description — "Turn any document... into a well-explained spoken
-briefing rendered with ElevenLabs and published to Jonathan's private
-podcast feed" — matches this script's job exactly. Not confirmed end
-to end from a cloud session (it can't run here — ElevenLabs and
-Supabase aren't reachable from the sandboxed environment, same
-constraint the script's own comment names for "the cloud workspace").
-**Needs Jonathan to confirm**: is this pipeline actually live and
-tested, does the `audio-briefing` skill call it or something else, and
-does the old End of Day audio rebuild agenda in `GETTING-STARTED.md`
-still apply or should it be retired in favour of this.
+**Confirmed 25 Sep: the pipeline works.** Jonathan confirmed there's a
+mock (test) episode already on the JCS Briefings feed — it has
+actually rendered, uploaded and published, not just been written.
+Against the daily-audio agenda in `GETTING-STARTED.md`, that proves
+steps 1-3 (vendor, bytes, delivery). Still open: a real script (step 4
+— nothing generates daily content for it yet), a schedule (step 5 —
+the `--inbox` watch mode exists but no routine feeds it), and actually
+switching it on (step 6). Still unconfirmed: whether this session's
+`audio-briefing` skill calls this exact script or a separate
+implementation of the same idea.
 
 See the script's own docstring for full usage. Not modified — copied
 verbatim.

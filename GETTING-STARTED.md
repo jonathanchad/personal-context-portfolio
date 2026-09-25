@@ -72,41 +72,26 @@ ever replied.
    Weekly AAR's new spot-check (Step 1.6) catches real drift or just
    says "looks fine" every week without checking hard enough to matter.
 
-## Daily audio — likely already solved, needs Jonathan to confirm
+## Daily audio — pipeline proven, content and schedule still open
 
-**Update, 25 Sep:** Jonathan supplied a working audio pipeline —
-`tools/briefings/publish_briefing.py` — that renders a script with
-ElevenLabs, uploads to Supabase Storage, and publishes a private
-podcast feed. This session's `audio-briefing` skill description
-matches its job description closely enough that it's likely the same
-pipeline, or calls it. See `tools/briefings/README.md`. This probably
-answers most of the agenda below (vendor decided: ElevenLabs REST +
-Supabase, not Fly.io; delivery proven: a podcast feed, arguably better
-than the Gmail-attachment or player-page options considered). Not
-confirmed end to end — can't run from a cloud session (needs Mac-local
-keys). **Before anyone works this agenda again: ask Jonathan whether
-this pipeline is live and tested, and whether it retires this whole
-section.**
+**Update, 25 Sep:** confirmed with Jonathan — there's a mock (test)
+episode already on the JCS Briefings feed. So the mechanics of
+`tools/briefings/publish_briefing.py` (see `tools/briefings/README.md`)
+are proven: it can render, upload and publish for real. Against the
+original 9 Sep agenda below, that closes steps 1-3. What's still open
+is 4-6 — there's no real daily content flowing into it yet, and no
+schedule or routine driving it.
 
-## Original agenda, 9 Sep (superseded above pending confirmation)
+**Remaining agenda:**
 
-Jonathan, 9 Sep: retire the old End of Day audio routine and rebuild it
-from scratch in a working session, verifying every link before it goes
-live. Walk in with this agenda:
-
-1. **Decide the vendor and the path.** ElevenLabs via the MCP connector
-   (works for generation, returns a hosted flow link, no mp3 bytes) or a
-   small Fly.io service with open egress (DailyDigest pattern; Fish Audio
-   or ElevenLabs REST). Fly.io is acceptable.
-2. **Prove the bytes.** One test run that produces an mp3 file we can
-   open, before any prompt is written.
-3. **Prove delivery.** Gmail draft with the mp3 attached, or a player
-   page the phone can open in one tap. Never a link that says "attached".
-4. **Then the script.** 90 seconds, spoken-friendly, one register,
-   reads the Processor's day from Notion Run History, not raw sources.
-5. **Then the schedule.** Weekday evenings only; confirm the time.
+4. **The script.** 90 seconds, spoken-friendly, one register, reads the
+   Processor's day from Notion Run History, not raw sources. Nothing
+   generates this yet — the mock episode is not this.
+5. **The schedule.** Weekday evenings only; confirm the time. The
+   script supports a `--inbox` watch mode via `launchd` on the Mac, but
+   no repo-tracked routine writes a script into that inbox yet.
 6. **Only then** switch it on, and capture the prompt into
-   `agents/routines/`.
+   `agents/routines/` — same "copy first" rule as everything else here.
 
 Old prompt, for reference: `agents/routines/donna-end-of-day-reconcile-audio-email.md`.
 

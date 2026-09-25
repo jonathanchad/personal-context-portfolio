@@ -2,6 +2,16 @@
 
 Newest first. Format: `YYYY-MM-DD — entry` with a source in brackets.
 
+- 2026-09-25 — **Daily audio pipeline confirmed working (mechanics
+  only).** Jonathan: "there's a mock episode on the briefings feed."
+  Confirms `tools/briefings/publish_briefing.py` actually renders,
+  uploads and publishes — not just written but proven. Against the
+  9 Sep daily-audio rebuild agenda in `GETTING-STARTED.md`, that closes
+  steps 1-3 (vendor, bytes, delivery). Steps 4-6 (a real daily script,
+  a schedule, switching it on) remain open — the mock episode is not
+  real content, and nothing feeds the pipeline's inbox-watch mode yet.
+  [this session]
+
 - 2026-09-25 — **`tools/briefings/` added: a working audio-publishing
   pipeline, possibly already answering the open "daily audio" rebuild.**
   Jonathan supplied `publish_briefing.py` and `cover.png` directly
