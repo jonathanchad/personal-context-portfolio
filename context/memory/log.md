@@ -2,6 +2,23 @@
 
 Newest first. Format: `YYYY-MM-DD — entry` with a source in brackets.
 
+- 2026-09-25 — **Two undocumented routines captured into the repo.**
+  "Nura Fund reply check" (daily, watches one Gmail thread for a
+  Meliore Foundation grant reply, USD $300k) and "Monthly billing
+  reconstruction — BTS" (monthly, sweeps six evidence sources to
+  reconstruct Jonathan's chronically under-recorded billable time into
+  an invoice-ready schedule) — both found 17 Sep, neither built by any
+  session this repo tracks. Captured verbatim per the standard "copy
+  first, refactor later" rule into `agents/routines/`, wired into
+  `agents/README.md` (rows 13-14) and `AGENT-CONTEXT.md`. Neither has
+  been reviewed for streamlining. Flagged in the billing routine's own
+  notes: it reads a `memory` project file this repo doesn't own, and
+  its prompt documents a real unresolved YSG billing-basis conflict
+  (Notion says $350/hr + $20k cap; a Google Drive budget sheet says
+  $1,000/day Phase 1 + $450/hr Phase 2 management) worth checking
+  against `worlds/consulting.md`. [this session, per Jonathan: "capture
+  the two undocumented routines into the repo"]
+
 - 2026-09-17 — **Charlotte PM connectors fixed; two more untracked
   routines found.** Jonathan attached Notion, Superhuman_Mail,
   Google_Calendar, Todoist, Gmail (plus Granola, Google_Drive, Resend,

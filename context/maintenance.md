@@ -83,10 +83,11 @@ this repo's inventory, not created by this session — with the identical
 zero-connector problem: enabled, but nothing to reach. The bug is in
 however new triggers get created generally, not specific to the
 Claude-Code-session path. Same manual fix applies: attach connectors by
-hand in the Routines UI. Also found two other untracked, fully-connected
+hand in the Routines UI — flagged 17 Sep, not yet confirmed done, see
+`GETTING-STARTED.md`. Also found two other untracked, fully-connected
 routines ("Nura Fund reply check", "Monthly billing reconstruction —
-BTS") that need a "copy first" capture into `agents/routines/` at some
-point — see `GETTING-STARTED.md`.
+BTS") — captured 25 Sep into `agents/routines/`, see
+`agents/README.md`.
 
 ## Why calendar-conventions.md isn't a "Scheduler agent" (13 Sep 2026)
 

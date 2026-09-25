@@ -1,38 +1,38 @@
 # Getting Started — what's still open
 
-The structure is in place. Six routines read from it live: Morning Chief
-of Staff, Donna Processor v2, Weekly AAR, Monthly directions diff, the
-Allianz watch, and the AI Signal benchmark. What remains is small.
+The structure is in place. See `agents/README.md` for the full,
+current routine inventory (14 entries as of 25 Sep, several deleted or
+retired) — this file only tracks what's still open.
 
-## Fixed 17 Sep: Charlotte Project Manager now has connectors
+## Open: Kiera's review reminder still needs connectors
 
-Built 12 Sep as the pilot for per-project PMs, rebuilt 13 Sep on real
-PM discipline after Jonathan pushed back that v1 tracked status without
-managing anything (see `agents/routines/charlotte-pm.md`,
-`agents/README.md`). Its Notion tracker ("Charlotte Timeline &
-Priorities", under the Charlotte — Hub page) runs a RAID log (Risks,
-Assumptions, Issues; Dependencies as free text), an append-only
-Decision log, an Action register with named owners and due dates, and a
-single "Charlotte overall status (RAG)" rollup — seeded and ready. The
-trigger (`trig_01JgLDQF5roRynHpNzHDtzty`) had zero MCP connectors for
-five days (created from a Claude Code session with none to pass
-through; two API-side fixes didn't work). Jonathan attached them by
-hand in the Routines UI 17 Sep — confirmed via the API: Gmail, Notion,
-Granola, Google-Drive, Google-Calendar, Superhuman-Mail, Todoist,
-Resend, Xero. It's live for its next fire.
+Zero-connector bug (see `context/maintenance.md`'s "Known limitation"
+note) also hit **"Check for Kiera's review (day 3)"**
+(`trig_01N9kagMTCy81UM1KS2myUym`) — a one-off AFAE-contract check-in,
+not a full routine, so it needs a much smaller fix than Charlotte PM
+did: just **Gmail** and **Superhuman_Mail** attached by hand in the
+Routines UI. Flagged 17 Sep, not yet confirmed done. Its last scheduled
+check is 22 Sep; if that's passed with no fix, the check-in chain has
+already silently died and someone needs to ask Jonathan whether Kiera
+ever replied.
 
-**New, flagged 17 Sep — two routines outside this repo's inventory,
-found while checking the fix above:**
+## Closed 17-25 Sep
 
-1. **"Check for Kiera's review (day 3)"** (`trig_01N9kagMTCy81UM1KS2myUym`)
-   has the identical zero-connector problem Charlotte PM just had —
-   enabled, but nothing to work with. Needs the same manual fix.
-2. **"Nura Fund reply check"** and **"Monthly billing reconstruction —
-   BTS"** exist and are fully connected, but neither is captured in
-   `agents/routines/` or `agents/README.md`'s inventory — they weren't
-   created in this session. Worth a "copy first" pass to capture their
-   prompts verbatim next time there's room for it, same as the original
-   9 Sep migration.
+- **Charlotte Project Manager's connectors**, fixed 17 Sep — five days
+  with zero connectors after two failed API-side attempts, resolved by
+  Jonathan attaching them by hand in the Routines UI. Confirmed live.
+  See `agents/README.md`.
+- **Two undocumented routines captured**, 25 Sep — "Nura Fund reply
+  check" and "Monthly billing reconstruction — BTS" existed, fully
+  connected, doing real work, with no record in this repo. Now captured
+  verbatim in `agents/routines/` per the standard "copy first" rule;
+  see `agents/README.md`'s inventory table (rows 13-14). Neither has
+  been reviewed for streamlining or overlap with anything else yet —
+  the billing reconstruction routine in particular reads a `memory`
+  project file this repo doesn't own
+  (`/projects/019d9b46-a3e0-74ca-b872-86d6feafe901/rate_card.md`) and
+  flags a real unresolved YSG billing-basis conflict worth checking
+  against `worlds/consulting.md`.
 
 ## Watch
 

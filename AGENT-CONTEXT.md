@@ -64,6 +64,8 @@ repo started from — reference only.
 | **Donna — Processor v2** (weekdays, 2-hourly) | identity, tools, preferences, worlds/consulting + charlotte | Todoist, Notion Donna Log / Run History |
 | **Donna — End of Day** | retired 9 Sep 2026; to be rebuilt from scratch with working audio, see `agents/README.md` | — |
 | **Weekly AAR** (Fridays) | identity, goals, worlds/*, memory/log | Notion AAR db; **proposes context updates** |
-| **Charlotte Project Manager** (Mon/Thu, new 12 Sep) | worlds/charlotte.md, Charlotte Timeline & Priorities (Notion), charlotteproject.au mailbox, Charlotte calendar, Todoist | Notion tracker (timeline status + active priority list); Morning CoS reads it. **Not yet functional — trigger has no connectors attached, see `agents/README.md`** |
+| **Charlotte Project Manager** (Mon/Thu, new 12 Sep) | worlds/charlotte.md, Charlotte Timeline & Priorities (Notion), charlotteproject.au mailbox, Charlotte calendar, Todoist | Notion tracker (RAID log, decision log, action register, RAG status); Morning CoS reads it |
+| **Nura Fund reply check** (daily, found 17 Sep — not this repo's build) | one Gmail/Superhuman thread (charlotteproject.au) | — (report only, noteworthy runs) |
+| **Monthly billing reconstruction — BTS** (2nd of month, found 17 Sep — not this repo's build) | Notion Sessions/Retainers/Donna Log, Granola, Otter, Calendar, Gmail, Todoist | Notion Sessions corrections; .xlsx schedule |
 
 Update the files here, not the routine prompts, when something changes.
