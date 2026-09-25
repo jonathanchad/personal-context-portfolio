@@ -84,14 +84,22 @@ schedule or routine driving it.
 
 **Remaining agenda:**
 
-4. **The script.** 90 seconds, spoken-friendly, one register, reads the
-   Processor's day from Notion Run History, not raw sources. Nothing
-   generates this yet — the mock episode is not this.
-5. **The schedule.** Weekday evenings only; confirm the time. The
-   script supports a `--inbox` watch mode via `launchd` on the Mac, but
-   no repo-tracked routine writes a script into that inbox yet.
-6. **Only then** switch it on, and capture the prompt into
-   `agents/routines/` — same "copy first" rule as everything else here.
+4. **The script — drafted 25 Sep**, not yet live. See
+   `agents/routines/donna-end-of-day-audio-script.md`. One correction
+   made while drafting: Run History turned out to be pure tallies
+   (meetings seen, tasks created — no content), so the routine actually
+   sources content from the **Donna Log** (the per-item commitment
+   data) and only uses Run History to confirm the day happened cleanly.
+   Two things this step surfaced as still unresolved and blocking:
+   - **No delivery bridge exists** from a cloud routine's output to the
+     Mac-local inbox folder `publish_briefing.py` watches. Drafted
+     routine falls back to a Gmail draft as an interim, manual step.
+   - **No voice ID is recorded anywhere** in this repo — needed before
+     any script can actually render.
+5. **The schedule.** Weekday evenings only; confirm the time. Still
+   open, and blocked on step 4's delivery bridge being resolved first.
+6. **Only then** switch it on — create the live trigger from the
+   drafted prompt, same "copy first" rule as everything else here.
 
 Old prompt, for reference: `agents/routines/donna-end-of-day-reconcile-audio-email.md`.
 

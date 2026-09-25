@@ -2,6 +2,21 @@
 
 Newest first. Format: `YYYY-MM-DD — entry` with a source in brackets.
 
+- 2026-09-25 — **Step 4 of the daily-audio agenda drafted: the actual
+  script.** `agents/routines/donna-end-of-day-audio-script.md`. Caught
+  and fixed a real problem in the original agenda while drafting: it
+  said to source from Notion Run History, but Run History's schema
+  turned out to be pure tallies (meetings seen, tasks created — no
+  content); a script built from that alone would violate the "say it
+  like it is" rule just added. Sources content from Donna Log instead
+  (per-item Commitment/Project/Counterparty/Owner/Priority data), uses
+  Run History only to confirm the day happened cleanly. Surfaced two
+  real blockers for step 5: no bridge exists from a cloud routine's
+  output to the Mac-local inbox folder `publish_briefing.py` watches
+  (falls back to a Gmail draft as an interim), and no ElevenLabs voice
+  ID is recorded anywhere in this repo. [this session, per Jonathan:
+  "write step 4's script"]
+
 - 2026-09-25 — **Weekly AAR moved to 05:00 Brisbane Saturday** (was
   06:00), changed by Jonathan directly in the Routines UI, not via this
   repo. Confirmed intentional: "I changed it because I want it ready
