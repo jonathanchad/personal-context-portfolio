@@ -2,6 +2,15 @@
 
 Newest first. Format: `YYYY-MM-DD — entry` with a source in brackets.
 
+- 2026-09-25 — **Weekly AAR moved to 05:00 Brisbane Saturday** (was
+  06:00), changed by Jonathan directly in the Routines UI, not via this
+  repo. Confirmed intentional: "I changed it because I want it ready
+  for when I get to the gym at 6 am my time." Flagged mid-session when
+  a routine check noticed the cron and `updated_at` had changed without
+  a record of why — resolved, not a bug. `agents/routines/
+  weekly-after-action-review-aar.md` frontmatter updated to match.
+  [this session]
+
 - 2026-09-25 — **Daily audio pipeline confirmed working (mechanics
   only).** Jonathan: "there's a mock episode on the briefings feed."
   Confirms `tools/briefings/publish_briefing.py` actually renders,

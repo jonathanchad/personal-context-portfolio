@@ -2,11 +2,11 @@
 name: "Weekly After Action Review (AAR)"
 trigger_id: trig_015CuVpwAUZ3HFf8Ww8KQFc8
 platform: Cowork Routine (Claude)
-schedule_utc: "0 20 * * 5"
-schedule_local: "Saturday 06:00 Brisbane"
+schedule_utc: "0 19 * * 5"
+schedule_local: "Saturday 05:00 Brisbane (moved from 06:00 by Jonathan, 25 Sep 2026)"
 enabled: true
 model: claude-opus-4-8
-last_run: 2026-09-04T20:04:15.713181975Z ROUTINE_RUN_STATUS_SUCCEEDED
+last_run: 2026-09-18T20:03:52.312898Z ROUTINE_RUN_STATUS_SUCCEEDED
 captured: 2026-09-09
 ---
 
@@ -16,6 +16,11 @@ Captured verbatim from the live Cowork Routine on 9 Sep 2026, per the
 migration rule: copy first, refactor later. Metadata above; the prompt
 below is untouched. Purpose, inputs and outputs are summarised in
 `agents/README.md`.
+
+**Schedule moved to 05:00 Brisbane, 25 Sep 2026** — Jonathan changed it
+directly in the Routines UI (not via this repo), so it's ready to read
+by the time he gets to the gym at 6am. Confirmed intentional after a
+mid-session check flagged the cron had changed without a repo record.
 
 ## Prompt (verbatim)
 
