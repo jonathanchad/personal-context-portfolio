@@ -28,3 +28,6 @@ still apply or should it be retired in favour of this.
 
 See the script's own docstring for full usage. Not modified — copied
 verbatim.
+
+**`cover.png`** replaced 25 Sep 2026 with a photo Jonathan supplied
+directly (converted from the uploaded .webp to PNG, 2000×2000, square).
