@@ -72,7 +72,23 @@ ever replied.
    Weekly AAR's new spot-check (Step 1.6) catches real drift or just
    says "looks fine" every week without checking hard enough to matter.
 
-## Next build: daily audio, rebuilt from scratch (session to be scheduled)
+## Daily audio — likely already solved, needs Jonathan to confirm
+
+**Update, 25 Sep:** Jonathan supplied a working audio pipeline —
+`tools/briefings/publish_briefing.py` — that renders a script with
+ElevenLabs, uploads to Supabase Storage, and publishes a private
+podcast feed. This session's `audio-briefing` skill description
+matches its job description closely enough that it's likely the same
+pipeline, or calls it. See `tools/briefings/README.md`. This probably
+answers most of the agenda below (vendor decided: ElevenLabs REST +
+Supabase, not Fly.io; delivery proven: a podcast feed, arguably better
+than the Gmail-attachment or player-page options considered). Not
+confirmed end to end — can't run from a cloud session (needs Mac-local
+keys). **Before anyone works this agenda again: ask Jonathan whether
+this pipeline is live and tested, and whether it retires this whole
+section.**
+
+## Original agenda, 9 Sep (superseded above pending confirmation)
 
 Jonathan, 9 Sep: retire the old End of Day audio routine and rebuild it
 from scratch in a working session, verifying every link before it goes

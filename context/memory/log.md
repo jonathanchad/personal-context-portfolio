@@ -2,6 +2,19 @@
 
 Newest first. Format: `YYYY-MM-DD — entry` with a source in brackets.
 
+- 2026-09-25 — **`tools/briefings/` added: a working audio-publishing
+  pipeline, possibly already answering the open "daily audio" rebuild.**
+  Jonathan supplied `publish_briefing.py` and `cover.png` directly
+  (they live on his Mac, unreachable from any cloud session). The
+  script renders a briefing script with ElevenLabs, uploads to Supabase
+  Storage, and publishes a private podcast feed — matches this
+  session's `audio-briefing` skill description closely enough that it's
+  likely the same pipeline. Copied verbatim, not modified. Flagged in
+  `GETTING-STARTED.md`: needs Jonathan to confirm it's live and tested
+  before the 9 Sep "rebuild from scratch" agenda is retired. [this
+  session, per Jonathan: "Create tools/briefings/ and copy
+  publish_briefing.py and cover.png... into it"]
+
 - 2026-09-25 — **Two undocumented routines captured into the repo.**
   "Nura Fund reply check" (daily, watches one Gmail thread for a
   Meliore Foundation grant reply, USD $300k) and "Monthly billing
