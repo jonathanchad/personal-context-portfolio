@@ -6,8 +6,8 @@ schedule_utc: "0 19 * * 5"
 schedule_local: "Saturday 05:00 Brisbane (moved from 06:00 by Jonathan, 25 Sep 2026)"
 enabled: true
 model: claude-opus-4-8
-last_run: 2026-09-25T19:04:11Z ROUTINE_RUN_STATUS_ABANDONED (fired 26 Sep at Jonathan's request, session cse_012hdigLbNUZzfS6yxX1bR17, outcome not yet known)
-captured: 2026-09-09; re-captured 26 Sep 2026 (drift found)
+last_run: 2026-09-26T23:07:51Z ROUTINE_RUN_STATUS_SUCCEEDED (re-fire, session session_012hdigLbNUZzfS6yxX1bR17 — confirmed via Notion: full AAR written and delivered, Step 4 spoken edition published, session logged Complete). The 25 Sep scheduled run (session cse_0...) remains the one that abandoned with zero tokens used.
+captured: 2026-09-09; re-captured 26 Sep 2026 (drift found); confirmed working 26 Sep 2026
 ---
 
 # Weekly After Action Review (AAR)
@@ -35,10 +35,27 @@ it was live and undetected. The prompt below is the real one, as of
 `GETTING-STARTED.md`'s daily-audio section both stated flatly that
 ElevenLabs/Supabase aren't reachable from a cloud session — Step 4's
 own text directly contradicts that ("ElevenLabs and the bts-operations
-Supabase project are on the network allowlist"). Both need correcting;
-see the memory log entry for 26 Sep. Whether Step 4 actually works is
-still unconfirmed — the 25 Sep run never got far enough to test it, and
-the 26 Sep re-fire's outcome wasn't known at the time of this capture.
+Supabase project are on the network allowlist"). Both corrected; see
+the memory log entries for 25-26 Sep.
+
+**Confirmed 26 Sep 2026 — Step 4 works.** The re-fire's Notion session
+log entry states plainly: "Delivered: Notion AAR running-log entry,
+spoken edition (full + short cut) rendered via ElevenLabs and published
+to the private podcast feed, and the emailed review," and its Key
+Decisions field notes "Audio published from the cloud via
+publish_briefing.py + bts-operations Supabase secrets." Likely
+explanation for why this works now when a same-day-earlier Notion
+session log entry (25 Sep, "Audio briefing pipeline") said the org
+network allowlist blocked ElevenLabs/Supabase from the cloud entirely:
+that entry's own "Next Actions" recommended adding
+`api.elevenlabs.io` and the Supabase project host to the allowlist
+specifically so scheduled cloud runs could publish — and the allowlist
+was evidently widened sometime in the next 24 hours. This does not
+explain the separate 25 Sep session-abandonment incident (zero tokens
+used, stalled at initialization, most likely the unrelated
+`Cloudflare_Developer_Platform` connector auth issue) — that was a
+session-startup failure, not an audio-pipeline failure, and it did not
+recur on this re-fire.
 
 **Schedule moved to 05:00 Brisbane, 25 Sep 2026** — Jonathan changed it
 directly in the Routines UI (not via this repo), so it's ready to read

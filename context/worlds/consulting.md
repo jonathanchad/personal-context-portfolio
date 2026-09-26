@@ -38,8 +38,9 @@ trail. Three kinds of counterparty, and agents must not blur them:
 
 | Client | What we do | Notes |
 |---|---|---|
-| **AFAE** (Australians for Affordable Energy) [2] | Jonathan holds the **Solar Sharer leadership role** and also **helps run operations**, because AFAE has no CEO or leadership team. ~10 hr/month retainer. Director **Margo Lockhart**; Comms Lead **Alex Linton** (alex@afae.net.au) | Over-servicing flagged in 3 consecutive AARs. INV-0012 $4,028.20 July, paid 15 Aug. Hire done, no further rounds |
+| **AFAE** (Australians for Affordable Energy) [2] | Jonathan holds the **Solar Sharer leadership role** and also **helps run operations**, because AFAE has no CEO or leadership team. ~10 hr/month retainer. Director **Margo Lockhart**; Comms Lead **Alex Linton** (alex@afae.net.au) | Over-servicing flagged in 4+ consecutive AARs (as of 26 Sep) — get the retainer cap checked before month-end. INV-0012 $4,028.20 July, paid 15 Aug. Hire done, no further rounds |
 | **JCN** (Jewish Climate Network) [4] | **CapacityAI subscription**, $495/month | INV-0001, 0007, 0013. Belongs to `breakthrough-tools.md` as a paying user; listed here so billing routes correctly |
+| **ACBF** (Australian Climate & Biodiversity Foundation) [9] | **OPPO customer, Campaign tier** — 2 seats, bespoke NSW/QLD pages, daily alerts, live and provisioned | Moved from Prospect 26 Sep 2026 (Weekly AAR). Final budget sign-off from their **Lyndon** still outstanding |
 | **Lock the Gate** [7] | Occasional work | INV-0003 $385 (2 Jul). Not a retainer |
 | **LAN** (Liberals Against Nuclear) [8] | Operations until shutdown. "Your billable wind-down." Statement of work overdue since early Aug | **Billed to CANA.** Barry Traill. LAN's techniques are the "proven techniques" pillar in the Charlotte pitch |
 
@@ -50,9 +51,9 @@ contract exists; none of these has one.
 
 | Org | Where it stands | Notes |
 |---|---|---|
-| **ACBF** (Australian Climate & Biodiversity Foundation) [9] | **OPPO at $3k/month.** Proposal sent 31 Aug, chased 4 Sep; "keen to sign up". Their hook: Senate disallowance vote 15 Sep | Marguerite Pettit, Dave Copeman, Olivia. Closest OPPO paying user |
 | **Sunrise** (The Sunrise Project) [10] | Asked for a Victorian election (28 Nov 2026) proposal including OPPO. Also partner and funder conversations | Notion row is "Sunrise Foundation" |
 | **Environment Victoria** [12] | OPPO report led the conversation. Owed the Charlotte overview and the AFAE JD | CEO Jonno La Nauze |
+| **CEC** and **Fortescue** (Louisa Ross) [added 26 Sep] | OPPO report recipients / prospects; Daniel Hurst (GSCC) and Louisa Ross (Fortescue) now on the OPPO daily brief | Weekly AAR, 26 Sep |
 | **Footy for Climate** [6] | Board fundraising training course wanted in the coming months. Board survey ran Aug 2026 | Lex Lynch (CEO). No invoice in 12 months |
 | **Independent Schools NSW** (ISNSW; Notion also has "AISNSW") [13] | Future course, 2027 | Two invoices paid May 2026. Emilia Wales |
 | **Together (ASU)** [26] | **CapacityAI prospect** | Alex Scott, Branch Secretary |
@@ -89,9 +90,9 @@ struck; treated as past until he says otherwise.
 
 ### Still open
 
-- Nura country assessment: was due end of August, not yet delivered.
-  Two steps left: send Dione the specific ALP points, then fill the
-  template for Mary.
+- Nura country assessment: was due end of August, still unsent as of
+  26 Sep (~4 weeks overdue) — named in three consecutive Weekly AARs
+  now. A Gmail draft is ready; it just needs sending.
 - Worksheet sections E and F (rulings, Notion approvals) were not in the
   scan; Notion status changes are listed in `GETTING-STARTED.md` and wait
   for a tick.

@@ -41,6 +41,8 @@ Worlds: **CH** Charlotte · **BT** Breakthrough Tools · **CO** Consulting ·
 | Grace McBride, Rochelle, Tess | **Sentiment Agency** — digital and campaign shop specialising in influencers | grace@sentiment.agency | Charlotte influencer workstream |
 | Tom Milledge | Milledge Studio, brand designer: Your Shout Gas brand identity (Phase 1 final invoice Apr 2026) and the Charlotte Project brand identity (estimate approved 19 Aug 2026) | tom@milledge.studio | |
 | Moira | Former PMO staffer (worked with Katie); introduced by Austin Phillips. **Potential Charlotte adviser** only; not on staff, nothing agreed | | Owed a measurement brief since 22 Jul |
+| Josh Hall (NSP Group) | **Headhunter engaged 26 Sep** for Charlotte's Data + Digital Director search | josh@nsp.group | New, Weekly AAR 26 Sep |
+| Adam Knobel (Australian Progress) | Operations/systems-hire conversation opened 26 Sep | | New, Weekly AAR 26 Sep. Distinct from "Katie's digital network" Adam Knobel row below — same person, two contexts |
 | Katie's digital network | Adam Knobel (Progress), Rob Flaherty (US digital), Austin Phillips (PMO digital), Georgia Kriz, Kate Ryan, Harry Nelly, Liz Bennett | | "Charlotte Draft outreach list" sheet, Jul 2026 — warm intros via Katie |
 | Global SMM network | Tom Lillywhite (UK), Ben Brandzel (OPEN), Sandor Madovy (Amplify:Good), Kevin Grandia (Canada), Ian Palmer (NZ), Gautam Raju (Movember), Mary Fitzgerald (CommsHub / Meliore) | | Thursday Social Media Meeting group (Notion Contacts) |
 | David Turnbull, Mary Fitzgerald | Climate Communications / Comms Hub (Meliore Foundation) | david.turnbull@climatecomms.org, mary.fitzgerald@climatecomms.org | Grant registration; Meliore is the prospective Diesel funder |
@@ -107,7 +109,7 @@ Freestone.
 | Environment Victoria | **Jonno La Nauze** (CEO), A. Merory | Notion: past client; active again Sep 2026 (OPPO report, Charlotte overview owed) |
 | 89 Degrees East | Alister Jordan (CEO), **Annie O'Rourke (Founder & Chief Creative Officer — confirmed via 89degreeseast.com, 9 Sep)**, Rebecca Huntley (Director of Research; advising Charlotte's evaluation design), Scott Gamble | **Polling and research firm Jonathan does research with; not a client** (worksheet 5 Sep). AI Signal measurement idea sits with their Sunrise work, Sunrise is the counterparty; investment roadmap for Charlotte |
 | Jewish Climate Network (JCN) | Basya Vorchheimer, Jarred | CapacityAI onboarding / demo (blocked on v4) |
-| Australian Climate & Biodiversity Foundation (ACBF) | Marguerite Pettit, Dave Copeman, Olivia (marguerite@ / dave@ / olivia@climatebiodiversity.org) | **OPPO proposal sent 31 Aug 2026**; keen to sign up; 15 Sep Senate disallowance vote is their hook |
+| Australian Climate & Biodiversity Foundation (ACBF) | Marguerite Pettit, Dave Copeman, Olivia (marguerite@ / dave@ / olivia@climatebiodiversity.org); **Lyndon** — holds final OPPO budget sign-off (new 26 Sep) | **OPPO customer, live** — Campaign tier, 2 seats, provisioned 26 Sep; only Lyndon's budget sign-off outstanding |
 | Footy for Climate | Alexi (Lex) Lynch (CEO), Caroline Duffield, Owen Kelly, Tom Campbell | **Pending**: board fundraising training wanted in coming months; board survey ran Aug 2026; FFC Contacts sheet is theirs |
 | Surfers for Climate | Rick, Josh, Ry, Caitlin | **Not a client**: they billed BTS $5,500 for a retreat (May 2026). Past |
 | 1 Million Women | Paula, Nat, Bree | **Past client**. CEO transition support, billed via Environmental Leadership Australia (ELA, Karen; INV-0005 $4,620 Jul 2026); team day 17 Dec still in the calendar |
@@ -150,5 +152,13 @@ Family is in `worlds/personal.md`, deliberately not here.
 
 ## Not yet placed
 
-Nothing as of 5 Sep 2026. New names arrive via Donna and the AAR's
-"Context updates" section.
+Surfaced by the 26 Sep Weekly AAR, not yet confirmed by Jonathan:
+
+- **"Victoria" (a person)** — recurring in hiring/recruitment context
+  ("Hiring process check-in with Victoria", 21 Sep). Looks like someone
+  helping run Charlotte's hiring/recruitment, distinct from Victoria the
+  state/election. Who is she, which world?
+- **Deon Savage** — appears in a completed task ("Send the Deon Savage
+  deck to the NDA and the root Victoria Plans"). Who, and which world?
+
+New names arrive via Donna and the AAR's "Context updates" section.

@@ -30,18 +30,30 @@ Supabase project are on the network allowlist." So the "runs on the
 Mac only" framing above is wrong for at least this environment — no
 delivery-bridge problem exists for a routine willing to pull its own
 keys from Supabase per-run instead of relying on a local
-`~/.config/briefings/env` file. **Whether this actually works is still
-unconfirmed** — the 25 Sep run never got far enough to reach Step 4
-(it stalled and was abandoned before doing anything), and a re-fire
-was in progress when this was written.
+`~/.config/briefings/env` file.
+
+**Confirmed 26 Sep 2026: it works.** The re-fired AAR's Notion session
+log entry states "spoken edition (full + short cut) rendered via
+ElevenLabs and published to the private podcast feed," with the Key
+Decisions field crediting "publish_briefing.py + bts-operations
+Supabase secrets" run from the cloud. Likely explanation for the
+contradiction: an earlier Notion session log entry (25 Sep, "Audio
+briefing pipeline") recorded the org network allowlist as blocking
+ElevenLabs/Supabase from the cloud entirely, and recommended adding
+`api.elevenlabs.io` and the Supabase project host to it precisely so
+scheduled cloud runs could publish. That was evidently done sometime
+in the next day — the AAR's Step 4 text (written after that change)
+assumes the allowlist is open, and the 26 Sep run proves it is.
 
 **What this means for the daily-audio agenda in
-`GETTING-STARTED.md`:** the "no delivery bridge" blocker on step 5 may
-already be solved, by copying this same cloud-side pattern rather than
-inventing a new one. Still unconfirmed whether this session's
-`audio-briefing` skill calls this exact script or a separate
-implementation of the same idea — worth checking once Step 4's success
-is confirmed.
+`GETTING-STARTED.md`:** the "no delivery bridge" blocker on step 5 is
+solved — copy this same cloud-side pattern (pull keys from
+`public.jcs_secrets` on Supabase project `ihosjunvapgjuajoezak`, run
+`publish_briefing.py` in-session) into
+`agents/routines/donna-end-of-day-audio-script.md` instead of its
+current Gmail-draft interim. Still worth checking whether this
+session's `audio-briefing` skill calls this exact script or a separate
+implementation of the same idea.
 
 See the script's own docstring for full usage. Not modified — copied
 verbatim.

@@ -82,19 +82,17 @@ original 9 Sep agenda below, that closes steps 1-3. What's still open
 is 4-6 — there's no real daily content flowing into it yet, and no
 schedule or routine driving it.
 
-**Correction, 26 Sep — the "no delivery bridge" blocker may already be
-solved, just not where this file could see it.** Investigating why the
-Weekly AAR hadn't produced anything, `fire_trigger` surfaced its actual
-live prompt: a "STEP 4" section, never captured in this repo until
-today, that runs `publish_briefing.py` **from inside the cloud
-session** — pulling ElevenLabs/Supabase keys from a Supabase table per
-run instead of a local Mac env file. See
+**Correction, 26 Sep — the "no delivery bridge" blocker is solved.**
+Investigating why the Weekly AAR hadn't produced anything, `fire_trigger`
+surfaced its actual live prompt: a "STEP 4" section, never captured in
+this repo until then, that runs `publish_briefing.py` **from inside the
+cloud session** — pulling ElevenLabs/Supabase keys from a Supabase table
+per run instead of a local Mac env file. See
 `agents/routines/weekly-after-action-review-aar.md` and
-`tools/briefings/README.md`. If that pattern actually works (still
-unconfirmed as of this writing — the run that would have proven it
-stalled before reaching Step 4, see the "Open: investigate" item
-below), the end-of-day script drafted below should copy it rather than
-fall back to a Gmail draft.
+`tools/briefings/README.md`. **Confirmed working same day**: the 26 Sep
+re-fire's spoken edition (full + short cut) actually rendered and
+published to the feed. The end-of-day script drafted below should copy
+this pattern instead of its current Gmail-draft fallback.
 
 **Remaining agenda:**
 
@@ -105,9 +103,13 @@ fall back to a Gmail draft.
    sources content from the **Donna Log** (the per-item commitment
    data) and only uses Run History to confirm the day happened cleanly.
    Two things this step surfaced as still unresolved and blocking:
-   - **Delivery bridge** — drafted with a Gmail-draft fallback; revisit
-     against the AAR's cloud-side Supabase-secrets pattern above once
-     that's confirmed working.
+   - **Delivery bridge** — drafted with a Gmail-draft fallback; now that
+     the AAR's cloud-side Supabase-secrets pattern is confirmed working
+     (see above), rewrite this routine's Step 6 to use it instead —
+     copy `publish_briefing.py`/`cover.png` into `~/briefings/`, pull
+     keys from `public.jcs_secrets` on Supabase project
+     `ihosjunvapgjuajoezak`, run the script in-session — rather than
+     drafting an email.
    - **No voice ID is recorded anywhere** in this repo — needed before
      any script can actually render.
 5. **The schedule.** Weekday evenings only; confirm the time. Still
@@ -117,24 +119,27 @@ fall back to a Gmail draft.
 
 Old prompt, for reference: `agents/routines/donna-end-of-day-reconcile-audio-email.md`.
 
-## Open: investigate why the 25 Sep Weekly AAR produced nothing
+## Closed 26 Sep: the 25 Sep Weekly AAR produced nothing
 
-Fired 26 Sep at Jonathan's request as a diagnostic
-(`trig_015CuVpwAUZ3HFf8Ww8KQFc8`, new session
-`cse_012hdigLbNUZzfS6yxX1bR17`) — outcome not yet known as of this
-writing. The 25 Sep scheduled run fired correctly (matching the new
-05:00 Brisbane time) but the resulting session was abandoned with zero
-tokens used, roughly a minute after creation. Leading hypothesis: this
-session has repeatedly been told the `Cloudflare_Developer_Platform`
-connector needs re-authorization and can't complete that OAuth flow
-unattended; the AAR trigger has that connector attached (almost
-certainly inherited automatically, not something the AAR uses), and an
-unattended session trying to initialize with an unauthorized connector
-attached could stall exactly like this. **Needs Jonathan to
-re-authorize that connector in claude.ai's connector settings** — only
-he can do that. Check the 26 Sep re-fire's outcome next session; if it
-stalled the same way, that's further evidence; if it succeeded, this
-was likely transient and can be closed.
+Fired again 26 Sep at Jonathan's request as a diagnostic
+(`trig_015CuVpwAUZ3HFf8Ww8KQFc8`, session
+`session_012hdigLbNUZzfS6yxX1bR17`) — **confirmed successful**: a new
+"Weekly AAR — week ending 26 September 2026" entry landed in the
+Notion running log, the Cowork session log recorded it Complete
+("Delivered: Notion AAR running-log entry, spoken edition (full +
+short cut) rendered via ElevenLabs and published to the private
+podcast feed, and the emailed review"), and its context updates have
+been applied across `context/worlds/` and `context/memory/log.md`.
+
+The 25 Sep scheduled run (a separate, earlier session) had fired
+correctly at the new 05:00 Brisbane time but was abandoned with zero
+tokens used about a minute in. Leading hypothesis at the time: the
+`Cloudflare_Developer_Platform` connector needing re-authorization was
+stalling session initialization. The 26 Sep re-fire did not stall the
+same way, so this looks like a transient platform issue rather than a
+persistent block — but Jonathan should still re-authorize that
+connector in claude.ai's connector settings when convenient, since the
+same stall could recur on any unattended run.
 
 ## Smaller follow-ons noted in `agents/README.md`
 

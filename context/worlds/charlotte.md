@@ -100,6 +100,13 @@ overhead.
 - **Advisers:** Rebecca Huntley (89 Degrees East) on evaluation design;
   decision pending on whether 89DE runs the research. Legal: Kiera Peacock
   (Ripple Legal), Sam Loff (HSF Kramer).
+- **Update, 26 Sep 2026 (Weekly AAR):** the 30 Nov team deliverable moved
+  from stalled to live. **Josh Hall (NSP Group)** engaged as headhunter
+  for the Data + Digital Director search; board recruitment underway;
+  an operations/systems-hire conversation opened with **Adam Knobel**
+  (Australian Progress). Jonathan delegated the outreach he'd been
+  sitting on since July rather than doing it himself — see the AAR's
+  "non-obvious strength" note in `context/memory/log.md`.
 
 ## Live risks
 
@@ -132,6 +139,9 @@ Full directory in `../people.md`. Key roles (resolved 5 Sep 2026):
 
 ## Where things live
 
+- Charlotte deck moved to private, device-limited links
+  (deck-secure.charlotteproject.au) with a 7-day access window, 26 Sep
+  2026; 19 inactive viewers locked out.
 - Notion: **Charlotte — Hub** (all active documents), **Charlotte
   Intelligence Briefs** (database), **Charlotte Knowledge Bank — Findings**
   (database), **Charlotte Project Pty Ltd — Entity Details** (facts for forms),

@@ -2,6 +2,52 @@
 
 Newest first. Format: `YYYY-MM-DD — entry` with a source in brackets.
 
+- 2026-09-26 — **Weekly AAR re-fire confirmed successful; first
+  confirmed cloud-side audio publish.** Checked the re-fire
+  (`session_012hdigLbNUZzfS6yxX1bR17`) against Notion: a new "Weekly
+  AAR — week ending 26 September 2026" entry landed in the running log,
+  the Cowork session log recorded it Complete, and — resolving the
+  "still unconfirmed" note from earlier the same day — its spoken
+  edition (full + short cut) actually rendered via ElevenLabs and
+  published to the private podcast feed from inside the cloud session.
+  Likely explanation for the earlier contradiction: a same-day-earlier
+  session log entry ("Audio briefing pipeline", 25 Sep) recorded the
+  org network allowlist as blocking ElevenLabs/Supabase from the cloud
+  and recommended opening it for scheduled runs; that was evidently
+  done within the next day. Applied the AAR's own "Context updates"
+  section to the repo (see below); `agents/routines/weekly-after-
+  action-review-aar.md`, `tools/briefings/README.md` and
+  `GETTING-STARTED.md` all updated to reflect the confirmed working
+  state. The 25 Sep run's zero-token abandonment remains unexplained
+  in detail but did not recur — treated as likely transient
+  (Cloudflare connector auth remains the leading guess); Jonathan
+  should still re-authorize `Cloudflare_Developer_Platform` when
+  convenient. [this session]
+- 2026-09-26 — **Weekly AAR, week ending 26 Sep (first on the new
+  Saturday cadence).** Best-aimed week in a while: hours went to
+  Charlotte's #1 dated deliverable rather than being decided by the
+  calendar. Josh Hall (NSP Group) engaged as headhunter for the Data +
+  Digital Director search; board recruitment underway; ops/systems-hire
+  conversation opened with Adam Knobel (Australian Progress). OPPO
+  landed its first live paying customer — ACBF, Campaign tier, 2 seats
+  — pending final budget sign-off from their Lyndon. Non-obvious
+  strength named: Jonathan delegated the hiring outreach he'd been
+  sitting on since July instead of doing it himself.
+  Misses: Nura country assessment to Mary Fitzgerald still unsent,
+  ~4 weeks overdue, named in three consecutive AARs now; a 100+-item
+  Saturday Todoist backlog-clear cleared the list but CapacityAI's 16
+  shipped features (PR #205) are still invisible to JCN (flags off,
+  client email still a draft) — "ticked" isn't "shipped"; AFAE
+  over-serviced a 4th+ consecutive week; the OPPO Meta ad-sweep token
+  expired 24-25 Sep and its replacement expires ~24 Nov, inside the Pan
+  Pacs/pre-Vic-election window. One change: redefine "done" as "the
+  other side has it." Calendar-convention spot-check: mostly holding;
+  the 25/50-minute default slipped to 30 on a few internal meetings.
+  Toggl unreachable this run (no local Chrome session on an unattended
+  cloud run) — hours are estimates. Unresolved names flagged for
+  `people.md`: "Victoria" (a person, distinct from the state), Deon
+  Savage. [Weekly AAR, 26 Sep]
+
 - 2026-09-26 — **Real drift caught: the live Weekly AAR prompt had a
   whole section this repo never captured.** Jonathan: "the AR just got
   pushed [18 Sep] ... why hasn't this week's AR been triggered yet, no

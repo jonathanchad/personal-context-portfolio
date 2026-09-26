@@ -29,20 +29,39 @@ should not propose Erso pitches or Erso build work as a route to revenue.
 ## Current state (as of late Aug 2026)
 
 - **CapacityAI** — JCN (Basya Vorchheimer, Jarred) is a paying client;
-  onboarding done Jul 2026. The stated primary, but for several
-  consecutive weeks it "got nothing". Open blocker: evidence-integrity-rules v4, gating the
-  JCN demo, carried untouched for 3+ weeks as of 8 Aug.
+  onboarding done Jul 2026. **Update, 26 Sep:** Basya's 16 features
+  shipped to production (PR #205) — but this is a build milestone, not
+  a delivery one: JCN's feature flags are still off and the client
+  email announcing it is still a Gmail draft, so none of it is visible
+  to JCN yet. The Weekly AAR calls this out by name: "built" got ticked,
+  "live for the client" didn't. Flip the flags and send the email before
+  counting this as done.
 - **AI Signal** — went from dormant/zero revenue to ~AUD 30k of scoped
   measurement work around 89 Degrees East's Sunrise campaign (Scott
   Gamble, Annie O'Rourke; 89DE itself is **not a client**, Sunrise would
   be the payer) by offering to
   *measure* whether their Sunrise work lands, rather than pitching software.
+  **Update, 26 Sep:** pivoted to per-purpose crawler-access measurement
+  after a Cloudflare change (15 Sep); added a free all-org monitor;
+  corrected 11 orgs' reports (including Climate Council) that had been
+  wrongly showing as AI-blocked.
 - **OPPO** — led with an OPPO report (not a demo) to Environment Victoria.
-  **ACBF**: proposal at **$3k/month** sent 31 Aug 2026, chased 4 Sep; they
-  said they are keen to sign up; their deadline hook is the 15 Sep Senate disallowance
-  vote. **Sunrise**: asked for a Victorian election proposal that
-  includes OPPO. **Together (ASU)** is a CapacityAI prospect (Alex Scott).
-  Two live routes to the OPPO target.
+  **ACBF is now a live paying customer** — see `consulting.md`'s current
+  clients table; Campaign tier, 2 seats, provisioned, pending final
+  budget sign-off from their Lyndon. This is the first real revenue
+  against the OPPO target. **Sunrise**: asked for a Victorian election
+  proposal that includes OPPO. **Together (ASU)** is a CapacityAI
+  prospect (Alex Scott). CEC and Fortescue (Louisa Ross) added as
+  report recipients/prospects; Daniel Hurst (GSCC) and Louisa Ross now
+  on the OPPO daily brief. Build, 26 Sep: all 162,686 ads fully
+  analysed; the in-brief report generator shipped; an off-topic-brief
+  output gate and a real-database CI (84 migrations) went in.
+  **Risk:** the Meta ad-sweep token expired 24–25 Sep (sweeps failed);
+  the replacement also expires ~24 Nov — inside the Pan Pacs fortnight
+  and just before the 28 Nov Victorian election. The permanent fix (a
+  non-expiring System User token) is written up as a task but still
+  open; do it before it becomes a race-week outage on a product that
+  now has paying customers.
 
 ## Go-to-market pattern (Jonathan's own, from the AAR)
 
