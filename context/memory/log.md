@@ -2,6 +2,34 @@
 
 Newest first. Format: `YYYY-MM-DD — entry` with a source in brackets.
 
+- 2026-09-26 — **Real drift caught: the live Weekly AAR prompt had a
+  whole section this repo never captured.** Jonathan: "the AR just got
+  pushed [18 Sep] ... why hasn't this week's AR been triggered yet, no
+  podcast, nothing." Investigation found the 25 Sep scheduled run (its
+  new 05:00 Brisbane slot) fired correctly but the resulting session
+  was abandoned with zero tokens used about a minute after creation —
+  leading hypothesis is the `Cloudflare_Developer_Platform` connector's
+  expired auth stalling an unattended session at initialization (this
+  session has been told repeatedly today it needs re-authorization and
+  can't do that OAuth flow itself). Jonathan asked to fire it again as
+  a diagnostic; done (`cse_012hdigLbNUZzfS6yxX1bR17`), outcome not yet
+  known. **Separately, and more significant**: `fire_trigger`'s
+  response surfaced the AAR's actual current live prompt, which
+  includes a full "STEP 4 — SPOKEN EDITION TO THE PODCAST FEED" section
+  never recorded anywhere in this repo — it publishes the AAR as audio
+  from inside the cloud session itself, pulling ElevenLabs/Supabase
+  keys from a Supabase table per run. Someone edited this routine
+  directly in the Routines UI, same as the schedule change, and it
+  never made it back here. Re-captured the real prompt into
+  `agents/routines/weekly-after-action-review-aar.md`; corrected the
+  now-wrong "cloud sessions can't reach ElevenLabs/Supabase" claim in
+  `tools/briefings/README.md` and the daily-audio section of
+  `GETTING-STARTED.md`, since Step 4's own text says otherwise for this
+  environment. Jonathan asked directly whether his mental model (one
+  repo, single source of truth, informing all sessions) still holds —
+  answered honestly: no, not fully, this is exactly that kind of drift,
+  caught in the act. [this session]
+
 - 2026-09-25 — **Step 4 of the daily-audio agenda drafted: the actual
   script.** `agents/routines/donna-end-of-day-audio-script.md`. Caught
   and fixed a real problem in the original agenda while drafting: it

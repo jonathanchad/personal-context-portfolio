@@ -6,16 +6,39 @@ schedule_utc: "0 19 * * 5"
 schedule_local: "Saturday 05:00 Brisbane (moved from 06:00 by Jonathan, 25 Sep 2026)"
 enabled: true
 model: claude-opus-4-8
-last_run: 2026-09-18T20:03:52.312898Z ROUTINE_RUN_STATUS_SUCCEEDED
-captured: 2026-09-09
+last_run: 2026-09-25T19:04:11Z ROUTINE_RUN_STATUS_ABANDONED (fired 26 Sep at Jonathan's request, session cse_012hdigLbNUZzfS6yxX1bR17, outcome not yet known)
+captured: 2026-09-09; re-captured 26 Sep 2026 (drift found)
 ---
 
 # Weekly After Action Review (AAR)
 
 Captured verbatim from the live Cowork Routine on 9 Sep 2026, per the
-migration rule: copy first, refactor later. Metadata above; the prompt
-below is untouched. Purpose, inputs and outputs are summarised in
-`agents/README.md`.
+migration rule: copy first, refactor later.
+
+**Re-captured 26 Sep 2026 — real drift found.** Investigating why the
+25 Sep run produced nothing (it fired but the session was abandoned
+with zero tokens used, likely stalled on the Cloudflare_Developer_Platform
+connector's expired auth — see `context/memory/log.md`), a manual
+`fire_trigger` call returned the routine's actual current live prompt,
+and it was NOT what this file had on record. A full "STEP 4 — SPOKEN
+EDITION TO THE PODCAST FEED" section exists live that was never
+captured here: it publishes the AAR as audio **from the cloud
+session itself** (not Jonathan's Mac), pulling secrets from a
+Supabase table and running `publish_briefing.py` in-session. Someone
+edited this routine directly in the Routines UI — the same way the
+05:00 schedule change happened — and it never made it back into this
+repo. This is exactly the drift this whole repo exists to prevent, and
+it was live and undetected. The prompt below is the real one, as of
+26 Sep. Purpose, inputs and outputs are summarised in `agents/README.md`.
+
+**What this changes:** `tools/briefings/README.md` and
+`GETTING-STARTED.md`'s daily-audio section both stated flatly that
+ElevenLabs/Supabase aren't reachable from a cloud session — Step 4's
+own text directly contradicts that ("ElevenLabs and the bts-operations
+Supabase project are on the network allowlist"). Both need correcting;
+see the memory log entry for 26 Sep. Whether Step 4 actually works is
+still unconfirmed — the 25 Sep run never got far enough to test it, and
+the 26 Sep re-fire's outcome wasn't known at the time of this capture.
 
 **Schedule moved to 05:00 Brisbane, 25 Sep 2026** — Jonathan changed it
 directly in the Routines UI (not via this repo), so it's ready to read
@@ -68,4 +91,10 @@ STEP 3 — DELIVER THE WRITTEN AAR (two places, both required):
 STEP 3.5 — CONTEXT UPDATES (mandatory; goes at the end of the written AAR in both places). A short section headed "Context updates" listing concrete edits the week implies for the repo, each as one line naming the file and the change: a client or retainer that started/ended or changed cap (context/worlds/consulting.md); a hire, funder decision or workstream change (context/worlds/charlotte.md); a product status change, blocker cleared or sale (context/worlds/breakthrough-tools.md); a priority that should change (context/goals-and-priorities.md); and 1–3 dated entries for context/memory/log.md recording decisions that changed the picture. Also name any person or shorthand you encountered that context/ doesn't yet explain. This run cannot push to git; Jonathan or the next Claude Code session applies these. If nothing changed, say "No context updates this week." Never invent a change to fill the section.
 
 If you cannot reach any data sources at all, still produce the AAR from whatever context you have and clearly flag what was missing so Jonathan can judge the gaps.
+
+STEP 4 — SPOKEN EDITION TO THE PODCAST FEED (mandatory; do this AFTER the written AAR is finalised in Notion, BEFORE the final email message). Jonathan listens to this in the gym at 6am Saturday, so it must be on the feed by then.
+(a) Load the `audio-briefing` skill and follow its "Writing for the ear" rules and "Weekly AAR shape" exactly. Rewrite the finalised written AAR as an ear-script: 8–10 minutes (1,300–1,600 words), spoken prose only, numbers and dates as words, pronunciation lexicon applied, no URLs, no em-dashes, cold open that names the week and the length, counted signposts, the blunt coaching voice unchanged. Drop the context updates, sources note and Toggl caveat from the audio. Add a `## SHORT CUT` section of about 90 seconds: verdict, the one change, the Monday list. Front matter: title "Weekly AAR, week ending <D Month>", a one-line summary, source = the Notion entry URL, slug `<YYYY-MM-DD>-weekly-aar`.
+(b) Publish from this cloud session (ElevenLabs and the bts-operations Supabase project are on the network allowlist): copy `tools/briefings/publish_briefing.py` and `tools/briefings/cover.png` from the cloned repo into `~/briefings/`; with the Supabase connector run `select name, value from public.jcs_secrets;` on project `ihosjunvapgjuajoezak` and write the rows to `~/.config/briefings/env` as KEY=value lines (chmod 600) — never print the values; save the ear-script to `~/briefings/scripts/<slug>.md`; run `cd ~/briefings && python3 publish_briefing.py --script scripts/<slug>.md 2>&1 | sed 's/sb_secret_[A-Za-z0-9_]*/<key>/g'`. It prints the episode URLs.
+(c) If the script is missing from the repo, or ElevenLabs or Supabase cannot be reached, say so in one line at the top of the final email and skip the audio. Never render with a device or built-in voice; never send an ElevenLabs flow link for this run.
+(d) In the final email message, put the two episode links (full review and short cut) at the very top under the heading, before the written AAR. Also log the run in the Notion Sessions database as usual.
 ```

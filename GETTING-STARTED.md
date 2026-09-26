@@ -82,6 +82,20 @@ original 9 Sep agenda below, that closes steps 1-3. What's still open
 is 4-6 — there's no real daily content flowing into it yet, and no
 schedule or routine driving it.
 
+**Correction, 26 Sep — the "no delivery bridge" blocker may already be
+solved, just not where this file could see it.** Investigating why the
+Weekly AAR hadn't produced anything, `fire_trigger` surfaced its actual
+live prompt: a "STEP 4" section, never captured in this repo until
+today, that runs `publish_briefing.py` **from inside the cloud
+session** — pulling ElevenLabs/Supabase keys from a Supabase table per
+run instead of a local Mac env file. See
+`agents/routines/weekly-after-action-review-aar.md` and
+`tools/briefings/README.md`. If that pattern actually works (still
+unconfirmed as of this writing — the run that would have proven it
+stalled before reaching Step 4, see the "Open: investigate" item
+below), the end-of-day script drafted below should copy it rather than
+fall back to a Gmail draft.
+
 **Remaining agenda:**
 
 4. **The script — drafted 25 Sep**, not yet live. See
@@ -91,17 +105,36 @@ schedule or routine driving it.
    sources content from the **Donna Log** (the per-item commitment
    data) and only uses Run History to confirm the day happened cleanly.
    Two things this step surfaced as still unresolved and blocking:
-   - **No delivery bridge exists** from a cloud routine's output to the
-     Mac-local inbox folder `publish_briefing.py` watches. Drafted
-     routine falls back to a Gmail draft as an interim, manual step.
+   - **Delivery bridge** — drafted with a Gmail-draft fallback; revisit
+     against the AAR's cloud-side Supabase-secrets pattern above once
+     that's confirmed working.
    - **No voice ID is recorded anywhere** in this repo — needed before
      any script can actually render.
 5. **The schedule.** Weekday evenings only; confirm the time. Still
-   open, and blocked on step 4's delivery bridge being resolved first.
+   open.
 6. **Only then** switch it on — create the live trigger from the
    drafted prompt, same "copy first" rule as everything else here.
 
 Old prompt, for reference: `agents/routines/donna-end-of-day-reconcile-audio-email.md`.
+
+## Open: investigate why the 25 Sep Weekly AAR produced nothing
+
+Fired 26 Sep at Jonathan's request as a diagnostic
+(`trig_015CuVpwAUZ3HFf8Ww8KQFc8`, new session
+`cse_012hdigLbNUZzfS6yxX1bR17`) — outcome not yet known as of this
+writing. The 25 Sep scheduled run fired correctly (matching the new
+05:00 Brisbane time) but the resulting session was abandoned with zero
+tokens used, roughly a minute after creation. Leading hypothesis: this
+session has repeatedly been told the `Cloudflare_Developer_Platform`
+connector needs re-authorization and can't complete that OAuth flow
+unattended; the AAR trigger has that connector attached (almost
+certainly inherited automatically, not something the AAR uses), and an
+unattended session trying to initialize with an unauthorized connector
+attached could stall exactly like this. **Needs Jonathan to
+re-authorize that connector in claude.ai's connector settings** — only
+he can do that. Check the 26 Sep re-fire's outcome next session; if it
+stalled the same way, that's further evidence; if it succeeded, this
+was likely transient and can be closed.
 
 ## Smaller follow-ons noted in `agents/README.md`
 
