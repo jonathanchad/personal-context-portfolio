@@ -2,6 +2,20 @@
 
 Newest first. Format: `YYYY-MM-DD — entry` with a source in brackets.
 
+- 2026-09-27 — **Built Context Desk**, a browser page for editing
+  `context/` and `agents/routines/` without opening a Claude Code
+  session first — Jonathan asked for "an interface where I can more
+  easily edit the various pieces of this shared tooling." Live at
+  https://claude.ai/artifact/5baN9qbUMPt6AjfTsSjRFM, seeded with all 32
+  current files. Wanted direct GitHub commits from the page but found
+  no GitHub connector on Jonathan's claude.ai account (only the
+  separate Claude GitHub App that Claude Code sessions use, which isn't
+  reachable from a published Artifact) — so edits save as drafts in the
+  page's own store and reach the repo when a Claude Code session is
+  asked to sync. Documented in `tools/context-desk/README.md`,
+  including the upgrade path to direct commits if a GitHub connector
+  becomes available later. [this session]
+
 - 2026-09-26 — **Weekly AAR re-fire confirmed successful; first
   confirmed cloud-side audio publish.** Checked the re-fire
   (`session_012hdigLbNUZzfS6yxX1bR17`) against Notion: a new "Weekly

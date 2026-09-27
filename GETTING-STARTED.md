@@ -4,6 +4,16 @@ The structure is in place. See `agents/README.md` for the full,
 current routine inventory (14 entries as of 25 Sep, several deleted or
 retired) — this file only tracks what's still open.
 
+## Open: Context Desk syncs manually, not automatically
+
+`tools/context-desk/README.md` — a browser page for editing `context/`
+and `agents/routines/` (https://claude.ai/artifact/5baN9qbUMPt6AjfTsSjRFM).
+Built 27 Sep 2026 because a direct-GitHub-commit design needs a GitHub
+connector on Jonathan's claude.ai account, which doesn't exist yet.
+Edits save as drafts; someone has to ask a Claude Code session to
+"sync context edits" before they reach the repo. Revisit if a GitHub
+connector becomes available — see the README for the upgrade path.
+
 ## Open: Kiera's review reminder still needs connectors
 
 Zero-connector bug (see `context/maintenance.md`'s "Known limitation"
