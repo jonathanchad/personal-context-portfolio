@@ -2,6 +2,23 @@
 
 Newest first. Format: `YYYY-MM-DD — entry` with a source in brackets.
 
+- 2026-09-27 — **Rebuilt Context Desk as a task-oriented "friendly
+  frontend," not a file browser.** After asking for a plain-language,
+  bullet-only summary of voice/identity/projects in chat (and liking
+  it), Jonathan asked for that as an actual page: "a page I can go to
+  whenever I need to add a project, update my voice." Restructured
+  https://claude.ai/artifact/5baN9qbUMPt6AjfTsSjRFM around three tabs —
+  Projects (cards for each `context/worlds/*.md`, with an "Add a
+  project" form that creates a new world file), Voice
+  (`communication-style.md`), Identity (`identity.md`) — each file
+  parsed into editable plain-text sections with markdown stripped;
+  tables and code blocks stay read-only since other automations depend
+  on their exact structure (e.g. charlotte-pm.md reads Charlotte's
+  deliverables table). The old raw file browser survives as an "All
+  files" tab for anything the friendly view doesn't cover. Documented
+  in `tools/context-desk/README.md`, including that editing a section
+  now flattens its formatting to plain text by design. [this session]
+
 - 2026-09-27 — **Built Context Desk**, a browser page for editing
   `context/` and `agents/routines/` without opening a Claude Code
   session first — Jonathan asked for "an interface where I can more

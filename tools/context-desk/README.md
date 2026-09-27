@@ -9,6 +9,43 @@ to Jonathan). A Claude Artifact page — browse and edit every file under
 `context/` and `agents/routines/` from a phone or laptop browser, no
 Claude Code session required to *read* or *draft* an edit.
 
+**Rebuilt same day, v2 → v3.** v1 was a raw markdown file browser
+(sidebar + textarea). Jonathan asked for something friendlier — "in
+natural language, see how you were set up... all the markup and
+technical stuff is a distraction" — then, after a plain-language chat
+summary landed well, asked for that as an actual page: "a friendly
+frontend to the .mds... a page I can go to whenever I need to add a
+project, update my voice." v3 restructures the whole page around that:
+
+- **Projects, Voice, Identity** tabs — task-oriented, not file-oriented.
+  Projects lists `context/worlds/*.md` as cards with a description and
+  an "Add a project" button that creates a new world file from a small
+  form (name + one-line description). Voice and Identity open
+  `context/communication-style.md` and `context/identity.md` directly.
+- Files aren't rendered as markdown source in these tabs — they're
+  parsed into **sections** (see `parseFile`/`makeSection` in the page's
+  own script) and each section is shown as either an editable list of
+  plain-text bullets (frontmatter-free markup stripped — `**bold**`,
+  backticks and `[link](url)` syntax are removed on display) or an
+  editable paragraph. A section containing a markdown table or a fenced
+  code block is shown rendered but **read-only**, with a note pointing
+  at "All files" or at just asking Claude — those are precise records
+  (Charlotte's deliverables table, a routine's actual prompt) that other
+  automations depend on, and a generic bullet-flattener would corrupt
+  them.
+- **Editing a section flattens its formatting to plain text.** This is
+  deliberate, not a bug: Jonathan explicitly said markup is a
+  distraction he doesn't want back. Sections nobody touches are
+  byte-identical on save; only touched sections lose their `**bold**`.
+- **All files** — the old v1/v2 file browser (sidebar, search, grouped
+  by Context/Worlds/Memory/Routines, Read/Edit toggle) still exists
+  behind this tab, unchanged, as the fallback for anything the friendly
+  tabs don't cover (routines, the memory log, tables, precise edits).
+- **"Add a project" creates a brand-new database document**, not just
+  an edit to an existing one (`db.doc("files/"+id).set(...)`). The sync
+  procedure below now needs to handle that: a pending doc may name a
+  path that doesn't exist in the repo yet.
+
 ## Why it isn't a direct-commit tool (yet)
 
 The obvious design — the page calls the GitHub API straight from the
@@ -59,6 +96,10 @@ Any Claude Code session working on this repo, when asked to sync:
    `collection: "files"`, `query: {"where": [["pending", "eq", true]]}`.
 2. For each returned doc: `Write` its `data.content` to `data.path` in
    this repo (the path is relative to the repo root, exactly as stored).
+   The file may not exist yet (a new project created via "Add a
+   project") — that's fine, `Write` creates it; no special-casing
+   needed beyond making sure the parent directory exists (it will,
+   for anything under `context/worlds/`).
 3. `git add` those paths, commit, push — same as any other repo change.
 4. Once pushed, `ArtifactData` → `action: "batch"` with one `update` per
    synced doc: `{pending: false, updatedAt: "<push time, ISO>"}`. Pin
